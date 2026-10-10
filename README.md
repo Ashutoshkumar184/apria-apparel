@@ -91,4 +91,3 @@ Attach persistent storage at `/app/data`; hosted container filesystems can be te
 ## Before launch
 
 Replace sample product descriptions, specifications, prices, and stock images with APRIA's actual products; enter verified size/colour stock; set the official WhatsApp number; and add real business contact and privacy details. Prices are indicative catalogue prices; bulk pricing is confirmed after enquiry. The portal supports manual fulfilment updates and payment visibility. It does not process refunds, send notifications, or connect to a shipping provider.
-

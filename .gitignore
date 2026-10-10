@@ -1,0 +1,13 @@
+node_modules/
+data/
+.env
+.env.*
+!.env.example
+.DS_Store
+work/
+.pnpm-store/
+.pnpm-cache/
+.wrangler/
+.wrangler-profile/
+outputs/
+*.log

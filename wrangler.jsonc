@@ -1,0 +1,27 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "apria-apparel",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-23",
+  "workers_dev": true,
+  "triggers": {
+    "crons": ["*/5 * * * *"]
+  },
+  "assets": {
+    "directory": "./public/",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*", "/admin", "/admin/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "apria",
+      "database_id": "c5fa99a8-8a7e-4ae9-8c04-edf907a1b9c1",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "vars": {
+    "WHATSAPP_NUMBER": "917888329606",
+    "SHIPPING_FEE_PAISE": "0"
+  }
+}

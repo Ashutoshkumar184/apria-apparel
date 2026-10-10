@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#101713">
+  <meta name="description" content="Private APRIA operations portal.">
+  <title>APRIA Studio — Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/admin.css">
+  <script src="/admin.js" defer></script>
+</head>
+<body class="admin-body">
+  <a class="admin-skip" href="#admin-main">Skip to portal content</a>
+  <div class="admin-shell">
+    <header class="admin-topbar">
+      <a class="admin-brand" href="/" aria-label="APRIA storefront">APRIA<span>®</span><small>GARMENT STUDIO / ADMIN</small></a>
+      <div class="admin-top-actions"><a class="storefront-link" href="/">View storefront ↗</a><span id="admin-user-chip" class="admin-user-chip" hidden></span><button id="admin-logout" class="quiet-button" type="button" hidden>Sign out</button></div>
+    </header>
+
+    <main id="admin-main">
+      <section id="auth-panel" class="auth-panel" aria-labelledby="auth-title">
+        <div class="auth-intro"><span class="admin-kicker">PRIVATE OPERATIONS</span><h1 id="auth-title">Your studio,<br>in good order<span>.</span></h1><p id="auth-description">Sign in to review customer requests, orders, stock, and the APRIA catalogue.</p></div>
+        <form id="login-form" class="admin-form" hidden><h2>Owner & team sign in</h2><label>Email address<input name="email" type="email" autocomplete="username" required maxlength="200"></label><label>Password<input name="password" type="password" autocomplete="current-password" required maxlength="128"></label><button class="admin-primary" type="submit">Sign in <span aria-hidden="true">↗</span></button><p class="admin-status" role="status" aria-live="polite"></p></form>
+        <form id="setup-form" class="admin-form" hidden><h2>Create the owner account</h2><p class="muted">Use the one-time setup code configured in the server environment. Create a strong password with at least 12 characters.</p><label>One-time setup code<input name="setupToken" type="password" autocomplete="one-time-code" required></label><label>Your name<input name="name" autocomplete="name" required maxlength="100"></label><label>Owner email<input name="email" type="email" autocomplete="email" required maxlength="200"></label><label>Password<input name="password" type="password" autocomplete="new-password" minlength="12" required maxlength="128"></label><button class="admin-primary" type="submit">Create owner account <span aria-hidden="true">↗</span></button><p class="admin-status" role="status" aria-live="polite"></p></form>
+      </section>
+
+      <section id="password-panel" class="auth-panel password-panel" hidden aria-labelledby="password-title"><div class="auth-intro"><span class="admin-kicker">FIRST SIGN IN</span><h1 id="password-title">Set a private<br>password<span>.</span></h1><p>Your temporary password must be replaced before you can use the portal.</p></div><form id="password-form" class="admin-form"><h2>Choose your password</h2><label>Temporary password<input name="currentPassword" type="password" autocomplete="current-password" required></label><label>New password<input name="newPassword" type="password" autocomplete="new-password" minlength="12" required maxlength="128"></label><button class="admin-primary" type="submit">Save new password <span aria-hidden="true">↗</span></button><p class="admin-status" role="status" aria-live="polite"></p></form></section>
+
+      <section id="portal" class="portal" hidden>
+        <aside class="admin-sidebar" aria-label="Portal sections"><div class="sidebar-label">STUDIO DESK</div><nav id="admin-nav"><button type="button" data-view="overview" class="active" aria-current="page"><span>01</span> Overview</button><button type="button" data-view="requests"><span>02</span> Requests <b id="nav-request-count">0</b></button><button type="button" data-view="orders"><span>03</span> Orders & payments</button><button type="button" data-view="catalog" data-owner-only><span>04</span> Catalogue & stock</button><button type="button" data-view="team" data-owner-only><span>05</span> Team access</button><button type="button" data-view="settings" data-owner-only><span>06</span> Shop settings</button><button type="button" data-view="activity"><span>07</span> Activity</button></nav><div class="sidebar-note"><span class="signal-dot" aria-hidden="true"></span><span>Private APRIA workspace</span></div></aside>
+
+        <div class="admin-content">
+          <div id="portal-message" class="portal-message" role="status" aria-live="polite" hidden></div>
+          <section class="admin-view" data-panel="overview"></section>
+          <section class="admin-view" data-panel="requests" hidden></section>
+          <section class="admin-view" data-panel="orders" hidden></section>
+          <section class="admin-view" data-panel="catalog" hidden></section>
+          <section class="admin-view" data-panel="team" hidden></section>
+          <section class="admin-view" data-panel="settings" hidden></section>
+          <section class="admin-view" data-panel="activity" hidden></section>
+        </div>
+      </section>
+    </main>
+    <footer class="admin-footer"><span>APRIA / PRIVATE OPERATIONS</span><span><a href="/">Return to storefront ↗</a></span></footer>
+  </div>
+  <dialog id="secret-dialog" class="secret-dialog" aria-labelledby="secret-title"><button class="dialog-x" type="button" data-close-secret aria-label="Close">×</button><div class="admin-kicker">SHARE PRIVATELY</div><h2 id="secret-title">Temporary password</h2><p>This password is shown once. Share it with the team member using a private channel.</p><code id="temporary-secret"></code><button class="admin-primary" type="button" data-copy-secret>Copy password</button><p class="admin-status" id="secret-status" role="status" aria-live="polite"></p></dialog>
+</body>
+</html>
