@@ -5,6 +5,7 @@ const ENQUIRY_STATES = ['new', 'in_progress', 'quoted', 'won', 'closed'];
 const REQUEST_STATES = ['new', 'contacted', 'converted', 'closed'];
 const FULFILLMENT_STATES = ['unfulfilled', 'processing', 'shipped', 'delivered', 'cancelled'];
 const DEFAULT_WHATSAPP_NUMBER = '917888329606';
+const PASSWORD_HASH_ITERATIONS = 100000;
 
 function clean(value, max = 500) { return typeof value === 'string' ? value.trim().slice(0, max) : ''; }
 function json(status, data, headers = {}) { return Response.json(data, { status, headers: { 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', ...headers } }); }
@@ -13,18 +14,18 @@ function randomToken(length = 32) { const bytes = new Uint8Array(length); crypto
 async function sha256(value) { return b64url(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(value))); }
 async function passwordHash(password) {
   const salt = randomToken(16), key = await crypto.subtle.importKey('raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveBits']);
-  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations: 210000, hash: 'SHA-256' }, key, 256);
-  return `pbkdf2$210000$${salt}$${b64url(bits)}`;
+  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations: PASSWORD_HASH_ITERATIONS, hash: 'SHA-256' }, key, 256);
+  return `pbkdf2$${PASSWORD_HASH_ITERATIONS}$${salt}$${b64url(bits)}`;
 }
 async function passwordMatches(password, encoded) {
   const [kind, rounds, salt, expected] = String(encoded || '').split('$');
-  if (kind !== 'pbkdf2' || Number(rounds) !== 210000 || !salt || !expected) return false;
-  const actual = await passwordHashFromSalt(password, salt);
+  if (kind !== 'pbkdf2' || Number(rounds) !== PASSWORD_HASH_ITERATIONS || !salt || !expected) return false;
+  const actual = await passwordHashFromSalt(password, salt, PASSWORD_HASH_ITERATIONS);
   return timingSafeEqual(actual, expected);
 }
-async function passwordHashFromSalt(password, salt) {
+async function passwordHashFromSalt(password, salt, iterations) {
   const key = await crypto.subtle.importKey('raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveBits']);
-  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations: 210000, hash: 'SHA-256' }, key, 256);
+  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations, hash: 'SHA-256' }, key, 256);
   return b64url(bits);
 }
 function timingSafeEqual(a, b) {
