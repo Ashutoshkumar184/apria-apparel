@@ -1,257 +1,430 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×O}í:-jZ.¶›­–)Þ³V6öç7BDTdTÅEõt„E4ôåTÔ$U"Òs“sƒƒƒ3#“cbs°¦6öç7B&VDÆ—7BÒ†¶W’’Óâ°¢G'’²6öç7BfÇVRÒ¥4ôâç'6R†Æö6Å7F÷&vRævWD—FVÒ†¶W’’ÇÂuµÒr“²&WGW&â'&’æ—4'&’‡fÇVR’òfÇVR¢µÓ²Ð¢6F6‚²&WGW&âµÓ²Ð§Ó°¦6öç7Bf&–çD¶W’Ò†—FVÒ’ÓâG¶—FVÒæ–G×ÂG¶—FVÒç6—¦RÇÂrw×ÂG¶—FVÒæ6öÆ÷"ÇÂrwÖ°¦6öç7B7FFRÒ°¢&öGV7G3¢µÒÂf–ÇFW#¢tÆÂrÂVW'“¢rrÂ6÷'C¢vfVGW&VBrÂ6fVDöæÇ“¢fÇ6RÀ¢ff÷&—FW3¢æWr6WB‡&VDÆ—7B‚v&–Öff÷&—FW2r’’À¢V÷FS¢&VDÆ—7B‚v&–×V÷FRr’æÖ‚†—FVÒ’Óâ‡²ââæ—FVÒÂ¶W“¢—FVÒæ¶W’ÇÂf&–çD¶W’†—FVÒ’Ò’’À¢6'C¢&VDÆ—7B‚v&–Ö6'Br’æf–ÇFW"‚†—FVÒ’Óâ—FVÒbbG—Vöb—FVÒÓÓÒvö&¦V7Br’æÖ‚†—FVÒ’Óâ‡²ââæ—FVÒÂ¶W“¢—FVÒæ¶W’ÇÂf&–çD¶W’†—FVÒ’Ò’’À¢–ÖVçC¢²Væ&ÆVC¢fÇ6RÂ¶W”–C¢rrÂ7W'&Væ7“¢t”å"rÂFVÆ—fW'•—6S¢ÒÂ6†V6¶÷WD'W7“¢fÇ6P§Ó°¦6öç7BBÒ‡6VÆV7F÷"’ÓâFö7VÖVçBçVW'•6VÆV7F÷"‡6VÆV7F÷"“°¦6öç7BW62Ò‡fÇVR’Óâ7G&–ær‡fÇVR’ç&WÆ6R‚õ²cÃâ"uÒörÂ†6†"’Óâ‡²rbs¢rf×²rÂsÂs¢rfÇC²rÂsâs¢rfwC²rÂr"s¢rgV÷C²rÂ"r#¢rb33“²rÕ¶6†%Ò’“° ¦gVæ7F–öâFö7B†ÖW76vR’°¢6öç7BVÂÒB‚r7Fö7Br“²VÂçFW‡D6öçFVçBÒÖW76vS²VÂæ6Æ74Æ—7BæFB‚w6†÷rr“°¢6ÆV%F–ÖV÷WB‡Fö7BçF–ÖW"“²Fö7BçF–ÖW"Ò6WEF–ÖV÷WB‚‚’ÓâVÂæ6Æ74Æ—7Bç&VÖ÷fR‚w6†÷rr’Â#c“°§Ð¦gVæ7F–öâ6fUV÷FR‚’°¢Æö6Å7F÷&vRç6WD—FVÒ‚v&–×V÷FRrÂ¥4ôâç7G&–æv–g’‡7FFRçV÷FR’“°¢B‚r7V÷FRÖ6÷VçBr’çFW‡D6öçFVçBÒ7FFRçV÷FRç&VGV6R‚‡F÷FÂÂ—FVÒ’ÓâF÷FÂ²—FVÒçVçF—G’Â“°¢&VæFW%V÷FR‚“°§Ð¦6öç7BÖöæW’Ò‡'WVW2’Óâ(+’G´çVÖ&W"‡'WVW2ÇÂ’çFôÆö6ÆU7G&–ær‚vVâÔ”ârÂ²Ö†–×VÔg&7F–öäF–v—G3¢"Ò—Ö°¦gVæ7F–öâ6fT6'B‚’°¢7FFRæ6'BÒ7FFRæ6'Bæf–ÇFW"‚†—FVÒ’Óâ°¢6öç7B&öGV7BÒ7FFRç&öGV7G2æf–æB‚†VçG'’’ÓâVçG'’æ–BÓÓÒ—FVÒæ–B“°¢&WGW&â&öGV7BbbvWE6—¦W2‡&öGV7Bç6—¦W2’æ–æ6ÇVFW2†—FVÒç6—¦R’bbvWD6öÆ÷'2‡&öGV7Bæ6öÆ÷"’æ–æ6ÇVFW2†—FVÒæ6öÆ÷"“°¢Ò’ç6Æ–6RƒÂ#’æÖ‚†—FVÒ’Óâ‡²ââæ—FVÒÂVçF—G“¢ÖF‚æÖ‚ƒÂÖF‚æÖ–âƒÂçVÖ&W"ç'6T–çB†—FVÒçVçF—G’Â’ÇÂ’’Â¶W“¢f&–çD¶W’†—FVÒ’Ò’“°¢Æö6Å7F÷&vRç6WD—FVÒ‚v&–Ö6'BrÂ¥4ôâç7G&–æv–g’‡7FFRæ6'B’“²&VæFW$6'B‚“°§Ð¦gVæ7F–öâFEFô6'B†–BÂf&–çBÒ·Ò’°¢6öç7B&öGV7BÒ7FFRç&öGV7G2æf–æB‚†—FVÒ’Óâ—FVÒæ–BÓÓÒ–B“²–b‚&öGV7B’&WGW&ã°¢6öç7Bf–Æ&ÆRÒf&–çDf–Æ&–Æ—G’‡&öGV7BÂf&–çBç6—¦RÂf&–çBæ6öÆ÷"“°¢–b†f–Æ&ÆRÂ’²Fö7B‚uF†—26—¦RæB6öÆ÷W"—27W'&VçFÇ’÷WBöb7Fö6²âr“²&WGW&ã²Ð¢6öç7BVçF—G’ÒÖF‚æÖ‚ƒÂÖF‚æÖ–â†f–Æ&ÆRÂÂçVÖ&W"ç'6T–çB‡f&–çBçVçF—G’Â’ÇÂ’“°¢6öç7BVçG'’Ò²–BÂ6—¦S¢f&–çBç6—¦RÇÂrrÂ6öÆ÷#¢f&–çBæ6öÆ÷"ÇÂrrÂVçF—G’Ó°¢VçG'’æ¶W’Òf&–çD¶W’†VçG'’“°¢6öç7BW†—7F–ærÒ7FFRæ6'Bæf–æB‚†—FVÒ’Óâ—FVÒæ¶W’ÓÓÒVçG'’æ¶W’“°¢–b‚W†—7F–ærbb7FFRæ6'BæÆVæwF‚ãÒ#’²Fö7B‚u–÷W"&r6â†öÆBWFò#v&ÖVçB÷F–öç2âr“²&WGW&ã²Ð¢–b†W†—7F–ærbbW†—7F–ærçVçF—G’²VçF—G’âf–Æ&ÆR’²Fö7B†öæÇ’G¶f–Æ&ÆWÒ&Rf–Æ&ÆR–âF†—2÷F–öâæ“²&WGW&ã²Ð¢–b†W†—7F–ær’W†—7F–ærçVçF—G’ÒÖF‚æÖ–âƒÂW†—7F–ærçVçF—G’²VçF—G’“²VÇ6R7FFRæ6'BçW6‚†VçG'’“°¢6fT6'B‚“²Fö7B†G·&öGV7BææÖWÒFFVBFò–÷W"6†÷–ær&ræ“°§Ð¦gVæ7F–öâ&VæFW$6'B‚’°¢6öç7B†÷7BÒB‚r66'BÖ—FV×2r“²–b‚†÷7B’&WGW&ã°¢6öç7B6÷VçBÒ7FFRæ6'Bç&VGV6R‚‡F÷FÂÂ—FVÒ’ÓâF÷FÂ²—FVÒçVçF—G’Â“°¢B‚r66'BÖ6÷VçBr’çFW‡D6öçFVçBÒ6÷VçC°¢6öç7B7V'F÷FÂÒ7FFRæ6'Bç&VGV6R‚‡7VÒÂ—FVÒ’Óâ°¢6öç7B&öGV7BÒ7FFRç&öGV7G2æf–æB‚†VçG'’’ÓâVçG'’æ–BÓÓÒ—FVÒæ–B“°¢&WGW&â7VÒ²‡&öGV7BòçVÖ&W"‡&öGV7Bç&–6R’¢—FVÒçVçF—G’¢“°¢ÒÂ“°¢6öç7BFVÆ—fW'’ÒçVÖ&W"‡7FFRç–ÖVçBæFVÆ—fW'•—6RÇÂ’ò°¢B‚r66'B×7V'F÷FÂr’çFW‡D6öçFVçBÒÖöæW’‡7V'F÷FÂ“²B‚r66'BÖFVÆ—fW'’r’çFW‡D6öçFVçBÒFVÆ—fW'’òÖöæW’†FVÆ—fW'’’¢tg&VRs°¢B‚r66'B×F÷FÂr’çFW‡D6öçFVçBÒÖöæW’‡7V'F÷FÂ²FVÆ—fW'’“°¢B‚r66'BÖFVÆ—fW'’×F÷FÂr’çFW‡D6öçFVçBÒÖöæW’‡7V'F÷FÂ²FVÆ—fW'’“°¢†÷7Bæ–ææW$…DÔÂÒ7FFRæ6'BæÆVæwF‚ò7FFRæ6'BæÖ‚†—FVÒ’Óâ°¢6öç7B&öGV7BÒ7FFRç&öGV7G2æf–æB‚†VçG'’’ÓâVçG'’æ–BÓÓÒ—FVÒæ–B“²–b‚&öGV7B’&WGW&ârs°¢6öç7Bf–Æ&ÆRÒf&–çDf–Æ&–Æ—G’‡&öGV7BÂ—FVÒç6—¦RÂ—FVÒæ6öÆ÷"“°¢&WGW&âÆ'F–6ÆR6Æ73Ò&6'BÖ—FVÒ#ãÆ–Ör7&3Ò"G¶W62‡&öGV7Bæ–ÖvR—Ò"ÇCÒ"#ãÆF—cãÆF—b6Æ73Ò&6'BÖ—FVÒ×F—FÆR#âG¶W62‡&öGV7BææÖR—ÓÂöF—cãÆF—b6Æ73Ò&6'BÖ—FVÒÖÖWF#âG¶W62†—FVÒæ6öÆ÷"—Ò+r6—¦RG¶W62†—FVÒç6—¦R—ÒG¶f–Æ&ÆRÂ—FVÒçVçF—G’òr+r7Fö6²6†ævVBÂÆV6RVF—Br¢rwÓÂöF—cãÆF—b6Æ73Ò&6'BÖ—FVÒÖ6öçG&öÇ2#ãÆ–çWBG—SÒ&çVÖ&W""Ö–ãÒ#"ÖƒÒ#"fÇVSÒ"G¶—FVÒçVçF—G—Ò"&–ÖÆ&VÃÒ%VçF—G’f÷"G¶W62‡&öGV7BææÖR—Ò"FFÖ6'B×VçF—G“Ò"G¶W62†—FVÒæ¶W’—Ò#ãÆ'WGFöâG—SÒ&'WGFöâ"FFÖ6'B×&VÖ÷fSÒ"G¶W62†—FVÒæ¶W’—Ò#å&VÖ÷fSÂö'WGFöããÂöF—cãÂöF—cãÆF—b6Æ73Ò&6'BÖ—FVÒ×&–6R#âG¶ÖöæW’„çVÖ&W"‡&öGV7Bç&–6R’¢—FVÒçVçF—G’—ÓÂöF—cãÂö'F–6ÆSæ°¢Ò’æ¦ö–â‚rr’¢sÆF—b6Æ73Ò&6'BÖV×G’#ãÆ#å–÷W"&r—2V×G’f÷"æ÷rãÂö#ãÇ7ãåF¶RÆöö²&÷VæBæBFB6öÖWF†–ærv†Vâ–÷Rf–æBF†R&–v‡Bf—BãÂ÷7ããÆ'WGFöâG—SÒ&'WGFöâ"FFÖ6'BÖ6Æ÷6SäW‡Æ÷&RF†R6öÆÆV7F–öâ(isÂö'WGFöããÂöF—câs°¢6öç7B'WGFöâÒB‚r66†V6¶÷WBÖf÷&Ò·G—SÒ'7V&Ö—B%Òr“°¢–b†'WGFöâ’°¢'WGFöâæF—6&ÆVBÒ7FFRæ6'BæÆVæwF‚ÇÂ7FFRæ6†V6¶÷WD'W7“°¢'WGFöâæ–ææW$…DÔÂÒ7FFRç–ÖVçBæVæ&ÆVBòt6öçF–çVRFòU’–ÖVçBÇ7â&–Ö†–FFVãÒ'G'VR#î(isÂ÷7ãâr¢u6VæB÷&FW"&WVW7BÇ7â&–Ö†–FFVãÒ'G'VR#î(isÂ÷7ãâs°¢Ð¢6öç7B–ÖVçDæ÷FRÒB‚r66†V6¶÷WB×–ÖVçBÖæ÷FRr“°¢–b‡–ÖVçDæ÷FR’–ÖVçDæ÷FRçFW‡D6öçFVçBÒ7FFRç–ÖVçBæVæ&ÆV@¢òuU’–ÖVçG2&R&ö6W76VB6V7W&VÇ’'’&¦÷'’â$”æWfW"6VW2–÷W"U’”ââp¢¢töæÆ–æRU’—2æ÷BVæ&ÆVB–WBâ6VæBâ÷&FW"&WVW7BæB$”6â6öæf—&Òf–Æ&–Æ—G’æB'&ævR–ÖVçBâæò–ÖVçB—2F¶Vâæ÷râs°¢6öç7BæW‡BÒB‚r66†V6¶÷WBÖæW‡Br“²–b†æW‡B’æW‡BæF—6&ÆVBÒ7FFRæ6'BæÆVæwFƒ°§Ð¦gVæ7F–öâ6WD6†V6¶÷WE7FW‡7FW’°¢6öç7BFVÆ—fW'’Ò7FWÓÓÒvFVÆ—fW'’s°¢B‚r66'B×7FWÖ&rr’æ†–FFVâÒFVÆ—fW'“²B‚r66'B×7FWÖFVÆ—fW'’r’æ†–FFVâÒFVÆ—fW'“°¢Fö7VÖVçBçVW'•6VÆV7F÷$ÆÂ‚u¶FFÖ6†V6¶÷WB×7FWÒr’æf÷$V6‚‚†—FVÒ’Óâ°¢6öç7B7F—fRÒ—FVÒæFF6WBæ6†V6¶÷WE7FWÓÓÒ7FW°¢—FVÒæ6Æ74Æ—7BçFövvÆR‚v7F—fRrÂ7F—fR“°¢–b†7F—fR’—FVÒç6WDGG&–'WFR‚v&–Ö7W'&VçBrÂw7FWr“²VÇ6R—FVÒç&VÖ÷fTGG&–'WFR‚v&–Ö7W'&VçBr“°¢Ò“°¢B‚r66'BÖF–Æörr’ç67&öÆÅF÷Ò°¢–b‚B‚r66'BÖF–Æörr’æ÷Vâ’†FVÆ—fW'’òB‚r66†V6¶÷WB×F—FÆRr’¢B‚r66†V6¶÷WBÖæW‡Br’’æfö7W2‚“°§Ð¦gVæ7F–öâvWE6—¦W2‡7V2’°¢–b‡7V2æ–æ6ÇVFW2‚~(	2r’’°¢6öç7B¶g&öÒÂFõÒÒ7V2ç7Æ—B‚~(	2r’æÖ‚‡'B’Óâ'BçG&–Ò‚’“°¢6öç7BÇ†Ò²u…2rÂu2rÂtÒrÂtÂrÂu„ÂrÂu…„ÂrÂs5„ÂuÓ°¢–b†Ç†æ–æ6ÇVFW2†g&öÒ’bbÇ†æ–æ6ÇVFW2‡Fò’’&WGW&âÇ†ç6Æ–6R†Ç†æ–æFW„öb†g&öÒ’ÂÇ†æ–æFW„öb‡Fò’²“°¢6öç7Bf—'7BÒçVÖ&W"†g&öÒ’ÂÆ7BÒçVÖ&W"‡Fò“°¢–b„çVÖ&W"æ—4f–æ—FR†f—'7B’bbçVÖ&W"æ—4f–æ—FR†Æ7B’bbÆ7BãÒf—'7Bbb†Æ7BÒf—'7B’ò"Â3’°¢&WGW&â'&’æg&öÒ‡²ÆVæwFƒ¢ÖF‚æfÆö÷"‚†Æ7BÒf—'7B’ò"’²ÒÂ…òÂ–æFW‚’Óâ7G&–ær†f—'7B²–æFW‚¢"’“°¢Ð¢Ð¢&WGW&â7V2ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“°§Ð¦gVæ7F–öâvWD6öÆ÷'2‡7V2’²&WGW&â7V2ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“²Ð¦gVæ7F–öâf&–çDf–Æ&–Æ—G’‡&öGV7BÂ6—¦RÂ6öÆ÷"’°¢6öç7Bf&–çBÒ&öGV7Còçf&–çG3òæf–æB‚†VçG'’’ÓâVçG'’ç6—¦RÓÓÒ6—¦RbbVçG'’æ6öÆ÷"ÓÓÒ6öÆ÷"“°¢&WGW&âÖF‚æÖ‚ƒÂçVÖ&W"‡f&–çCòæf–Æ&ÆRóò’“°§Ð¦gVæ7F–öâf–ÇFW&VE&öGV7G2‚’°¢ÆWB&W7VÇBÒ7FFRç&öGV7G2æf–ÇFW"‚‡&öGV7B’Óâ°¢6öç7B6FVv÷'”ÖF6†W2Ò7FFRæf–ÇFW"ÓÓÒtÆÂrÇÂ&öGV7Bæ6FVv÷'’ÓÓÒ7FFRæf–ÇFW#°¢6öç7B6fVDÖF6†W2Ò7FFRç6fVDöæÇ’ÇÂ7FFRæff÷&—FW2æ†2‡&öGV7Bæ–B“°¢6öç7B†—7F6²Ò·&öGV7BææÖRÂ&öGV7Bæ6FVv÷'’Â&öGV7Bæ6öÆ÷"Â&öGV7Bæf'&–2Â&öGV7Bæw6ÒÂ&öGV7BæFW67&—F–öåÒæ¦ö–â‚rr’çFôÆ÷vW$66R‚“°¢&WGW&â6FVv÷'”ÖF6†W2bb6fVDÖF6†W2bb†—7F6²æ–æ6ÇVFW2‡7FFRçVW'’çFôÆ÷vW$66R‚’“°¢Ò“°¢–b‡7FFRç6÷'BÓÓÒw&–6RÖÆ÷rr’&W7VÇBÒ&W7VÇBç6÷'B‚†Â"’Óâç&–6RÒ"ç&–6R“°¢–b‡7FFRç6÷'BÓÓÒw&–6RÖ†–v‚r’&W7VÇBÒ&W7VÇBç6÷'B‚†Â"’Óâ"ç&–6RÒç&–6R“°¢–b‡7FFRç6÷'BÓÓÒvæÖRr’&W7VÇBÒ&W7VÇBç6÷'B‚†Â"’ÓâææÖRæÆö6ÆT6ö×&R†"ææÖR’“°¢&WGW&â&W7VÇC°§Ð¦gVæ7F–öâ&VæFW%&öGV7G2‚’°¢6öç7B&öGV7G2Òf–ÇFW&VE&öGV7G2‚“°¢B‚r7&öGV7BÖ6÷VçBr’çFW‡D6öçFVçBÒ&öGV7G2æÆVæwFƒ°¢B‚r6ff÷&—FW2Ö6÷VçBr’çFW‡D6öçFVçBÒ7FFRæff÷&—FW2ç6—¦S°¢B‚r6ff÷&—FW2×FövvÆRr’ç6WDGG&–'WFR‚v&–×&W76VBrÂ7G&–ær‡7FFRç6fVDöæÇ’’“°¢B‚r6ff÷&—FW2×FövvÆRr’æ6Æ74Æ—7BçFövvÆR‚v7F—fRrÂ7FFRç6fVDöæÇ’“°¢B‚r7&öGV7BÖw&–Br’æ–ææW$…DÔÂÒ&öGV7G2æÖ‚‡&öGV7B’Óâ ¢Æ'F–6ÆR6Æ73Ò'&öGV7BÖ6&B#à¢ÆF—b6Æ73Ò'&öGV7BÖ–ÖvR×w&"FF×&öGV7CÒ"G¶W62‡&öGV7Bæ–B—Ò#à¢Æ–Ör6Æ73Ò'&öGV7BÖ–ÖvR"7&3Ò"G¶W62‡&öGV7Bæ–ÖvR—Ò"ÇCÒ"G¶W62‡&öGV7BææÖR—Ò"ÆöF–æsÒ&Æ§’#à¢Ç7â6Æ73Ò'&öGV7B×Fr#âG¶W62‡&öGV7BçFr—ÓÂ÷7ãà¢Æ'WGFöâ6Æ73Ò&ff÷&—FRÖ'WGFöâG·7FFRæff÷&—FW2æ†2‡&öGV7Bæ–B’òv—2Öff÷&—FRr¢rwÒ"FFÖff÷&—FSÒ"G¶W62‡&öGV7Bæ–B—Ò"&–ÖÆ&VÃÒ"G·7FFRæff÷&—FW2æ†2‡&öGV7Bæ–B’òu&VÖ÷fRg&öÒr¢u6fRFòwÒff÷W&—FW2"&–×&W76VCÒ"G·7FFRæff÷&—FW2æ†2‡&öGV7Bæ–B—Ò#âG·7FFRæff÷&—FW2æ†2‡&öGV7Bæ–B’ò~)šRr¢~)šwÓÂö'WGFöãà¢Æ'WGFöâ6Æ73Ò'V–6²ÖFB"FFÖ÷F–öç3Ò"G¶W62‡&öGV7Bæ–B—Ò#ä6†ö÷6R6—¦RÇ7ãîûÈ³Â÷7ããÂö'WGFöãà¢ÂöN=÷»h‘éì¶»§q«^wÜ›J›Ü›JHÂˆÛÛœÝÝ]\ÈH›Ü›Kœ]Y\žTÙ[XÝÜŠ	Ë™›Ü›K\Ý]\ÉÊK]ÛˆH›Ü›Kœ]Y\žTÙ[XÝÜŠ	ÖÝ\O\ÝX›Z]IÊNÂˆÛÛœÝ]HHØš™XÝ™œ›ÛQ[šY\Ê™]È›Ü›Q]J›Ü›JJNÂˆYˆ
-›Ü›KšYOOH	Ü][ÝKY›Ü›IÊH]Kš][\ÈHÝ]Kœ][ÝK›X\
+const DEFAULT_WHATSAPP_NUMBER = '917888329606';
+const readList = (key) => {
+  try { const value = JSON.parse(localStorage.getItem(key) || '[]'); return Array.isArray(value) ? value : []; }
+  catch { return []; }
+};
+const variantKey = (item) => `${item.id}|${item.size || ''}|${item.color || ''}`;
+const state = {
+  products: [], filter: 'All', query: '', sort: 'featured', savedOnly: false,
+  favorites: new Set(readList('apria-favorites')),
+  quote: readList('apria-quote').map((item) => ({ ...item, key: item.key || variantKey(item) })),
+  cart: readList('apria-cart').filter((item) => item && typeof item === 'object').map((item) => ({ ...item, key: item.key || variantKey(item) })),
+  payment: { enabled: false, keyId: '', currency: 'INR', deliveryPaise: 0 }, checkoutBusy: false
+};
+const $ = (selector) => document.querySelector(selector);
+const esc = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[char]));
 
-][JHOˆ
-È‹‹š][K˜[YNˆÝ]Kœ›ÙXÝË™š[™
+function toast(message) {
+  const el = $('#toast'); el.textContent = message; el.classList.add('show');
+  clearTimeout(toast.timer); toast.timer = setTimeout(() => el.classList.remove('show'), 2600);
+}
+function saveQuote() {
+  localStorage.setItem('apria-quote', JSON.stringify(state.quote));
+  $('#quote-count').textContent = state.quote.reduce((total, item) => total + item.quantity, 0);
+  renderQuote();
+}
+const money = (rupees) => `â‚¹${Number(rupees || 0).toLocaleString('en-IN', { maximumFractionDigits: 2 })}`;
+function saveCart() {
+  state.cart = state.cart.filter((item) => {
+    const product = state.products.find((entry) => entry.id === item.id);
+    return product && getSizes(product.sizes).includes(item.size) && getColors(product.color).includes(item.color);
+  }).slice(0, 20).map((item) => ({ ...item, quantity: Math.max(1, Math.min(100, Number.parseInt(item.quantity, 10) || 1)), key: variantKey(item) }));
+  localStorage.setItem('apria-cart', JSON.stringify(state.cart)); renderCart();
+}
+function addToCart(id, variant = {}) {
+  const product = state.products.find((item) => item.id === id); if (!product) return;
+  const available = variantAvailability(product, variant.size, variant.color);
+  if (available < 1) { toast('This size and colour is currently out of stock.'); return; }
+  const quantity = Math.max(1, Math.min(available, 100, Number.parseInt(variant.quantity, 10) || 1));
+  const entry = { id, size: variant.size || '', color: variant.color || '', quantity };
+  entry.key = variantKey(entry);
+  const existing = state.cart.find((item) => item.key === entry.key);
+  if (!existing && state.cart.length >= 20) { toast('Your bag can hold up to 20 garment options.'); return; }
+  if (existing && existing.quantity + quantity > available) { toast(`Only ${available} are available in this option.`); return; }
+  if (existing) existing.quantity = Math.min(100, existing.quantity + quantity); else state.cart.push(entry);
+  saveCart(); toast(`${product.name} added to your shopping bag.`);
+}
+function renderCart() {
+  const host = $('#cart-items'); if (!host) return;
+  const count = state.cart.reduce((total, item) => total + item.quantity, 0);
+  $('#cart-count').textContent = count;
+  const subtotal = state.cart.reduce((sum, item) => {
+    const product = state.products.find((entry) => entry.id === item.id);
+    return sum + (product ? Number(product.price) * item.quantity : 0);
+  }, 0);
+  const delivery = Number(state.payment.deliveryPaise || 0) / 100;
+  $('#cart-subtotal').textContent = money(subtotal); $('#cart-delivery').textContent = delivery ? money(delivery) : 'Free';
+  $('#cart-total').textContent = money(subtotal + delivery);
+  $('#cart-delivery-total').textContent = money(subtotal + delivery);
+  host.innerHTML = state.cart.length ? state.cart.map((item) => {
+    const product = state.products.find((entry) => entry.id === item.id); if (!product) return '';
+    const available = variantAvailability(product, item.size, item.color);
+    return `<article class="cart-item"><img src="${esc(product.image)}" alt=""><div><div class="cart-item-title">${esc(product.name)}</div><div class="cart-item-meta">${esc(item.color)} Â· Size ${esc(item.size)}${available < item.quantity ? ' Â· stock changed, please edit' : ''}</div><div class="cart-item-controls"><input type="number" min="1" max="100" value="${item.quantity}" aria-label="Quantity for ${esc(product.name)}" data-cart-quantity="${esc(item.key)}"><button type="button" data-cart-remove="${esc(item.key)}">Remove</button></div></div><div class="cart-item-price">${money(Number(product.price) * item.quantity)}</div></article>`;
+  }).join('') : '<div class="cart-empty"><b>Your bag is empty for now.</b><span>Take a look around and add something when you find the right fit.</span><button type="button" data-cart-close>Explore the collection â†—</button></div>';
+  const button = $('#checkout-form [type="submit"]');
+  if (button) {
+    button.disabled = !state.cart.length || state.checkoutBusy;
+    button.innerHTML = state.payment.enabled ? 'Continue to UPI payment <span aria-hidden="true">â†—</span>' : 'Send order request <span aria-hidden="true">â†—</span>';
+  }
+  const paymentNote = $('#checkout-payment-note');
+  if (paymentNote) paymentNote.textContent = state.payment.enabled
+    ? 'UPI payments are processed securely by Razorpay. APRIA never sees your UPI PIN.'
+    : 'Online UPI is not enabled yet. Send an order request and APRIA can confirm availability and arrange payment. No payment is taken now.';
+  const next = $('#checkout-next'); if (next) next.disabled = !state.cart.length;
+}
+function setCheckoutStep(step) {
+  const delivery = step === 'delivery';
+  $('#cart-step-bag').hidden = delivery; $('#cart-step-delivery').hidden = !delivery;
+  document.querySelectorAll('[data-checkout-step]').forEach((item) => {
+    const active = item.dataset.checkoutStep === step;
+    item.classList.toggle('active', active);
+    if (active) item.setAttribute('aria-current', 'step'); else item.removeAttribute('aria-current');
+  });
+  $('#cart-dialog').scrollTop = 0;
+  if ($('#cart-dialog').open) (delivery ? $('#checkout-title') : $('#checkout-next')).focus();
+}
+function getSizes(spec) {
+  if (spec.includes('â€“')) {
+    const [from, to] = spec.split('â€“').map((part) => part.trim());
+    const alpha = ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'];
+    if (alpha.includes(from) && alpha.includes(to)) return alpha.slice(alpha.indexOf(from), alpha.indexOf(to) + 1);
+    const first = Number(from), last = Number(to);
+    if (Number.isFinite(first) && Number.isFinite(last) && last >= first && (last - first) / 2 < 30) {
+      return Array.from({ length: Math.floor((last - first) / 2) + 1 }, (_, index) => String(first + index * 2));
+    }
+  }
+  return spec.split('/').map((part) => part.trim()).filter(Boolean);
+}
+function getColors(spec) { return spec.split('/').map((part) => part.trim()).filter(Boolean); }
+function variantAvailability(product, size, color) {
+  const variant = product?.variants?.find((entry) => entry.size === size && entry.color === color);
+  return Math.max(0, Number(variant?.available ?? 0));
+}
+function filteredProducts() {
+  let result = state.products.filter((product) => {
+    const categoryMatches = state.filter === 'All' || product.category === state.filter;
+    const savedMatches = !state.savedOnly || state.favorites.has(product.id);
+    const haystack = [product.name, product.category, product.color, product.fabric, product.gsm, product.description].join(' ').toLowerCase();
+    return categoryMatches && savedMatches && haystack.includes(state.query.toLowerCase());
+  });
+  if (state.sort === 'price-low') result = result.sort((a, b) => a.price - b.price);
+  if (state.sort === 'price-high') result = result.sort((a, b) => b.price - a.price);
+  if (state.sort === 'name') result = result.sort((a, b) => a.name.localeCompare(b.name));
+  return result;
+}
+function renderProducts() {
+  const products = filteredProducts();
+  $('#product-count').textContent = products.length;
+  $('#favorites-count').textContent = state.favorites.size;
+  $('#favorites-toggle').setAttribute('aria-pressed', String(state.savedOnly));
+  $('#favorites-toggle').classList.toggle('active', state.savedOnly);
+  $('#product-grid').innerHTML = products.map((product) => `
+    <article class="product-card">
+      <div class="product-image-wrap" data-product="${esc(product.id)}">
+        <img class="product-image" src="${esc(product.image)}" alt="${esc(product.name)}" loading="lazy">
+        <span class="product-tag">${esc(product.tag)}</span>
+        <button class="favorite-button ${state.favorites.has(product.id) ? 'is-favorite' : ''}" data-favorite="${esc(product.id)}" aria-label="${state.favorites.has(product.id) ? 'Remove from' : 'Save to'} favourites" aria-pressed="${state.favorites.has(product.id)}">${state.favorites.has(product.id) ? 'â™¥' : 'â™¡'}</button>
+        <button class="quick-add" data-options="${esc(product.id)}">Choose size <span>ï¼‹</span></button>
+      </div>
+      <div class="product-meta"><div><button type="button" class="product-name" data-product="${esc(product.id)}">${esc(product.name)}</button><div class="product-category">${esc(product.category)} Â· ${esc(product.color)}</div></div><div class="product-price">â‚¹${Number(product.price).toLocaleString('en-IN')}</div></div>
+      <div class="product-spec"><span>${esc(product.gsm)}</span><span>${esc(product.fabric)}</span></div>
+    </article>`).join('') || `<div class="empty-results"><span>${state.savedOnly ? 'â™¡' : 'âŒ•'}</span><b>${state.savedOnly ? 'No saved garments yet' : 'No garments found'}</b><p>${state.savedOnly ? 'Tap the heart on a garment to keep it here.' : 'Try another search or clear a filter.'}</p><button class="text-button" data-clear-filters>Clear filters</button></div>`;
+  renderPersonalEdit();
+}
+const weightEdits = {
+  everyday: { min: 180, max: 240, label: 'THE EASY-LAYER EDIT', description: 'Lighter jerseys for warm days. A comfortable starting point for tees, polos, and easy everyday layers.' },
+  structured: { min: 260, max: 300, label: 'THE MORE-SHAPE EDIT', description: 'A little more substance for a defined drape. Explore heavier tees, terry, and sturdy cotton bottoms.' },
+  warm: { min: 320, max: 380, label: 'THE EXTRA-WARMTH EDIT', description: 'Brushed fleece for cooler days, with the comfort and weight of a proper layer.' }
+};
+function renderWeightProducts(kind = 'everyday') {
+  const edit = weightEdits[kind] || weightEdits.everyday;
+  $('#weight-description').textContent = edit.description;
+  $('#weight-result-label').textContent = edit.label;
+  const matches = state.products.filter((product) => {
+    const gsm = Number.parseInt(String(product.gsm).match(/\d+/)?.[0] || '', 10);
+    return Number.isFinite(gsm) && gsm >= edit.min && gsm <= edit.max;
+  }).slice(0, 3);
+  $('#weight-products').innerHTML = matches.length ? matches.map((product) => `
+    <button type="button" class="weight-pick" data-product="${esc(product.id)}">
+      <img src="${esc(product.image)}" alt="" loading="lazy">
+      <span><b>${esc(product.name)}</b><small>${esc(product.gsm)} Â· ${esc(product.fabric)}</small></span>
+      <span aria-hidden="true">â†—</span>
+    </button>`).join('') : '<p class="weight-empty">This weight is not in the current collection. Send us a note about what you have in mind.</p>';
+}
+function renderPersonalEdit() {
+  const count = state.favorites.size, progress = Math.min(count, 3);
+  const progressEl = $('#edit-progress'); progressEl.setAttribute('aria-label', `${progress} of 3 styles saved`); progressEl.setAttribute('aria-valuenow', String(progress));
+  [...progressEl.querySelectorAll('span')].forEach((dot, index) => dot.classList.toggle('complete', index < progress));
+  $('#edit-progress-label').textContent = `${progress} / 3 saved`;
+  $('#edit-message').textContent = count === 0 ? 'Save the styles you like. Weâ€™ll suggest a few more, and keep your picks on this device.'
+    : count === 1 ? 'One lovely pick. Save a couple more if you likeâ€”your edit will be here when you come back.'
+      : count === 2 ? 'Your edit is taking shape. One more saved style makes it easy to compare your favourites.'
+        : 'Your little edit is ready. Weâ€™ve picked a few more pieces that might feel like you.';
+  const saved = state.products.filter((product) => state.favorites.has(product.id));
+  const categories = new Set(saved.map((product) => product.category));
+  let picks = count ? state.products.filter((product) => categories.has(product.category) && !state.favorites.has(product.id)) : state.products.filter((product) => ['BESTSELLER', 'CORE', 'NEW SEASON'].includes(product.tag));
+  if (picks.length < 3) picks = [...picks, ...state.products.filter((product) => !state.favorites.has(product.id) && !picks.some((pick) => pick.id === product.id))];
+  picks = picks.slice(0, 3);
+  $('#recommendation-title').textContent = count ? 'A few picks in your style' : 'Easy places to start';
+  $('#recommendation-note').textContent = count ? 'Based on your saved styles' : 'A few APRIA favourites';
+  $('#recommendation-list').innerHTML = picks.map((product) => `<button type="button" class="recommendation-card" data-product="${esc(product.id)}"><img src="${esc(product.image)}" alt=""><span><b>${esc(product.name)}</b><small>${esc(product.category)} Â· ${money(product.price)}</small></span><i aria-hidden="true">â†—</i></button>`).join('');
+}
+function toggleFavorite(id) {
+  if (state.favorites.has(id)) state.favorites.delete(id); else state.favorites.add(id);
+  localStorage.setItem('apria-favorites', JSON.stringify([...state.favorites])); renderProducts();
+}
+function addProduct(id, variant = {}) {
+  const product = state.products.find((item) => item.id === id); if (!product) return;
+  const entry = { id, size: variant.size || '', color: variant.color || '', quantity: Math.max(1, Math.min(10000, Number(variant.quantity) || 1)) };
+  entry.key = variantKey(entry);
+  const existing = state.quote.find((item) => item.key === entry.key);
+  if (existing) existing.quantity = Math.min(10000, existing.quantity + entry.quantity); else state.quote.push(entry);
+  saveQuote(); toast(`${product.name} added to your quote list.`);
+}
+function renderQuote() {
+  const host = $('#quote-items'); if (!host) return;
+  host.innerHTML = state.quote.length ? state.quote.map((item) => {
+    const product = state.products.find((entry) => entry.id === item.id); if (!product) return '';
+    const details = [item.size && `Size ${item.size}`, item.color].filter(Boolean).join(' Â· ') || 'Choose size and colour in product details';
+    return `<div class="quote-item"><img src="${esc(product.image)}" alt=""><div><b>${esc(product.name)}</b><small>${esc(details)} Â· ${esc(product.gsm)}</small></div><div><input aria-label="Quantity for ${esc(product.name)}" type="number" min="1" max="10000" value="${item.quantity}" data-quantity="${esc(item.key)}"><button aria-label="Remove ${esc(product.name)}" data-remove="${esc(item.key)}">Ã—</button></div></div>`;
+  }).join('') : '<div class="quote-empty">Your list is empty. Add a garment from the collection to get started.</div>';
+}
+function openProduct(id) {
+  const product = state.products.find((item) => item.id === id); if (!product) return;
+  const sizes = getSizes(product.sizes), colors = getColors(product.color);
+  $('#product-detail').innerHTML = `<div class="product-detail">
+    <img src="${esc(product.image)}" alt="${esc(product.name)}">
+    <div class="product-detail-copy"><div class="eyebrow">${esc(product.tag)} / ${esc(product.category.toUpperCase())}</div>
+      <h2 id="product-detail-title">${esc(product.name)}</h2><div class="detail-price">â‚¹${Number(product.price).toLocaleString('en-IN')} <small>indicative retail price Â· bulk pricing on request</small></div>
+      <p>${esc(product.description)}</p><div class="detail-specs"><div><span>Fabric</span><b>${esc(product.fabric)}</b></div><div><span>Weight</span><b>${esc(product.gsm)}</b></div></div>
+      <div class="variant-fields"><label>Colour<select id="detail-color">${colors.map((color) => `<option value="${esc(color)}">${esc(color)}</option>`).join('')}</select></label><label>Size<select id="detail-size" required><option value="" disabled selected>Select size</option></select></label><label>Quantity<input id="detail-quantity" type="number" min="1" max="100" value="1"></label></div>
+      <p class="variant-availability" id="detail-availability" aria-live="polite">Choose a colour and size to check availability.</p>
+      <button class="button button-dark" data-cart-add="${esc(product.id)}" disabled>Add to shopping bag <span>ï¼‹</span></button><button class="detail-quote-button" data-add="${esc(product.id)}">Add to quote list â†—</button>
+    </div></div>`;
+  const colorInput = $('#detail-color'), sizeInput = $('#detail-size');
+  function updateOptions() {
+    const prior = sizeInput.value, color = colorInput.value;
+    sizeInput.innerHTML = `<option value="" disabled selected>Select size</option>${sizes.map((size) => {
+      const available = variantAvailability(product, size, color);
+      return `<option value="${esc(size)}" ${available ? '' : 'disabled'}>${esc(size)}${available ? ` Â· ${available} available` : ' Â· sold out'}</option>`;
+    }).join('')}`;
+    if (sizes.includes(prior) && variantAvailability(product, prior, color) > 0) sizeInput.value = prior;
+    const available = variantAvailability(product, sizeInput.value, color);
+    const quantity = $('#detail-quantity'); quantity.max = String(Math.max(1, Math.min(100, available)));
+    quantity.value = String(Math.min(Math.max(1, Number(quantity.value) || 1), Math.max(1, Math.min(100, available))));
+    $('#detail-availability').textContent = sizeInput.value ? (available ? `${available} available in this size and colour.` : 'This option is currently unavailable.') : 'Choose an available size to continue.';
+    $('[data-cart-add]').disabled = !sizeInput.value || available < 1;
+  }
+  colorInput.addEventListener('change', updateOptions); sizeInput.addEventListener('change', updateOptions); updateOptions();
+  $('#product-dialog').showModal();
+}
+async function loadRazorpay() {
+  if (window.Razorpay) return window.Razorpay;
+  if (!loadRazorpay.promise) loadRazorpay.promise = new Promise((resolve, reject) => {
+    const script = document.createElement('script'); script.src = 'https://checkout.razorpay.com/v1/checkout.js'; script.async = true;
+    script.onload = () => window.Razorpay ? resolve(window.Razorpay) : reject(new Error('Secure checkout did not load. Please try again.'));
+    script.onerror = () => reject(new Error('Secure checkout did not load. Check your connection and try again.'));
+    document.head.appendChild(script);
+  });
+  return loadRazorpay.promise;
+}
+function checkoutStatus(message, error = false) {
+  const status = $('#checkout-status'); status.textContent = message; status.classList.toggle('error', error);
+}
+async function verifyPayment(order, payment) {
+  checkoutStatus('Verifying your payment securelyâ€¦');
+  const response = await fetch('/api/checkout/verify', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ orderId: order.orderId, ...payment }) });
+  const result = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(result.error || 'Payment received, but confirmation is delayed. Keep your receipt and contact APRIA.');
+  if (result.status !== 'paid') {
+    checkoutStatus(result.message || 'Payment is being confirmed. Keep your receipt and contact APRIA before retrying.', true);
+    state.checkoutBusy = false; renderCart(); return;
+  }
+  state.cart = []; saveCart(); $('#cart-dialog').close();
+  $('#receipt-code').textContent = result.receipt; $('#order-success').showModal();
+  state.checkoutBusy = false; renderCart();
+}
+async function submitCheckout(form) {
+  if (!state.cart.length || state.checkoutBusy) return;
+  if (!form.reportValidity()) return;
+  const fields = Object.fromEntries(new FormData(form));
+  const payload = {
+    customer: { name: fields.name, email: fields.email, phone: fields.phone, address1: fields.address1, address2: fields.address2, city: fields.city, state: fields.state, pincode: fields.pincode },
+    items: state.cart.map(({ id, size, color, quantity }) => ({ id, size, color, quantity }))
+  };
+  if (!state.payment.enabled) {
+    const orderRequest = {
+      name: fields.name, email: fields.email, phone: fields.phone,
+      address: { address1: fields.address1, address2: fields.address2, city: fields.city, state: fields.state, pincode: fields.pincode },
+      items: state.cart.map(({ id, size, color, quantity }) => ({ id, size, color, quantity }))
+    };
+    state.checkoutBusy = true; renderCart(); checkoutStatus('Saving your order requestâ€¦');
+    try {
+      const response = await fetch('/api/order-requests', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(orderRequest) });
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok) throw new Error(result.error || 'Unable to save your order request. Please try again.');
+      checkoutStatus('Order request saved. No payment was taken. APRIA must confirm availability and arrange payment with you.');
+    } catch (error) {
+      checkoutStatus(error.message.includes('Failed to fetch') ? 'Could not reach APRIA. Your bag is still saved; please contact us to arrange your order.' : error.message, true);
+    } finally {
+      state.checkoutBusy = false; renderCart();
+    }
+    return;
+  }
+  const button = form.querySelector('[type="submit"]');
+  state.checkoutBusy = true; renderCart(); button.disabled = true; checkoutStatus('Preparing your secure checkoutâ€¦');
+  try {
+    const orderResponse = await fetch('/api/checkout/orders', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+    const order = await orderResponse.json().catch(() => ({}));
+    if (!orderResponse.ok) throw new Error(order.error || 'Unable to start checkout. Please try again.');
+    const expectedPaise = Math.round((state.cart.reduce((sum, item) => {
+      const product = state.products.find((entry) => entry.id === item.id);
+      return sum + (product ? Number(product.price) * item.quantity : 0);
+    }, 0) * 100) + Number(state.payment.deliveryPaise || 0));
+    if (!Number.isSafeInteger(order.amount) || order.amount !== expectedPaise || order.currency !== 'INR') throw new Error('The catalogue total changed. Refresh the page and review your bag before paying.');
+    const Razorpay = await loadRazorpay();
+    state.checkoutBusy = false; renderCart();
+    const gateway = new Razorpay({
+      key: order.keyId || state.payment.keyId, amount: order.amount, currency: order.currency, name: 'APRIA',
+      description: 'APRIA apparel order', order_id: order.razorpayOrderId,
+      prefill: { name: fields.name, email: fields.email, contact: fields.phone },
+      notes: { receipt: order.receipt }, theme: { color: '#283328' },
+      config: { display: {
+        blocks: { apria_upi: { name: 'Pay via UPI', instruments: [{ method: 'upi' }] } },
+        sequence: ['block.apria_upi'],
+        preferences: { show_default_blocks: false }
+      } },
+      handler: (payment) => verifyPayment(order, payment).catch((error) => { state.checkoutBusy = false; renderCart(); checkoutStatus(error.message, true); }),
+      modal: { ondismiss: () => { state.checkoutBusy = false; renderCart(); checkoutStatus('Payment window closed. Your bag is still here; you can try again whenever youâ€™re ready.'); } }
+    });
+    gateway.on('payment.failed', (event) => {
+      state.checkoutBusy = false; renderCart();
+      checkoutStatus(event.error?.description || 'Payment did not complete. Your bag is still here; please try again.', true);
+    });
+    gateway.open();
+  } catch (error) {
+    state.checkoutBusy = false; renderCart(); checkoutStatus(error.message, true);
+  }
+}
+async function submitForm(form) {
+  const status = form.querySelector('.form-status'), button = form.querySelector('[type=submit]');
+  const data = Object.fromEntries(new FormData(form));
+  if (form.id === 'quote-form') data.items = state.quote.map((item) => ({ ...item, name: state.products.find((product) => product.id === item.id)?.name || item.id }));
+  button.disabled = true; button.style.opacity = '.6'; status.classList.remove('error'); status.textContent = 'Sending your enquiryâ€¦';
+  try {
+    const response = await fetch('/api/enquiries', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
+    const result = await response.json(); if (!response.ok) throw new Error(result.error || 'Please try again.');
+    form.reset(); status.textContent = 'Thanks! Your enquiry is with our team. Weâ€™ll be in touch.';
+    if (form.id === 'quote-form') { state.quote = []; saveQuote(); }
+    else setTimeout(() => { status.textContent = ''; }, 7000);
+  } catch (error) {
+    status.textContent = error.message.includes('Failed to fetch') ? 'Couldnâ€™t connect right now. Please try again or WhatsApp us.' : error.message;
+    status.classList.add('error');
+  } finally { button.disabled = false; button.style.opacity = '1'; }
+}
 
-›ÙXÝ
-HOˆ›ÙXÝšYOOH][KšY
-OË›˜[YH][KšYJJNÂˆ]Û‹™\ØX›YHYNÈ]Û‹œÝ[K›ÜXÚ]HH	Ë‰ÎÈÝ]\Ë˜Û\ÜÓ\Ýœ™[[Ý™J	Ù\œ›Ü‰ÊNÈÝ]\Ë^ÛÛ[H	ÔÙ[™[™È[Ý\ˆ[œ]Z\žx )‰ÎÂˆžHÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]™]Ú
-	ËØ\KÙ[œ]Z\šY\ÉËÈY]Ùˆ	ÔÔÕ	ËXY\œÎˆÈ	ÐÛÛ[U\IÎˆ	Ø\XØ][Û‹ÚœÛÛ‰ÈK›ÙNˆ”ÓÓ‹œÝš[™ÚYžJ]JHJNÂˆÛÛœÝ™\Ý[H]ØZ]™\ÜÛœÙKšœÛÛŠ
-NÈYˆ
-\™\ÜÛœÙK›ÚÊH›ÝÈ™]È\œ›ÜŠ™\Ý[™\œ›Üˆ	ÔX\ÙHžHYØZ[‹‰ÊNÂˆ›Ü›Kœ™\Ù]
-
-NÈÝ]\Ë^ÛÛ[H	Õ[šÜÈH[Ý\ˆ[œ]Z\žH\ÈÚ]Ý\ˆX[KˆÙx &[™H[ˆÝXÚ‰ÎÂˆYˆ
-›Ü›KšYOOH	Ü][ÝKY›Ü›IÊHÈÝ]Kœ][ÝHH×NÈØ]™T][ÝJ
-NÈBˆ[ÙHÙ][Y[Ý]
-
-
-HOˆÈÝ]\Ë^ÛÛ[H	ÉÎÈKÌ
-NÂˆHØ]Ú
-\œ›ÜŠHÂˆÝ]\Ë^ÛÛ[H\œ›Ü‹›Y\ÜØYÙKš[˜ÛY\Ê	Ñ˜Z[YÈ™]Ú	ÊHÈ	ÐÛÝ[¸ &]ÛÛ›™XÝšYÚ›ÝËˆX\ÙHžHYØZ[ˆÜˆÚ]Ð\\Ë‰Èˆ\œ›Ü‹›Y\ÜØYÙNÂˆÝ]\Ë˜Û\ÜÓ\Ý˜Y
-	Ù\œ›Ü‰ÊNÂˆHš[˜[HÈ]Û‹™\ØX›YH˜[ÙNÈ]Û‹œÝ[K›ÜXÚ]HH	ÌIÎÈBŸB‚™ØÝ[Y[˜Y]™[\Ý[™\Š	ØÛXÚÉË
-]™[
-HOˆÂˆÛÛœÝ˜]›Üš]HH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KY˜]›Üš]WIÊNÂˆYˆ
-˜]›Üš]JHÈ]™[œÝÜ›ÜYØ][ÛŠ
-NÈÙÙÛQ˜]›Üš]J˜]›Üš]K™]\Ù]™˜]›Üš]JNÈ™]\›ŽÈBˆÛÛœÝÜ[ÛœÈH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K[Ü[Ûœ×IÊNÂˆYˆ
-Ü[ÛœÊHÈ]™[œÝÜ›ÜYØ][ÛŠ
-NÈÜ[”›ÙXÝ
-Ü[ÛœË™]\Ù]›Ü[ÛœÊNÈ™]\›ŽÈBˆÛÛœÝØ\YH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXØ\XYIÊNÂˆYˆ
-Ø\Y
-HÂˆ]™[œÝÜ›ÜYØ][ÛŠ
-NÂˆÛÛœÝÚ^™HH	
-	ÈÙ]Z[\Ú^™IÊOË˜[YH	ÉËÛÛÜˆH	
-	ÈÙ]Z[XÛÛÜ‰ÊOË˜[YH	ÉÎÂˆYˆ
-\Ú^™JHÈ	
-	ÈÙ]Z[\Ú^™IÊOË™›ØÝ\Ê
-NÈØ\Ý
-	ÐÚÛÜÙHHÚ^™HÈY\ÈØ\›Y[‰ÊNÈ™]\›ŽÈBˆYÐØ\
-Ø\Y™]\Ù]˜Ø\YÈÚ^™KÛÛÜ‹]X[]Nˆ	
-	ÈÙ]Z[\]X[]IÊOË˜[YHHJNÂˆ	
-	ÈÜ›ÙXÝYX[ÙÉÊK˜ÛÜÙJ
-NÈ™]\›ŽÂˆBˆÛÛœÝYH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXYIÊNÂˆYˆ
-Y
-HÂˆ]™[œÝÜ›ÜYØ][ÛŠ
-NÂˆÛÛœÝÚ^™HH	
-	ÈÙ]Z[\Ú^™IÊOË˜[YH	ÉËÛÛÜˆH	
-	ÈÙ]Z[XÛÛÜ‰ÊOË˜[YH	ÉÎÂˆYˆ
-\Ú^™JHÈ	
-	ÈÙ]Z[\Ú^™IÊOË™›ØÝ\Ê
-NÈØ\Ý
-	ÐÚÛÜÙHHÚ^™HÈY\ÈØ\›Y[‰ÊNÈ™]\›ŽÈBˆY›ÙXÝ
-Y™]\Ù]˜YÈÚ^™KÛÛÜ‹]X[]Nˆ	
-	ÈÙ]Z[\]X[]IÊOË˜[YHHJNÂˆYˆ
-Y˜ÛÜÙ\Ý
-	Ëœ›ÙXÝYX[ÙÉÊJH	
-	ÈÜ›ÙXÝYX[ÙÉÊK˜ÛÜÙJ
-NÈ™]\›ŽÂˆBˆÛÛœÝ›ÙXÝH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\›ÙXÝIÊNÂˆYˆ
-›ÙXÝ
-HÈÜ[”›ÙXÝ
-›ÙXÝ™]\Ù]œ›ÙXÝ
-NÈ™]\›ŽÈBˆÛÛœÝ™[[Ý™HH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\™[[Ý™WIÊNÂˆYˆ
-™[[Ý™JHÈÝ]Kœ][ÝHHÝ]Kœ][ÝK™š[\Š
-][JHOˆ][KšÙ^HOOH™[[Ý™K™]\Ù]œ™[[Ý™JNÈØ]™T][ÝJ
-NÈ™]\›ŽÈBˆÛÛœÝØ\™[[Ý™HH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXØ\\™[[Ý™WIÊNÂˆYˆ
-Ø\™[[Ý™JHÈÝ]K˜Ø\HÝ]K˜Ø\™š[\Š
-][JHOˆ][KšÙ^HOOHØ\™[[Ý™K™]\Ù]˜Ø\™[[Ý™JNÈØ]™PØ\
-
-NÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈØØ\]šYÙÙ\‰ÊJHÈ™[™\Ø\
-
-NÈÙ]ÚXÚÛÝ]Ý\
-	Ø˜YÉÊNÈ	
-	ÈØØ\YX[ÙÉÊKœÚÝÓ[Ù[
-
-NÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈØÚXÚÛÝ]Z[[[šÉÊJH	
-	ÈØØ\YX[ÙÉÊK˜ÛÜÙJ
-NÂˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈØÚXÚÛÝ][™^	ÊJHÈYˆ
-Ý]K˜Ø\›[™Ý
-HÙ]ÚXÚÛÝ]Ý\
-	Ù[]™\žIÊNÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈØÚXÚÛÝ]X˜XÚÉÊJHÈÙ]ÚXÚÛÝ]Ý\
-	Ø˜YÉÊNÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXØ\XÛÜÙWIÊJHÈ	
-	ÈØØ\YX[ÙÉÊK˜ÛÜÙJ
-NÈ	
-	ÈÜÚÜ	ÊKœØÜ›Û[ÕšY]ÊÈ™Z]š[ÜŽˆ	ÜÛ[ÛÝ	ÈJNÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈÜÝXØÙ\ÜËXÛÜÙIÊJHÈ	
-	ÈÛÜ™\‹\ÝXØÙ\ÜÉÊK˜ÛÜÙJ
-NÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXÛX\‹Yš[\œ×IÊJHÂˆÝ]K™š[\ˆH	Ð[	ÎÈÝ]Kœ]Y\žHH	ÉÎÈÝ]KœØ]™YÛ›HH˜[ÙNÈ	
-	ÈÜ›ÙXÝ\ÙX\˜Ú	ÊK˜[YHH	ÉÎÈ	
-	ÈÜ›ÙXÝ\ÛÜ	ÊK˜[YHH	Ù™X]\™Y	ÎÂˆØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	Ë™š[\‰ÊK™›Ü‘XXÚ
-
-]ÛŠHOˆ]Û‹˜Û\ÜÓ\ÝÙÙÛJ	ØXÝ]™IË]Û‹™]\Ù]™š[\ˆOOH	Ð[	ÊJNÈ™[™\”›ÙXÝÊ
-NÂˆBŸJNÂ™ØÝ[Y[˜Y]™[\Ý[™\Š	ØÚ[™ÙIË
-]™[
-HOˆÂˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K\]X[]WIÊJHÂˆÛÛœÝ][HHÝ]Kœ][ÝK™š[™
-
-[žJHOˆ[žKšÙ^HOOH]™[\™Ù]™]\Ù]œ]X[]JNÂˆYˆ
-][JHÈ][Kœ]X[]HHX]›X^
-KX]›Z[ŠL[X™\Š]™[\™Ù]˜[YJHJJNÈØ]™T][ÝJ
-NÈBˆBˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]KXØ\\]X[]WIÊJHÂˆÛÛœÝ][HHÝ]K˜Ø\™š[™
-
-[žJHOˆ[žKšÙ^HOOH]™[\™Ù]™]\Ù]˜Ø\]X[]JNÂˆYˆ
-][JHÈ][Kœ]X[]HHX]›X^
-KX]›Z[ŠL[X™\Š]™[\™Ù]˜[YJHJJNÈØ]™PØ\
-
-NÈBˆBŸJNÂ‰
-	ÈÙš[\œÉÊK˜Y]™[\Ý[™\Š	ØÛXÚÉË
-]™[
-HOˆÂˆÛÛœÝ]ÛˆH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KYš[\—IÊNÈYˆ
-X]ÛŠH™]\›ŽÂˆÝ]K™š[\ˆH]Û‹™]\Ù]™š[\ŽÂˆØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	Ë™š[\‰ÊK™›Ü‘XXÚ
-
-[žJHOˆ[žK˜Û\ÜÓ\ÝÙÙÛJ	ØXÝ]™IË[žHOOH]ÛŠJNÈ™[™\”›ÙXÝÊ
-NÂŸJNÂ‰
-	ÈÜ›ÙXÝ\ÙX\˜Ú	ÊK˜Y]™[\Ý[™\Š	Ú[œ]	Ë
-]™[
-HOˆÈÝ]Kœ]Y\žHH]™[\™Ù]˜[YKš[J
-NÈ™[™\”›ÙXÝÊ
-NÈJNÂ‰
-	ÈÜ›ÙXÝ\ÛÜ	ÊK˜Y]™[\Ý[™\Š	ØÚ[™ÙIË
-]™[
-HOˆÈÝ]KœÛÜH]™[\™Ù]˜[YNÈ™[™\”›ÙXÝÊ
-NÈJNÂ‰
-	ÈÙ˜]›Üš]\Ë]ÙÙÛIÊK˜Y]™[\Ý[™\Š	ØÛXÚÉË
-
-HOˆÈÝ]KœØ]™YÛ›HH\Ý]KœØ]™YÛ›NÈ™[™\”›ÙXÝÊ
-NÈJNÂ‰
-	ÈÝÙZYÚ]XœÉÊK˜Y]™[\Ý[™\Š	ØÛXÚÉË
-]™[
-HOˆÂˆÛÛœÝ]ÛˆH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K]ÙZYÚIÊNÈYˆ
-X]ÛŠH™]\›ŽÂˆØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	ÈÝÙZYÚ]XœÈÙ]K]ÙZYÚIÊK™›Ü‘XXÚ
-
-XŠHOˆÂˆÛÛœÝXÝ]™HHXˆOOH]ÛŽÂˆX‹˜Û\ÜÓ\ÝÙÙÛJ	ØXÝ]™IËXÝ]™JNÂˆX‹œÙ]]šX]J	Ø\šXK\™\ÜÙY	ËÝš[™ÊXÝ]™JJNÂˆJNÂˆ™[™\•ÙZYÚ›ÙXÝÊ]Û‹™]\Ù]ÙZYÚ
-NÂŸJNÂ‰
-	ÈÜ][ÝK]šYÙÙ\‰ÊK˜Y]™[\Ý[™\Š	ØÛXÚÉË
-
-HOˆ	
-	ÈÜ][ÝKYX[ÙÉÊKœÚÝÓ[Ù[
-
-JNÂ‰
-	ÈØÚXÚÛÝ]Y›Ü›IÊK˜Y]™[\Ý[™\Š	ÜÝX›Z]	Ë
-]™[
-HOˆÈ]™[œ™]™[Y˜][
-
-NÈÝX›Z]ÚXÚÛÝ]
-]™[˜Ý\œ™[\™Ù]
-NÈJNÂ™ØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	ÙX[ÙÈ™X[ÙËXÛÜÙIÊK™›Ü‘XXÚ
-
-]ÛŠHOˆ]Û‹˜Y]™[\Ý[™\Š	ØÛXÚÉË
-
-HOˆ]Û‹˜ÛÜÙ\Ý
-	ÙX[ÙÉÊK˜ÛÜÙJ
-JJNÂ™ØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	ÙX[ÙÉÊK™›Ü‘XXÚ
-
-X[ÙÊHOˆX[ÙË˜Y]™[\Ý[™\Š	ØÛXÚÉË
-]™[
-HOˆÈYˆ
-]™[\™Ù]OOHX[ÙÊHX[ÙË˜ÛÜÙJ
-NÈJJNÂ™ØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	Ëš[œ]Z\žKY›Ü›N››Ý
-ØÚXÚÛÝ]Y›Ü›JIÊK™›Ü‘XXÚ
-
-›Ü›JHOˆ›Ü›K˜Y]™[\Ý[™\Š	ÜÝX›Z]	Ë
-]™[
-HOˆÈ]™[œ™]™[Y˜][
-
-NÈÝX›Z]›Ü›J›Ü›JNÈJJNÂ˜ÛÛœÝY[HH	
-	Ë›Y[K]ÙÙÛIÊNÂ›Y[K˜Y]™[\Ý[™\Š	ØÛXÚÉË
-
-HOˆÈÛÛœÝÜ[ˆH	
-	ÈÛXZ[‹[˜]‰ÊK˜Û\ÜÓ\ÝÙÙÛJ	ÛÜ[‰ÊNÈY[KœÙ]]šX]J	Ø\šXKY^[™Y	ËÝš[™ÊÜ[ŠJNÈY[KœÙ]]šX]J	Ø\šXK[X™[	ËÜ[ˆÈ	ÐÛÜÙHY[IÈˆ	ÓÜ[ˆY[IÊNÈJNÂ™ØÝ[Y[œ]Y\žTÙ[XÝÜ[
-	Ë›XZ[‹[˜]ˆIÊK™›Ü‘XXÚ
-
-[šÊHOˆ[šË˜Y]™[\Ý[™\Š	ØÛXÚÉË
-
-HOˆÈ	
-	ÈÛXZ[‹[˜]‰ÊK˜Û\ÜÓ\Ýœ™[[Ý™J	ÛÜ[‰ÊNÈY[KœÙ]]šX]J	Ø\šXKY^[™Y	Ë	Ù˜[ÙIÊNÈJJNÂ‰
-	ÈÞYX\‰ÊK^ÛÛ[H™]È]J
-K™Ù][YX\Š
-NÈØ]™T][ÝJ
-NÂœ™[™\Ø\
-
-NÂ™™]Ú
-	ËØ\KÜ›ÙXÝÉÊK[Š
-™\ÜÛœÙJHOˆÈYˆ
-\™\ÜÛœÙK›ÚÊH›ÝÈ™]È\œ›ÜŠ
-NÈ™]\›ˆ™\ÜÛœÙKšœÛÛŠ
-NÈJBˆ[Š
-]JHOˆÈÝ]Kœ›ÙXÝÈH\œ˜^Kš\Ð\œ˜^J]JHÈ]Hˆ]Kœ›ÙXÝÎÈ™[™\”›ÙXÝÊ
-NÈ™[™\•ÙZYÚ›ÙXÝÊ
-NÈØ]™T][ÝJ
-NÈØ]™PØ\
-
-NÈJBˆ˜Ø]Ú
-
-
-HOˆÈ	
-	ÈÜ›ÙXÝYÜšY	ÊKš[›™\’SH	Ï]ˆÛ\ÜÏH›ØY[™È•HÛÛXÝ[Ûˆ\ÈZÚ[™ÈH[ÛY[ˆ™Yœ™\ÚHYÙHÈžHYØZ[‹Ù]‰ÎÈJNÂ™™]Ú
-	ËØ\KØÛÛ™šYÉÊK[Š
-™\ÜÛœÙJHOˆ™\ÜÛœÙKšœÛÛŠ
-JK[Š
-ÈÚ]Ø\[X™\ˆJHOˆÂˆÛÛœÝ[X™\ˆH×—ÎM_IË\Ý
-Ú]Ø\[X™\ˆ	ÉÊHÈÚ]Ø\[X™\ˆˆQUSÕÒUÐTÓ•SP‘TŽÂˆÛÛœÝ›Ü›X]YH
-ÉÛ[X™\‹œÛXÙJŠ_H	Û[X™\‹œÛXÙJ‹Ê_H	Û[X™\‹œÛXÙJÊ_XÂˆÛÛœÝY\ÜØYÙHH
-^
-HOˆÎ‹ËÝØK›YKÉÛ[X™\ŸOÝ^IÙ[˜ÛÙUT’PÛÛ\Û™[
-^
-_XÂˆ	
-	ÈÝÚ]Ø\[[šÉÊKš™YˆHY\ÜØYÙJ’HT’PKIÙZÙHÈ\ØÝ\ÜÈ[ˆ\\™[[œ]Z\žKˆŠNÂˆ	
-	ÈÝÚ]Ø\[[šÈÛX[	ÊK^ÛÛ[HY\ÜØYÙHT’PHX›Ý][Ý\ˆYXH0­È	Ù›Ü›X]YXÂˆÛÛœÝÚXÚÛÝ][H	
-	ÈØÚXÚÛÝ]Z[[[šÉÊNÂˆÚXÚÛÝ][š™YˆHY\ÜØYÙJ	ÒHT’PKH™YY[Ú]^HÜ™\ˆÜˆ^[Y[‰ÊNÂˆÚXÚÛÝ][\™Ù]H	×Ø›[šÉÎÂˆÚXÚÛÝ][œ™[H	Û›ÛÜ[™\‰ÎÂŸJK˜Ø]Ú
-
-
-HOˆÂˆÛÛœÝ[X™\ˆHQUSÕÒUÐTÓ•SP‘TŽÂˆ	
-	ÈÝÚ]Ø\[[šÉÊKš™YˆHÎ‹ËÝØK›YKÉÛ[X™\ŸOÝ^IÙ[˜ÛÙUT’PÛÛ\Û™[
-’HT’PKIÙZÙHÈ\ØÝ\ÜÈ[ˆ\\™[[œ]Z\žKˆŠ_XÂˆ	
-	ÈÝÚ]Ø\[[šÈÛX[	ÊK^ÛÛ[H	ÓY\ÜØYÙHT’PHX›Ý][Ý\ˆYXH0­È
-ÎLHÎÈŽMŒ‰ÎÂˆÛÛœÝÚXÚÛÝ][H	
-	ÈØÚXÚÛÝ]Z[[[šÉÊNÂˆÚXÚÛÝ][š™YˆHÎ‹ËÝØK›YKÉÛ[X™\ŸOÝ^IÙ[˜ÛÙUT’PÛÛ\Û™[
-	ÒHT’PKH™YY[Ú]^HÜ™\ˆÜˆ^[Y[‰Ê_XÂˆÚXÚÛÝ][\™Ù]H	×Ø›[šÉÎÂˆÚXÚÛÝ][œ™[H	Û›ÛÜ[™\‰ÎÂŸJNÂ™™]Ú
-	ËØ\KÜ^[Y[ØÛÛ™šYÉÊK[Š
-™\ÜÛœÙJHOˆ™\ÜÛœÙKšœÛÛŠ
-JK[Š
-ÛÛ™šYÊHOˆÂˆÝ]Kœ^[Y[HÈ‹‹œÝ]Kœ^[Y[‹‹˜ÛÛ™šYÈNÂˆÚXÚÛÝ]Ý]\ÊÛÛ™šYË™[˜X›YÈ	ÔÙXÝ\™HTHÚXÚÛÝ]\È™XYKˆ[]™\žH\ÈØ[Ý[]Y]ÚXÚÛÝ]‰Èˆ	ÓÛ›[™HTH\È›Ý[˜X›Yˆ[ÝHØ[ˆÝ[Ù[™[ˆÜ™\ˆ™\]Y\ÝÈT’PHÚ[ÛÛ™š\›H^[Y[Ü[ÛœË‰ÊNÂˆ™[™\Ø\
-
-NÂŸJK˜Ø]Ú
-
-
-HOˆÂˆÚXÚÛÝ]Ý]\Ê	Ô^[Y[Ù]\ÛÝ[›Ý™H™XXÚYˆ[ÝHØ[ˆÝ[Ù[™[ˆÜ™\ˆ™\]Y\ÝÈ›È^[Y[Ú[™HZÙ[‹‰ËYJNÂˆ™[™\Ø\
-
-NÂŸJNÂ
+document.addEventListener('click', (event) => {
+  const favorite = event.target.closest('[data-favorite]');
+  if (favorite) { event.stopPropagation(); toggleFavorite(favorite.dataset.favorite); return; }
+  const options = event.target.closest('[data-options]');
+  if (options) { event.stopPropagation(); openProduct(options.dataset.options); return; }
+  const cartAdd = event.target.closest('[data-cart-add]');
+  if (cartAdd) {
+    event.stopPropagation();
+    const size = $('#detail-size')?.value || '', color = $('#detail-color')?.value || '';
+    if (!size) { $('#detail-size')?.focus(); toast('Choose a size to add this garment.'); return; }
+    addToCart(cartAdd.dataset.cartAdd, { size, color, quantity: $('#detail-quantity')?.value || 1 });
+    $('#product-dialog').close(); return;
+  }
+  const add = event.target.closest('[data-add]');
+  if (add) {
+    event.stopPropagation();
+    const size = $('#detail-size')?.value || '', color = $('#detail-color')?.value || '';
+    if (!size) { $('#detail-size')?.focus(); toast('Choose a size to add this garment.'); return; }
+    addProduct(add.dataset.add, { size, color, quantity: $('#detail-quantity')?.value || 1 });
+    if (add.closest('.product-dialog')) $('#product-dialog').close(); return;
+  }
+  const product = event.target.closest('[data-product]');
+  if (product) { openProduct(product.dataset.product); return; }
+  const remove = event.target.closest('[data-remove]');
+  if (remove) { state.quote = state.quote.filter((item) => item.key !== remove.dataset.remove); saveQuote(); return; }
+  const cartRemove = event.target.closest('[data-cart-remove]');
+  if (cartRemove) { state.cart = state.cart.filter((item) => item.key !== cartRemove.dataset.cartRemove); saveCart(); return; }
+  if (event.target.closest('#cart-trigger')) { renderCart(); setCheckoutStep('bag'); $('#cart-dialog').showModal(); return; }
+  if (event.target.closest('#checkout-help-link')) $('#cart-dialog').close();
+  if (event.target.closest('#checkout-next')) { if (state.cart.length) setCheckoutStep('delivery'); return; }
+  if (event.target.closest('#checkout-back')) { setCheckoutStep('bag'); return; }
+  if (event.target.closest('[data-cart-close]')) { $('#cart-dialog').close(); $('#shop').scrollIntoView({ behavior: 'smooth' }); return; }
+  if (event.target.closest('#success-close')) { $('#order-success').close(); return; }
+  if (event.target.closest('[data-clear-filters]')) {
+    state.filter = 'All'; state.query = ''; state.savedOnly = false; $('#product-search').value = ''; $('#product-sort').value = 'featured';
+    document.querySelectorAll('.filter').forEach((button) => button.classList.toggle('active', button.dataset.filter === 'All')); renderProducts();
+  }
+});
+document.addEventListener('change', (event) => {
+  if (event.target.matches('[data-quantity]')) {
+    const item = state.quote.find((entry) => entry.key === event.target.dataset.quantity);
+    if (item) { item.quantity = Math.max(1, Math.min(10000, Number(event.target.value) || 1)); saveQuote(); }
+  }
+  if (event.target.matches('[data-cart-quantity]')) {
+    const item = state.cart.find((entry) => entry.key === event.target.dataset.cartQuantity);
+    if (item) { item.quantity = Math.max(1, Math.min(100, Number(event.target.value) || 1)); saveCart(); }
+  }
+});
+$('#filters').addEventListener('click', (event) => {
+  const button = event.target.closest('[data-filter]'); if (!button) return;
+  state.filter = button.dataset.filter;
+  document.querySelectorAll('.filter').forEach((entry) => entry.classList.toggle('active', entry === button)); renderProducts();
+});
+$('#product-search').addEventListener('input', (event) => { state.query = event.target.value.trim(); renderProducts(); });
+$('#product-sort').addEventListener('change', (event) => { state.sort = event.target.value; renderProducts(); });
+$('#favorites-toggle').addEventListener('click', () => { state.savedOnly = !state.savedOnly; renderProducts(); });
+$('#weight-tabs').addEventListener('click', (event) => {
+  const button = event.target.closest('[data-weight]'); if (!button) return;
+  document.querySelectorAll('#weight-tabs [data-weight]').forEach((tab) => {
+    const active = tab === button;
+    tab.classList.toggle('active', active);
+    tab.setAttribute('aria-pressed', String(active));
+  });
+  renderWeightProducts(button.dataset.weight);
+});
+$('#quote-trigger').addEventListener('click', () => $('#quote-dialog').showModal());
+$('#checkout-form').addEventListener('submit', (event) => { event.preventDefault(); submitCheckout(event.currentTarget); });
+document.querySelectorAll('dialog .dialog-close').forEach((button) => button.addEventListener('click', () => button.closest('dialog').close()));
+document.querySelectorAll('dialog').forEach((dialog) => dialog.addEventListener('click', (event) => { if (event.target === dialog) dialog.close(); }));
+document.querySelectorAll('.inquiry-form:not(#checkout-form)').forEach((form) => form.addEventListener('submit', (event) => { event.preventDefault(); submitForm(form); }));
+const menu = $('.menu-toggle');
+menu.addEventListener('click', () => { const open = $('#main-nav').classList.toggle('open'); menu.setAttribute('aria-expanded', String(open)); menu.setAttribute('aria-label', open ? 'Close menu' : 'Open menu'); });
+document.querySelectorAll('.main-nav a').forEach((link) => link.addEventListener('click', () => { $('#main-nav').classList.remove('open'); menu.setAttribute('aria-expanded', 'false'); }));
+$('#year').textContent = new Date().getFullYear(); saveQuote();
+renderCart();
+fetch('/api/products').then((response) => { if (!response.ok) throw new Error(); return response.json(); })
+  .then((data) => { state.products = Array.isArray(data) ? data : data.products; renderProducts(); renderWeightProducts(); saveQuote(); saveCart(); })
+  .catch(() => { $('#product-grid').innerHTML = '<div class="loading">The collection is taking a moment. Refresh the page to try again.</div>'; });
+fetch('/api/config').then((response) => response.json()).then(({ whatsappNumber }) => {
+  const number = /^\d{8,15}$/.test(whatsappNumber || '') ? whatsappNumber : DEFAULT_WHATSAPP_NUMBER;
+  const formatted = `+${number.slice(0, 2)} ${number.slice(2, 7)} ${number.slice(7)}`;
+  const message = (text) => `https://wa.me/${number}?text=${encodeURIComponent(text)}`;
+  $('#whatsapp-link').href = message("Hi APRIA, I'd like to discuss an apparel enquiry.");
+  $('#whatsapp-link small').textContent = `Message APRIA about your idea Â· ${formatted}`;
+  const checkoutHelp = $('#checkout-help-link');
+  checkoutHelp.href = message('Hi APRIA, I need help with my order or payment.');
+  checkoutHelp.target = '_blank';
+  checkoutHelp.rel = 'noopener';
+}).catch(() => {
+  const number = DEFAULT_WHATSAPP_NUMBER;
+  $('#whatsapp-link').href = `https://wa.me/${number}?text=${encodeURIComponent("Hi APRIA, I'd like to discuss an apparel enquiry.")}`;
+  $('#whatsapp-link small').textContent = 'Message APRIA about your idea Â· +91 78883 29606';
+  const checkoutHelp = $('#checkout-help-link');
+  checkoutHelp.href = `https://wa.me/${number}?text=${encodeURIComponent('Hi APRIA, I need help with my order or payment.')}`;
+  checkoutHelp.target = '_blank';
+  checkoutHelp.rel = 'noopener';
+});
+fetch('/api/payment/config').then((response) => response.json()).then((config) => {
+  state.payment = { ...state.payment, ...config };
+  checkoutStatus(config.enabled ? 'Secure UPI checkout is ready. Delivery is calculated at checkout.' : 'Online UPI is not enabled. You can still send an order request; APRIA will confirm payment options.');
+  renderCart();
+}).catch(() => {
+  checkoutStatus('Payment setup could not be reached. You can still send an order request; no payment will be taken.', true);
+  renderCart();
+});

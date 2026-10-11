@@ -1,175 +1,326 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×]uõ:-jZ.¶›­–)Þ³V6öç7Bg2Ò&WV—&R‚væöFS¦g2r“°¦6öç7BF‚Ò&WV—&R‚væöFS§F‚r“°¦6öç7B²&æFöÔ'—FW2Â&æFöÕUT”BÂ7&VFT†6‚Â&¶Fc%7–æ2ÂF–Ö–æu6fTWVÂÒÒ&WV—&R‚væöFS¦7'—Fòr“° ¦6öç7B$ôõBÒõöF—&æÖS°¦6öç7BDDÒF‚æ¦ö–â…$ôõBÂvFFr“°¦6öç7B5Dõ$Uôd”ÄRÒF‚æ¦ö–â„DDÂvFÖ–âÖFFæ§6öâr“°¦6öç7BDTdTÅEõt„E4ôåTÔ$U"Òs“sƒƒƒ3#“cbs°¦6öç7B4U54”ôåôÕ2Ò‚¢c¢c¢°¦6öç7BEDTÕEõt”äDõuôÕ2ÒR¢c¢°¦6öç7BÔ…ôÄôt”åôd”ÅU$U2Òƒ°¦6öç7BTåT•%•õ5DDU2Ò²væWrrÂv–å÷&öw&W72rÂwV÷FVBrÂwvöârÂv6Æ÷6VBuÓ°¦6öç7B$UTU5Eõ5DDU2Ò²væWrrÂv6öçF7FVBrÂv6öçfW'FVBrÂv6Æ÷6VBuÓ°¦6öç7BeTÄd”ÄÄÔTåEõ5DDU2Ò²wVægVÆf–ÆÆVBrÂw&ö6W76–ærrÂw6†—VBrÂvFVÆ—fW&VBrÂv6æ6VÆÆVBuÓ°¦ÆWB7F÷&UVWVRÒ&öÖ—6Rç&W6öÇfR‚“°¦ÆWB–æ—E&öÖ—6S° ¦gVæ7F–öâ6ÆVâ‡fÇVRÂÖ‚ÒS’²&WGW&âG—VöbfÇVRÓÓÒw7G&–ærròfÇVRçG&–Ò‚’ç6Æ–6RƒÂÖ‚’¢rs²Ð¦gVæ7F–öâ6—¦W4öb‡7V2’°¢6öç7B'G2Ò7G&–ær‡7V2ÇÂrr’ç7Æ—B‚~(	2r’æÖ‚‡'B’Óâ'BçG&–Ò‚’’ÂÇ†Ò²u…2rÂu2rÂtÒrÂtÂrÂu„ÂrÂu…„ÂrÂs5„ÂuÓ°¢–b‡'G2æÆVæwF‚ÓÓÒ"bbÇ†æ–æ6ÇVFW2‡'G5³Ò’bbÇ†æ–æ6ÇVFW2‡'G5³Ò’’&WGW&âÇ†ç6Æ–6R†Ç†æ–æFW„öb‡'G5³Ò’ÂÇ†æ–æFW„öb‡'G5³Ò’²“°¢–b‡'G2æÆVæwF‚ÓÓÒ"bbõåÆB²BòçFW7B‡'G5³Ò’bbõåÆB²BòçFW7B‡'G5³Ò’’°¢6öç7Bf—'7BÒçVÖ&W"‡'G5³Ò’ÂÆ7BÒçVÖ&W"‡'G5³Ò“°¢–b†Æ7BãÒf—'7Bbb†Æ7BÒf—'7B’R"ÓÓÒbb†Æ7BÒf—'7B’ò"Â3’&WGW&â'&’æg&öÒ‡²ÆVæwFƒ¢†Æ7BÒf—'7B’ò"²ÒÂ…òÂ’’Óâ7G&–ær†f—'7B²’¢"’“°¢Ð¢&WGW&â7G&–ær‡7V2ÇÂrr’ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“°§Ð¦gVæ7F–öâ6öÆ÷'4öb‡7V2’²&WGW&â7G&–ær‡7V2ÇÂrr’ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“²Ð¦gVæ7F–öâ&öGV7Ef&–çG2‡&öGV7BÂW†—7F–ærÒµÒ’°¢6öç7B7W'&VçBÒæWrÖ†W†—7F–æræÖ‚‡&÷r’Óâ¶G·&÷rç6—¦W×ÂG·&÷ræ6öÆ÷'ÖÂ&÷uÒ’“°¢&WGW&â6—¦W4öb‡&öGV7Bç6—¦W2’æfÆDÖ‚‡6—¦R’Óâ6öÆ÷'4öb‡&öGV7Bæ6öÆ÷"’æÖ‚†6öÆ÷"’Óâ°¢6öç7B&–÷"Ò7W'&VçBævWB†G·6—¦W×ÂG¶6öÆ÷'Ö“°¢&WGW&â²6—¦RÂ6öÆ÷"Â7Fö6´öä†æC¢ÖF‚æÖ‚ƒÂçVÖ&W"ç'6T–çB‡&–÷#òç7Fö6´öä†æBÂ’ÇÂ’Â&W6W'fVC¢ÖF‚æÖ‚ƒÂçVÖ&W"ç'6T–çB‡&–÷#òç&W6W'fVBÂ’ÇÂ’Ó°¢Ò’“°§Ð¦gVæ7F–öâæ÷&ÖÆ—¦U&öGV7B†–çWBÂ–BÂW†—7F–ærÒ·Ò’°¢6öç7BæÖRÒ6ÆVâ†–çWBææÖRÂ#’Â6FVv÷'’Ò6ÆVâ†–çWBæ6FVv÷'’Âc’Â6öÆ÷"Ò6ÆVâ†–çWBæ6öÆ÷"Âƒ’Â6—¦W2Ò6ÆVâ†–çWBç6—¦W2Â“°¢6öç7B–ÖvRÒ6ÆVâ†–çWBæ–ÖvRÂS’Â–ÖvUF‚Ò–ÖvRç7F'G5v—F‚‚ròr’bb–ÖvRç7F'G5v—F‚‚ròòr’bb–ÖvRç7Æ—B‚ròr’æ–æ6ÇVFW2‚rââr’bbõåÂõ´Õ¦×£Ó•òâòÕÒ²BòçFW7B†–ÖvR’Â–ÖvTö²Òõæ‡GG3¥ÂõÂòö’çFW7B†–ÖvR’ÇÂ–ÖvUFƒ°¢6öç7B&–6RÒçVÖ&W"†–çWBç&–6R’Âg&öÒÒçVÖ&W"†–çWBæg&öÒÇÂ“°¢–b‚æÖRÇÂ6FVv÷'’ÇÂ6öÆ÷"ÇÂ6—¦W2ÇÂ–ÖvTö²ÇÂçVÖ&W"æ—4f–æ—FR‡&–6R’ÇÂ&–6RÃÒÇÂ&–6RâSÇÂçVÖ&W"æ—4f–æ—FR†g&öÒ’ÇÂg&öÒÂÇÂg&öÒâS’F‡&÷ræWrW'&÷"‚tVçFW"æÖRÂ6FVv÷'’ÂfÆ–B–ÖvRU$ÂÂ6—¦W2Â6öÆ÷W'2æB&WF–Â&–6R&÷fR(+“âr“°¢–b‚6—¦W4öb‡6—¦W2’æÆVæwF‚ÇÂ6öÆ÷'4öb†6öÆ÷"’æÆVæwF‚’F‡&÷ræWrW'&÷"‚tFBBÆV7BöæR6—¦RæB6öÆ÷W"âr“°¢6öç7B&öGV7BÒ²ââæW†—7F–ærÂ–BÂæÖRÂ6FVv÷'’Â&–6RÂg&öÒÂ–ÖvRÂ6öÆ÷"Â6—¦W2Âw6Ó¢6ÆVâ†–çWBæw6ÒÂc’Âf'&–3¢6ÆVâ†–çWBæf'&–2Â’ÂFs¢6ÆVâ†–çWBçFrÂc’ÂFW67&—F–öã¢6ÆVâ†–çWBæFW67&—F–öâÂ#’Â7F—fS¢–çWBæ7F—fRÓÒfÇ6RÂ6÷'D÷&FW#¢çVÖ&W"æ—4–çFVvW"„çVÖ&W"†–çWBç6÷'D÷&FW"’’òçVÖ&W"†–çWBç6÷'D÷&FW"’¢†W†—7F–ærç6÷'D÷&FW"ÇÂ’ÂWFFVDC¢æWrFFR‚’çFô•4õ7G&–ær‚’Ó°¢&öGV7Bçf&–çG2Ò&öGV7Ef&–çG2‡&öGV7BÂW†—7F–ærçf&–çG2ÇÂµÒ“°¢&WGW&â&öGV7C°§Ð¦gVæ7F–öâ&Ææµ7F÷&R‚’²&WGW&â²fW'6–öã¢ÂW6W'3¢µÒÂ6W76–öç3¢µÒÂGFV×G3¢·ÒÂ&öGV7G3¢µÒÂVçV—&–W3¢µÒÂ÷&FW%&WVW7G3¢µÒÂ÷&FW'3¢µÒÂ6WGF–æw3¢çVÆÂÂVF—C¢µÒÓ²Ð¦7–æ2gVæ7F–öâÖ¶T–æ—F–Å7F÷&R‚’°¢6öç7B7F÷&RÒ&Ææµ7F÷&R‚’Â6÷W&6U&öGV7G2Ò¥4ôâç'6R†v—Bg2ç&öÖ—6W2ç&VDf–ÆR‡F‚æ¦ö–â…$ôõBÂwV&Æ–2rÂw&öGV7G2æ§6öâr’ÂwWFc‚r’“°¢7F÷&Rç&öGV7G2Ò6÷W&6U&öGV7G2æÖ‚‡&öGV7BÂ–æFW‚’Óâæ÷&ÖÆ—¦U&öGV7B‡²ââç&öGV7BÂ7F—fS¢G'VRÂ6÷'D÷&FW#¢–æFW‚ÒÂ&öGV7Bæ–B’“°¢7F÷&Rç6WGF–æw2Ò²v†G6çVÖ&W#¢‡&ö6W72æVçbåt„E4ôåTÔ$U"ÇÂDTdTÅEõt„E4ôåTÔ$U"’ç&WÆ6R‚õÄBörÂrr’Â6†—–ætfVU—6S¢ÖF‚æÖ‚ƒÂçVÖ&W"ç'6T–çB‡&ö6W72æVçbå4„•”äuôdTUõ•4RÇÂsrÂ’ÇÂ’Ó°¢G'’°¢6öç7BÆ–æW2Ò†v—Bg2ç&öÖ—6W2ç&VDf–ÆR‡F‚æ¦ö–â„DDÂvVçV—&–W2æ§6öæÂr’ÂwWFc‚r’’ç7Æ—B‚õÇ#õÆâò’æf–ÇFW"„&ööÆVâ“°¢7F÷&RæVçV—&–W2ÒÆ–æW2æÖ‚†Æ–æR’Óâ²G'’²6öç7B—FVÒÒ¥4ôâç'6R†Æ–æR’Â7&VFVDBÒ—FVÒæ7&VFVDBÇÂæWrFFR‚’çFô•4õ7G&–ær‚“²&WGW&â²ââæ—FVÒÂ7FGW3¢væWrrÂFÖ–äæ÷FS¢rrÂWFFVDC¢7&VFVDBÓ²Ò6F6‚²&WGW&âçVÆÃ²ÒÒ’æf–ÇFW"„&ööÆVâ“°¢Ò6F6‚·Ð¢G'’°¢6öç7BöÆD÷&FW'2Ò¥4ôâç'6R†v—Bg2ç&öÖ—6W2ç&VDf–ÆR‡F‚æ¦ö–â„DDÂv÷&FW'2æ§6öâr’ÂwWFc‚r’“°¢7F÷&Ræ÷&FW'2Ò'&’æ—4'&’†öÆD÷&FW'2’òöÆD÷&FW'2æÖ‚†÷&FW"’Óâ‡²gVÆf–ÆÆÖVçE7FGW3¢wVægVÆf–ÆÆVBrÂFÖ–äæ÷FS¢rrÂ&W6W'fF–öå7FGW3¢væöæRrÂ&W6W'fF–öäW‡—&W4C¢rrÂââæ÷&FW"Ò’’¢µÓ°¢Ò6F6‚·Ð¢&WGW&â7F÷&S°§Ð¦7–æ2gVæ7F–öâFöÖ–56fR‡7F÷&R’°¢v—Bg2ç&öÖ—6W2æÖ¶F—"„DDÂ²&V7W'6—fS¢G'VRÒ“°¢6öç7BFV×÷&'’ÒGµ5Dõ$Uôd”ÄWÒâG·&ö6W72ç–GÒçF×°¢v—Bg2ç&öÖ—6W2çw&—FTf–ÆR‡FV×÷&'’Â¥4ôâç7G&–æv–g’‡7F÷&R’Â²Væ6öF–æs¢wWFc‚rÂÖöFS¢ócÒ“°¢v—Bg2ç&öÖ—6W2ç&VæÖR‡FV×÷&'’Â5Dõ$Uôd”ÄR“°§Ð¦7–æ2gVæ7F–öâVç7W&U7F÷&R‚’°¢–b‚–æ—E&öÖ—6R’–æ—E&öÖ—6RÒ†7–æ2‚’Óâ°¢v—Bg2ç&öÖ—6W2æÖ¶F—"„DDÂ²&V7W'6—fS¢G'VRÒ“°¢G'’°¢6öç7B7F÷&RÒ¥4ôâç'6R†v—Bg2ç&öÖ—6W2ç&VDf–ÆR…5Dõ$Uôd”ÄRÂwWFc‚r’“°¢ö&¦V7Bæ76–vâ‡7F÷&RÂ²ââæ&Ææµ7F÷&R‚’Âââç7F÷&RÒ“°¢–b‚7F÷&Rç6WGF–æw2’7F÷&Rç6WGF–æw2Ò²v†G6çVÖ&W#¢‡&ö6W72æVçbåt„E4ôåTÔ$U"ÇÂDTdTÅEõt„E4ôåTÔ$U"’ç&WÆ6R‚õÄBörÂrr’Â6†—–ætfVU—6S¢Ó°¢VÇ6R–b‚7F÷&Rç6WGF–æw2çv†G6çVÖ&W"’7F÷&Rç6WGF–æw2çv†G6çVÖ&W"Ò‡&ö6W72æVçbåt„E4ôåTÔ$U"ÇÂDTdTÅEõt„E4ôåTÔ$U"’ç&WÆ6R‚õÄBörÂrr“°¢–b‚'&’æ—4'&’‡7F÷&Rç&öGV7G2’ÇÂ7F÷&Rç&öGV7G2æÆVæwF‚’7F÷&Rç&öGV7G2Ò†v—BÖ¶T–æ—F–Å7F÷&R‚’’ç&öGV7G3°¢v—BFöÖ–56fR‡7F÷&R“°¢Ò6F6‚†W'&÷"’°¢–b†W'&÷"æ6öFRÓÒtTäôTåBr’°¢–b†W'&÷"–ç7Fæ6Vöb7–çF„W'&÷"’F‡&÷ræWrW'&÷"‚tÆö6ÂFÖ–âFF—2Vç&VF&ÆRâ&W7F÷&RFFöFÖ–âÖFFæ§6öâg&öÒ&6·W&Vf÷&R6öçF–çV–ærârÂ²6W6S¢W'&÷"Ò“°¢F‡&÷rW'&÷#°¢Ð¢v—BFöÖ–56fR†v—BÖ¶T–æ—F–Å7F÷&R‚’“°¢Ð¢Ò’‚“°¢&WGW&â–æ—E&öÖ—6S°§Ð¦7–æ2gVæ7F–öâ&VE7F÷&R‚’²v—BVç7W&U7F÷&R‚“²v—B7F÷&UVWVS²&WGW&â¥4ôâç'6R†v—Bg2ç&öÖ—6W2ç&VDf–ÆR…5Dõ$Uôd”ÄRÂwWFc‚r’“²Ð¦7–æ2gVæ7F–öâWFFU7F÷&R†6ÆÆ&6²’°¢v—BVç7W&U7F÷&R‚“²ÆWB&W7VÇC°¢6öç7B÷W&F–öâÒ7F÷&UVWVRçF†Vâ†7–æ2‚’Óâ²6öç7B7F÷&RÒ¥4ôâç'6R†v—Bg2ç&öÖ—6W2ç&VDf–ÆR…5Dõ$Uôd”ÄRÂwWFc‚r’“²&W7VÇBÒv—B6ÆÆ&6²‡7F÷&R“²v—BFöÖ–56fR‡7F÷&R“²Ò“°¢7F÷&UVWVRÒ÷W&F–öâæ6F6‚‚‚’Óâ·Ò“²v—B÷W&F–öã²&WGW&â&W7VÇC°§Ð¦gVæ7F–öâ&¶Fc"‡77v÷&BÂ6ÇB’²&WGW&â&¶Fc%7–æ2‡77v÷&BÂ6ÇBÂ#Â3"Âw6†#Sbr’çFõ7G&–ær‚v&6ScGW&Âr“²Ð¦gVæ7F–öâ77v÷&D†6‚‡77v÷&B’²6öç7B6ÇBÒ&æFöÔ'—FW2ƒb’çFõ7G&–ær‚v&6ScGW&Âr“²&WGW&â&¶Fc"C#BG·6ÇGÒBG·&¶Fc"‡77v÷&BÂ6ÇB—Ö²Ð¦gVæ7F–öâ77v÷&DÖF6†W2‡77v÷&BÂVæ6öFVB’°¢6öç7B¶¶–æBÂ&÷VæG2Â6ÇBÂW‡V7FVEÒÒ7G&–ær†Væ6öFVBÇÂrr’ç7Æ—B‚rBr“²–b†¶–æBÓÒw&¶Fc"rÇÂçVÖ&W"‡&÷VæG2’ÓÒ#ÇÂ6ÇBÇÂW‡V7FVB’&WGW&âfÇ6S°¢6öç7B7GVÂÒ'VffW"æg&öÒ‡&¶Fc"‡77v÷&BÂ6ÇB’’ÂvçFVBÒ'VffW"æg&öÒ†W‡V7FVB“²&WGW&â7GVÂæÆVæwF‚ÓÓÒvçFVBæÆVæwF‚bbF–Ö–æu6fTWVÂ†7GVÂÂvçFVB“°§Ð¦gVæ7F–öâ†6‚‡fÇVR’²&WGW&â7&VFT†6‚‚w6†#Sbr’çWFFR‡fÇVR’æF–vW7B‚v†W‚r“²Ð¦gVæ7F–öâ6W76–öä†6‚‡fÇVR’²&WGW&â†6‚†G·&ö6W72æVçbäDÔ”åõ4U54”ôåõ4T5$UBÇÂrw×ÂG·fÇVWÖ“²Ð¦gVæ7F–öâFö¶Vâ†'—FW2Ò3"’²&WGW&â&æFöÔ'—FW2†'—FW2’çFõ7G&–ær‚v&6ScGW&Âr“²Ð¦gVæ7F–öâfÆ–E77v÷&B‡fÇVR’²&WGW&âG—VöbfÇVRÓÓÒw7G&–ærrbbfÇVRæÆVæwF‚ãÒ"bbfÇVRæÆVæwF‚ÃÒ#ƒ²Ð¦gVæ7F–öâVÖ–ÅfÇVR‡fÇVR’²&WGW&â6ÆVâ‡fÇVRÂ#’çFôÆ÷vW$66R‚“²Ð¦gVæ7F–öâ§6öâ‡&W2Â7FGW2ÂfÇVRÂ†VFW'2Ò·Ò’²&W2çw&—FT†VB‡7FGW2Â²t6öçFVçBÕG—Rs¢vÆ–6F–öâö§6öã²6†'6WC×WFbÓ‚rÂt66†RÔ6öçG&öÂs¢væò×7F÷&RrÂu‚Ô6öçFVçBÕG—RÔ÷F–öç2s¢væ÷6æ–fbrÂu&VfW'&W"ÕöÆ–7’s¢w6ÖRÖ÷&–v–ârÂââæ†VFW'2Ò“²&W2æVæB„¥4ôâç7G&–æv–g’‡fÇVR’“²Ð¦gVæ7F–öâ'6T&öG’‡&W’²&WGW&âæWr&öÖ—6R‚‡&W6öÇfRÂ&V¦V7B’Óâ²ÆWB&öG’Òrs²&Wæöâ‚vFFrÂ†6‡Væ²’Óâ²&öG’³Ò6‡Væ³²–b†&öG’æÆVæwF‚âc’²&V¦V7B†æWrW'&÷"‚u&WVW7B—2FöòÆ&vRâr’“²&WæFW7G&÷’‚“²ÒÒ“²&Wæöâ‚vVæBrÂ‚’Óâ²G'’²&W6öÇfR„¥4ôâç'6R†&öG’ÇÂw·Òr’“²Ò6F6‚²&V¦V7B†æWrW'&÷"‚uÆV6R7V&Ö—BfÆ–B¥4ôââr’“²ÒÒ“²&Wæöâ‚vW'&÷"rÂ&V¦V7B“²Ò“²Ð¦gVæ7F–öâ6öö¶–UFö¶Vâ‡&W’²6öç7BVçG'’Ò7G&–ær‡&Wæ†VFW'2æ6öö¶–RÇÂrr’ç7Æ—B‚s²r’æÖ‚†—FVÒ’Óâ—FVÒçG&–Ò‚’’æf–æB‚†—FVÒ’Óâ—FVÒç7F'G5v—F‚‚v&–öFÖ–ãÒr’“²G'’²&WGW&âVçG'’òFV6öFUU$”6ö×öæVçB†VçG'’ç6Æ–6R‚v&–öFÖ–ãÒræÆVæwF‚’’¢rs²Ò6F6‚²&WGW&ârs²ÒÐ¦gVæ7F–öâ6öö¶–T†VFW"‡&WÂfÇVRÂvR’²6öç7B6V7W&RÒ&ööÆVâ‡&Wç6ö6¶WBæVæ7'—FVBÇÂ&Wæ†VFW'5²w‚Öf÷'v&FVB×&÷FòuÒÓÓÒv‡GG2r“²&WGW&â&–öFÖ–ãÒG·fÇVWÓ²FƒÒó²‡GGöæÇ“²6ÖU6—FSÕ7G&–7C²Ö‚ÔvSÒG¶vWÒNu×Ûh‘éì¶»§q«^tÚXÚÛÝ]‰ÈJNÂˆ™]\›ˆÝ]ÛÛYHOOH	ÛÚÉÈÈœÛÛŠ™\ËŒÈÚÎˆYKÝØÚÓÛ’[™ˆ]X[]HJHˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	Ô›ÙXÝ˜\šX[›Ý›Ý[™‰ÈJNÂˆBˆYˆ
-›Ý]HOOH	ËÙ[œ]Z\šY\ÉÈ	‰ˆY]ÙOOH	ÑÑU	ÊH™]\›ˆœÛÛŠ™\ËŒÈ[œ]Z\šY\ÎˆÝÜ™K™[œ]Z\šY\ËœÛXÙJ
-KœÛÜ
-ÛÜÜ™X]Y
-HJNÂˆÛÛœÝ[œ]Z\žSX]ÚH›Ý]K›X]Ú
-×—Ù[œ]Z\šY\×Ê×‹×JÊIÊNÂˆYˆ
-[œ]Z\žSX]Ú	‰ˆY]ÙOOH	ÔUÒ	ÊHÂˆÛÛœÝYHXÛÙUT’PÛÛ\Û™[
-[œ]Z\žSX]ÚÌWJK[œ]H]ØZ]\œÙP›ÙJ™\JNÈYˆ
-]˜[YÝ]\Ê[œ]œÝ]\ËS”URT–WÔÕUTÊJH™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÐÚÛÜÙHH˜[Y[œ]Z\žHÝ]\Ë‰ÈJNÂˆÛÛœÝ›Ý[™H]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÈÛÛœÝ][HHÝ\œ™[™[œ]Z\šY\Ë™š[™
+const fs = require('node:fs');
+const path = require('node:path');
+const { randomBytes, randomUUID, createHash, pbkdf2Sync, timingSafeEqual } = require('node:crypto');
 
-[žJHOˆ[žKšYOOHY
-NÈYˆ
-Z][JH™]\›ˆ˜[ÙNÈ][KœÝ]\ÈH[œ]œÝ]\ÎÈ][K˜YZ[“›ÝHHÛX[Š[œ]˜YZ[“›ÝKÌ
-NÈ][K\]Y]H™]È]J
-KÒTÓÔÝš[™Ê
-NÈ]Y]
-Ý\œ™[]]	Ù[œ]Z\žWÝ\]Y	Ë	Ù[œ]Z\žIËYÚ[™ÙY[œ]Z\žHÝ]\ÈÈ	Ú[œ]œÝ]\ßK˜
-NÈ™]\›ˆYNÈJNÂˆ™]\›ˆ›Ý[™ÈœÛÛŠ™\ËŒÈÚÎˆYHJHˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	Ñ[œ]Z\žH›Ý›Ý[™‰ÈJNÂˆBˆYˆ
-›Ý]HOOH	ËÛÜ™\‹\™\]Y\ÝÉÈ	‰ˆY]ÙOOH	ÑÑU	ÊH™]\›ˆœÛÛŠ™\ËŒÈÜ™\”™\]Y\ÝÎˆÝÜ™K›Ü™\”™\]Y\ÝËœÛXÙJ
-KœÛÜ
-ÛÜÜ™X]Y
-HJNÂˆÛÛœÝ™\]Y\ÝX]ÚH›Ý]K›X]Ú
-×—ÛÜ™\‹\™\]Y\Ý×Ê×‹×JÊIÊNÂˆYˆ
-™\]Y\ÝX]Ú	‰ˆY]ÙOOH	ÔUÒ	ÊHÂˆÛÛœÝYHXÛÙUT’PÛÛ\Û™[
-™\]Y\ÝX]ÚÌWJK[œ]H]ØZ]\œÙP›ÙJ™\JNÈYˆ
-]˜[YÝ]\Ê[œ]œÝ]\Ë‘TUQTÕÔÕUTÊJH™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÐÚÛÜÙHH˜[YÜ™\ˆ™\]Y\ÝÝ]\Ë‰ÈJNÂˆÛÛœÝ›Ý[™H]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÈÛÛœÝ][HHÝ\œ™[›Ü™\”™\]Y\ÝË™š[™
+const ROOT = __dirname;
+const DATA = path.join(ROOT, 'data');
+const STORE_FILE = path.join(DATA, 'admin-data.json');
+const DEFAULT_WHATSAPP_NUMBER = '917888329606';
+const SESSION_MS = 8 * 60 * 60 * 1000;
+const ATTEMPT_WINDOW_MS = 15 * 60 * 1000;
+const MAX_LOGIN_FAILURES = 8;
+const ENQUIRY_STATES = ['new', 'in_progress', 'quoted', 'won', 'closed'];
+const REQUEST_STATES = ['new', 'contacted', 'converted', 'closed'];
+const FULFILLMENT_STATES = ['unfulfilled', 'processing', 'shipped', 'delivered', 'cancelled'];
+let storeQueue = Promise.resolve();
+let initPromise;
 
-[žJHOˆ[žKšYOOHY
-NÈYˆ
-Z][JH™]\›ˆ˜[ÙNÈ][KœÝ]\ÈH[œ]œÝ]\ÎÈ][K˜YZ[“›ÝHHÛX[Š[œ]˜YZ[“›ÝKÌ
-NÈ][K\]Y]H™]È]J
-KÒTÓÔÝš[™Ê
-NÈ]Y]
-Ý\œ™[]]	Ü™\]Y\ÝÝ\]Y	Ë	ÛÜ™\—Ü™\]Y\Ý	ËYÚ[™ÙY™\]Y\ÝÝ]\ÈÈ	Ú[œ]œÝ]\ßK˜
-NÈ™]\›ˆYNÈJNÂˆ™]\›ˆ›Ý[™ÈœÛÛŠ™\ËŒÈÚÎˆYHJHˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÓÜ™\ˆ™\]Y\Ý›Ý›Ý[™‰ÈJNÂˆBˆYˆ
-›Ý]HOOH	ËÛÜ™\œÉÈ	‰ˆY]ÙOOH	ÑÑU	ÊH™]\›ˆœÛÛŠ™\ËŒÈÜ™\œÎˆÝÜ™K›Ü™\œËœÛXÙJ
-KœÛÜ
-ÛÜÜ™X]Y
-K›X\
+function clean(value, max = 500) { return typeof value === 'string' ? value.trim().slice(0, max) : ''; }
+function sizesOf(spec) {
+  const parts = String(spec || '').split('â€“').map((part) => part.trim()), alpha = ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'];
+  if (parts.length === 2 && alpha.includes(parts[0]) && alpha.includes(parts[1])) return alpha.slice(alpha.indexOf(parts[0]), alpha.indexOf(parts[1]) + 1);
+  if (parts.length === 2 && /^\d+$/.test(parts[0]) && /^\d+$/.test(parts[1])) {
+    const first = Number(parts[0]), last = Number(parts[1]);
+    if (last >= first && (last - first) % 2 === 0 && (last - first) / 2 < 30) return Array.from({ length: (last - first) / 2 + 1 }, (_, i) => String(first + i * 2));
+  }
+  return String(spec || '').split('/').map((part) => part.trim()).filter(Boolean);
+}
+function colorsOf(spec) { return String(spec || '').split('/').map((part) => part.trim()).filter(Boolean); }
+function productVariants(product, existing = []) {
+  const current = new Map(existing.map((row) => [`${row.size}|${row.color}`, row]));
+  return sizesOf(product.sizes).flatMap((size) => colorsOf(product.color).map((color) => {
+    const prior = current.get(`${size}|${color}`);
+    return { size, color, stockOnHand: Math.max(0, Number.parseInt(prior?.stockOnHand, 10) || 0), reserved: Math.max(0, Number.parseInt(prior?.reserved, 10) || 0) };
+  }));
+}
+function normalizeProduct(input, id, existing = {}) {
+  const name = clean(input.name, 120), category = clean(input.category, 60), color = clean(input.color, 180), sizes = clean(input.sizes, 100);
+  const image = clean(input.image, 500), imagePath = image.startsWith('/') && !image.startsWith('//') && !image.split('/').includes('..') && /^\/[A-Za-z0-9_./-]+$/.test(image), imageOk = /^https:\/\//i.test(image) || imagePath;
+  const price = Number(input.price), from = Number(input.from || 0);
+  if (!name || !category || !color || !sizes || !imageOk || !Number.isFinite(price) || price <= 0 || price > 500000 || !Number.isFinite(from) || from < 0 || from > 500000) throw new Error('Enter a name, category, valid image URL, sizes, colours and a retail price above â‚¹0.');
+  if (!sizesOf(sizes).length || !colorsOf(color).length) throw new Error('Add at least one size and colour.');
+  const product = { ...existing, id, name, category, price, from, image, color, sizes, gsm: clean(input.gsm, 60), fabric: clean(input.fabric, 100), tag: clean(input.tag, 60), description: clean(input.description, 1200), active: input.active !== false, sortOrder: Number.isInteger(Number(input.sortOrder)) ? Number(input.sortOrder) : (existing.sortOrder || 0), updatedAt: new Date().toISOString() };
+  product.variants = productVariants(product, existing.variants || []);
+  return product;
+}
+function blankStore() { return { version: 1, users: [], sessions: [], attempts: {}, products: [], enquiries: [], orderRequests: [], orders: [], settings: null, audit: [] }; }
+async function makeInitialStore() {
+  const store = blankStore(), sourceProducts = JSON.parse(await fs.promises.readFile(path.join(ROOT, 'public', 'products.json'), 'utf8'));
+  store.products = sourceProducts.map((product, index) => normalizeProduct({ ...product, active: true, sortOrder: index }, product.id));
+  store.settings = { whatsappNumber: (process.env.WHATSAPP_NUMBER || DEFAULT_WHATSAPP_NUMBER).replace(/\D/g, ''), shippingFeePaise: Math.max(0, Number.parseInt(process.env.SHIPPING_FEE_PAISE || '0', 10) || 0) };
+  try {
+    const lines = (await fs.promises.readFile(path.join(DATA, 'enquiries.jsonl'), 'utf8')).split(/\r?\n/).filter(Boolean);
+    store.enquiries = lines.map((line) => { try { const item = JSON.parse(line), createdAt = item.createdAt || new Date().toISOString(); return { ...item, status: 'new', adminNote: '', updatedAt: createdAt }; } catch { return null; } }).filter(Boolean);
+  } catch {}
+  try {
+    const oldOrders = JSON.parse(await fs.promises.readFile(path.join(DATA, 'orders.json'), 'utf8'));
+    store.orders = Array.isArray(oldOrders) ? oldOrders.map((order) => ({ fulfillmentStatus: 'unfulfilled', adminNote: '', reservationStatus: 'none', reservationExpiresAt: '', ...order })) : [];
+  } catch {}
+  return store;
+}
+async function atomicSave(store) {
+  await fs.promises.mkdir(DATA, { recursive: true });
+  const temporary = `${STORE_FILE}.${process.pid}.tmp`;
+  await fs.promises.writeFile(temporary, JSON.stringify(store), { encoding: 'utf8', mode: 0o600 });
+  await fs.promises.rename(temporary, STORE_FILE);
+}
+async function ensureStore() {
+  if (!initPromise) initPromise = (async () => {
+    await fs.promises.mkdir(DATA, { recursive: true });
+    try {
+      const store = JSON.parse(await fs.promises.readFile(STORE_FILE, 'utf8'));
+      Object.assign(store, { ...blankStore(), ...store });
+      if (!store.settings) store.settings = { whatsappNumber: (process.env.WHATSAPP_NUMBER || DEFAULT_WHATSAPP_NUMBER).replace(/\D/g, ''), shippingFeePaise: 0 };
+      else if (!store.settings.whatsappNumber) store.settings.whatsappNumber = (process.env.WHATSAPP_NUMBER || DEFAULT_WHATSAPP_NUMBER).replace(/\D/g, '');
+      if (!Array.isArray(store.products) || !store.products.length) store.products = (await makeInitialStore()).products;
+      await atomicSave(store);
+    } catch (error) {
+      if (error.code !== 'ENOENT') {
+        if (error instanceof SyntaxError) throw new Error('Local admin data is unreadable. Restore data/admin-data.json from backup before continuing.', { cause: error });
+        throw error;
+      }
+      await atomicSave(await makeInitialStore());
+    }
+  })();
+  return initPromise;
+}
+async function readStore() { await ensureStore(); await storeQueue; return JSON.parse(await fs.promises.readFile(STORE_FILE, 'utf8')); }
+async function updateStore(callback) {
+  await ensureStore(); let result;
+  const operation = storeQueue.then(async () => { const store = JSON.parse(await fs.promises.readFile(STORE_FILE, 'utf8')); result = await callback(store); await atomicSave(store); });
+  storeQueue = operation.catch(() => {}); await operation; return result;
+}
+function pbkdf2(password, salt) { return pbkdf2Sync(password, salt, 210000, 32, 'sha256').toString('base64url'); }
+function passwordHash(password) { const salt = randomBytes(16).toString('base64url'); return `pbkdf2$210000$${salt}$${pbkdf2(password, salt)}`; }
+function passwordMatches(password, encoded) {
+  const [kind, rounds, salt, expected] = String(encoded || '').split('$'); if (kind !== 'pbkdf2' || Number(rounds) !== 210000 || !salt || !expected) return false;
+  const actual = Buffer.from(pbkdf2(password, salt)), wanted = Buffer.from(expected); return actual.length === wanted.length && timingSafeEqual(actual, wanted);
+}
+function hash(value) { return createHash('sha256').update(value).digest('hex'); }
+function sessionHash(value) { return hash(`${process.env.ADMIN_SESSION_SECRET || ''}|${value}`); }
+function token(bytes = 32) { return randomBytes(bytes).toString('base64url'); }
+function validPassword(value) { return typeof value === 'string' && value.length >= 12 && value.length <= 128; }
+function emailValue(value) { return clean(value, 200).toLowerCase(); }
+function json(res, status, value, headers = {}) { res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', ...headers }); res.end(JSON.stringify(value)); }
+function parseBody(req) { return new Promise((resolve, reject) => { let body = ''; req.on('data', (chunk) => { body += chunk; if (body.length > 60000) { reject(new Error('Request is too large.')); req.destroy(); } }); req.on('end', () => { try { resolve(JSON.parse(body || '{}')); } catch { reject(new Error('Please submit valid JSON.')); } }); req.on('error', reject); }); }
+function cookieToken(req) { const entry = String(req.headers.cookie || '').split(';').map((item) => item.trim()).find((item) => item.startsWith('apria_admin=')); try { return entry ? decodeURIComponent(entry.slice('apria_admin='.length)) : ''; } catch { return ''; } }
+function cookieHeader(req, value, age) { const secure = Boolean(req.socket.encrypted || req.headers['x-forwarded-proto'] === 'https'); return `apria_admin=${value}; Path=/; HttpOnly; SameSite=Strict; Max-Age=${age}${secure ? '; Secure' : ''}`; }
+async function sessionFor(req, store) {
+  const raw = cookieToken(req); if (!raw) return null;
+  const session = store.sessions.find((entry) => entry.tokenHash === sessionHash(raw) && Date.parse(entry.expiresAt) > Date.now());
+  if (!session) return null;
+  const user = store.users.find((entry) => entry.id === session.userId && entry.active); return user ? { user, session } : null;
+}
+function safeUser(user) { return { id: user.id, email: user.email, name: user.name, role: user.role, mustChangePassword: Boolean(user.mustChangePassword), active: Boolean(user.active) }; }
+function audit(store, auth, action, targetType, targetId, summary) { store.audit.unshift({ id: randomUUID(), createdAt: new Date().toISOString(), userId: auth.user.id, userEmail: auth.user.email, action, targetType, targetId: clean(targetId, 100), summary: clean(summary, 300) }); store.audit.length = Math.min(store.audit.length, 1000); }
+function productView(product) { return { ...product, variants: product.variants.map((row) => ({ ...row, available: Math.max(0, row.stockOnHand - row.reserved) })) }; }
+function setSession(req, res, store, user) {
+  const raw = token(), csrfToken = token(24), createdAt = new Date().toISOString(), expiresAt = new Date(Date.now() + SESSION_MS).toISOString();
+  store.sessions = store.sessions.filter((entry) => Date.parse(entry.expiresAt) > Date.now());
+  store.sessions.push({ tokenHash: sessionHash(raw), userId: user.id, csrfToken, createdAt, expiresAt });
+  res.setHeader('Set-Cookie', cookieHeader(req, raw, SESSION_MS / 1000)); return { ...safeUser(user), csrfToken, expiresAt };
+}
+function originMatches(req) { if (!req.headers.origin) return true; try { return new URL(req.headers.origin).host === String(req.headers.host || ''); } catch { return false; } }
+function slug(value) { return clean(value, 80).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 56) || 'garment'; }
+function sortCreated(a, b) { return String(b.createdAt || '').localeCompare(String(a.createdAt || '')); }
+function cartVariants(store, items, requireStock = false) {
+  if (!Array.isArray(items) || !items.length || items.length > 20) throw new Error('Your order must contain 1 to 20 garment options.');
+  const merged = new Map();
+  for (const raw of items) {
+    const product = store.products.find((entry) => entry.id === clean(raw?.id, 80) && entry.active), size = clean(raw?.size, 20), color = clean(raw?.color, 80), quantity = Number(raw?.quantity);
+    const variant = product?.variants.find((row) => row.size === size && row.color === color);
+    if (!product || !variant || !Number.isInteger(quantity) || quantity < 1 || quantity > 100) throw new Error('A garment option is no longer available. Refresh and try again.');
+    const key = `${product.id}|${size}|${color}`, previous = merged.get(key);
+    merged.set(key, { product, variant, size, color, quantity: (previous?.quantity || 0) + quantity });
+  }
+  return [...merged.values()].map((row) => {
+    if (row.quantity > 100) throw new Error('A garment quantity exceeds the allowed limit.');
+    if (requireStock && row.variant.stockOnHand - row.variant.reserved < row.quantity) throw new Error(`${row.product.name} (${row.size}, ${row.color}) is out of stock or has insufficient quantity.`);
+    const unitPricePaise = Math.round(row.product.price * 100);
+    return { id: row.product.id, name: row.product.name, size: row.size, color: row.color, quantity: row.quantity, unitPricePaise, lineTotalPaise: unitPricePaise * row.quantity };
+  });
+}
+async function createOrderRequest(req, res) {
+  try {
+    const input = await parseBody(req), store = await readStore(), name = clean(input.name, 100), email = emailValue(input.email), phone = clean(input.phone, 40);
+    const address = { address1: clean(input.address?.address1, 200), address2: clean(input.address?.address2, 200), city: clean(input.address?.city, 80), state: clean(input.address?.state, 80), pincode: clean(input.address?.pincode, 6) };
+    if (!name || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || phone.replace(/\D/g, '').length < 10 || !address.address1 || !address.city || !address.state || !/^\d{6}$/.test(address.pincode)) throw new Error('Enter your name, valid email and phone, and a complete Indian delivery address.');
+    const items = cartVariants(store, input.items, false), amountEstimatePaise = items.reduce((sum, item) => sum + item.lineTotalPaise, 0) + Number(store.settings.shippingFeePaise || 0), now = new Date().toISOString();
+    const request = { id: randomUUID(), createdAt: now, updatedAt: now, name, email, phone, address, items, amountEstimatePaise, status: 'new', adminNote: '' };
+    await updateStore((current) => { current.orderRequests.unshift(request); }); return json(res, 201, { ok: true, id: request.id });
+  } catch (error) { return json(res, 400, { error: error.message || 'Unable to save your order request.' }); }
+}
+function validStatus(value, statuses) { return statuses.includes(value); }
 
-][JHOˆ
-È‹‹š][K[š[Y[Ý]\Îˆ][K™[š[Y[Ý]\È	Ý[™[š[Y	ËYZ[“›ÝNˆ][K˜YZ[“›ÝH	ÉÈJJHJNÂˆÛÛœÝÜ™\“X]ÚH›Ý]K›X]Ú
-×—ÛÜ™\œ×Ê×‹×JÊIÊNÂˆYˆ
-Ü™\“X]Ú	‰ˆY]ÙOOH	ÔUÒ	ÊHÂˆÛÛœÝYHXÛÙUT’PÛÛ\Û™[
-Ü™\“X]ÚÌWJK[œ]H]ØZ]\œÙP›ÙJ™\JNÈYˆ
-]˜[YÝ]\Ê[œ]™[š[Y[Ý]\Ë•S’SQS•ÔÕUTÊJH™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÐÚÛÜÙHH˜[Y[š[Y[Ý]\Ë‰ÈJNÂˆ][œZYH˜[ÙNÂˆÛÛœÝ›Ý[™H]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÈÛÛœÝ][HHÝ\œ™[›Ü™\œË™š[™
+async function handleAdminRequest(req, res, url) {
+  if (url.pathname === '/api/order-requests' && req.method === 'POST') { await createOrderRequest(req, res); return true; }
+  if (!url.pathname.startsWith('/api/admin/')) return false;
+  await ensureStore();
+  const route = url.pathname.slice('/api/admin'.length).replace(/\/$/, '') || '/', method = req.method;
+  try {
+    if (route === '/status' && method === 'GET') {
+      const store = await readStore(); return json(res, 200, { setupRequired: store.users.length === 0, setupEnabled: String(process.env.ADMIN_SETUP_TOKEN || '').length >= 32 && String(process.env.ADMIN_SESSION_SECRET || '').length >= 32 });
+    }
+    if (route === '/setup' && method === 'POST') {
+      const input = await parseBody(req);
+      if (String(process.env.ADMIN_SETUP_TOKEN || '').length < 32 || String(process.env.ADMIN_SESSION_SECRET || '').length < 32) return json(res, 503, { error: 'Set independent random ADMIN_SETUP_TOKEN and ADMIN_SESSION_SECRET values of at least 32 characters in .env.' });
+      const provided = Buffer.from(String(input.setupToken || '')), expected = Buffer.from(process.env.ADMIN_SETUP_TOKEN);
+      if (provided.length !== expected.length || !timingSafeEqual(provided, expected)) return json(res, 403, { error: 'Setup code is not valid.' });
+      const email = emailValue(input.email), name = clean(input.name, 100), password = input.password;
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || !name || !validPassword(password)) return json(res, 400, { error: 'Enter your name, a valid email, and a password with at least 12 characters.' });
+      const result = await updateStore((store) => {
+        if (store.users.length) return { error: 'Owner setup has already been completed.' };
+        const now = new Date().toISOString(), user = { id: randomUUID(), email, name, passwordHash: passwordHash(password), role: 'owner', mustChangePassword: false, active: true, createdAt: now, updatedAt: now };
+        store.users.push(user); audit(store, { user }, 'owner_setup', 'user', user.id, 'Created the initial owner account.'); return { user };
+      });
+      if (result.error) return json(res, 409, { error: result.error });
+      const session = await updateStore((store) => setSession(req, res, store, store.users.find((user) => user.id === result.user.id)));
+      return json(res, 201, session);
+    }
+    if (route === '/login' && method === 'POST') {
+      if (String(process.env.ADMIN_SESSION_SECRET || '').length < 32) return json(res, 503, { error: 'Set a random ADMIN_SESSION_SECRET of at least 32 characters in .env.' });
+      const input = await parseBody(req), email = emailValue(input.email), ip = clean(req.socket.remoteAddress || '', 80), attemptKey = hash(`${email}|${ip}`), now = Date.now();
+      const store = await readStore(), attempt = store.attempts[attemptKey];
+      if (attempt && now - attempt.startedAt < ATTEMPT_WINDOW_MS && attempt.failures >= MAX_LOGIN_FAILURES) return json(res, 429, { error: 'Too many sign-in attempts. Wait 15 minutes and try again.' });
+      const user = store.users.find((entry) => entry.email === email && entry.active);
+      if (!user || !passwordMatches(String(input.password || ''), user.passwordHash)) {
+        await updateStore((current) => { let row = current.attempts[attemptKey]; if (!row || now - row.startedAt >= ATTEMPT_WINDOW_MS) row = current.attempts[attemptKey] = { failures: 0, startedAt: now }; row.failures += 1; });
+        return json(res, 401, { error: 'Email or password is incorrect.' });
+      }
+      return json(res, 200, await updateStore((current) => { delete current.attempts[attemptKey]; return setSession(req, res, current, user); }));
+    }
+    const store = await readStore(), auth = await sessionFor(req, store);
+    if (route === '/session' && method === 'GET') return auth ? json(res, 200, { ...safeUser(auth.user), csrfToken: auth.session.csrfToken, expiresAt: auth.session.expiresAt }) : json(res, 401, { error: 'Sign in to continue.' });
+    if (route === '/logout' && method === 'POST') {
+      if (!auth) { res.setHeader('Set-Cookie', cookieHeader(req, '', 0)); return json(res, 200, { ok: true }); }
+      if (!originMatches(req) || req.headers['x-csrf-token'] !== auth.session.csrfToken) return json(res, 403, { error: 'Security check failed. Refresh and try again.' });
+      await updateStore((current) => { current.sessions = current.sessions.filter((entry) => entry.tokenHash !== auth.session.tokenHash); });
+      res.setHeader('Set-Cookie', cookieHeader(req, '', 0)); return json(res, 200, { ok: true });
+    }
+    if (!auth) return json(res, 401, { error: 'Sign in to continue.' });
+    if (auth.user.mustChangePassword && route !== '/password') return json(res, 403, { error: 'Change your temporary password before continuing.' });
+    if (!['GET', 'HEAD'].includes(method) && (!originMatches(req) || req.headers['x-csrf-token'] !== auth.session.csrfToken)) return json(res, 403, { error: 'Security check failed. Refresh and try again.' });
+    const owner = auth.user.role === 'owner';
+    if (route === '/password' && method === 'PUT') {
+      const input = await parseBody(req); if (!validPassword(input.newPassword)) return json(res, 400, { error: 'Choose a password with at least 12 characters.' });
+      const changed = await updateStore((current) => {
+        const user = current.users.find((entry) => entry.id === auth.user.id);
+        if (!user || !passwordMatches(String(input.currentPassword || ''), user.passwordHash)) return false;
+        user.passwordHash = passwordHash(input.newPassword); user.mustChangePassword = false; user.updatedAt = new Date().toISOString();
+        current.sessions = current.sessions.filter((entry) => entry.userId !== user.id || entry.tokenHash === auth.session.tokenHash);
+        audit(current, auth, 'password_changed', 'user', user.id, 'Changed account password.'); return true;
+      });
+      return changed ? json(res, 200, { ok: true }) : json(res, 401, { error: 'Current password is incorrect.' });
+    }
+    const staffAllowed = route === '/overview' || route === '/enquiries' || route.startsWith('/enquiries/') || route === '/order-requests' || route.startsWith('/order-requests/') || route === '/orders' || route.startsWith('/orders/') || route === '/audit';
+    if (!owner && !staffAllowed) return json(res, 403, { error: 'This action is available to the owner only.' });
+    if (route === '/overview' && method === 'GET') {
+      const pendingPayments = store.orders.filter((item) => ['created', 'authorized'].includes(item.status)).length;
+      const lowStock = store.products.flatMap((product) => product.active ? product.variants.map((variant) => ({ product, variant })) : []).filter(({ variant }) => variant.stockOnHand - variant.reserved <= 3).length;
+      const salesPaise = store.orders.filter((item) => item.status === 'paid').reduce((sum, item) => sum + Number(item.amountPaise || 0), 0);
+      return json(res, 200, { newEnquiries: store.enquiries.filter((item) => item.status === 'new').length, openRequests: store.orderRequests.filter((item) => !['converted', 'closed'].includes(item.status)).length, ordersToFulfill: store.orders.filter((item) => item.status === 'paid' && item.fulfillmentStatus !== 'delivered').length, pendingPayments, lowStock, salesPaise });
+    }
+    if (route === '/products' && method === 'GET') return json(res, 200, { products: store.products.slice().sort((a, b) => a.sortOrder - b.sortOrder).map(productView) });
+    if (route === '/products' && method === 'POST' && owner) {
+      const input = await parseBody(req), id = `${slug(input.name)}-${randomBytes(3).toString('hex')}`, product = normalizeProduct(input, id, { sortOrder: store.products.length });
+      await updateStore((current) => { current.products.push(product); audit(current, auth, 'product_created', 'product', id, `Created ${product.name}.`); }); return json(res, 201, productView(product));
+    }
+    const productMatch = route.match(/^\/products\/([^/]+)(?:\/(stock))?$/);
+    if (productMatch && method === 'PUT' && !productMatch[2] && owner) {
+      const id = decodeURIComponent(productMatch[1]), input = await parseBody(req); let updated;
+      const found = await updateStore((current) => {
+        const index = current.products.findIndex((item) => item.id === id); if (index < 0) return false;
+        const nextVariants = new Set(sizesOf(input.sizes).flatMap((size) => colorsOf(input.color).map((color) => `${size}|${color}`)));
+        const reservedVariantRemoved = current.products[index].variants.some((variant) => variant.reserved > 0 && !nextVariants.has(`${variant.size}|${variant.color}`));
+        if (reservedVariantRemoved) { updated = null; return false; }
+        updated = normalizeProduct(input, id, current.products[index]); current.products[index] = updated; audit(current, auth, 'product_updated', 'product', id, `Updated ${updated.name}.`); return true;
+      });
+      if (!found && updated === null) return json(res, 409, { error: 'This product has variants reserved during checkout. Keep those sizes and colours until the reservation is resolved.' });
+      return found ? json(res, 200, productView(updated)) : json(res, 404, { error: 'Product not found.' });
+    }
+    if (productMatch && method === 'PATCH' && productMatch[2] && owner) {
+      const id = decodeURIComponent(productMatch[1]), input = await parseBody(req), quantity = Number(input.stockOnHand); let outcome;
+      if (!Number.isInteger(quantity) || quantity < 0 || quantity > 1000000) return json(res, 400, { error: 'Stock must be a whole number from 0 to 1,000,000.' });
+      await updateStore((current) => {
+        const product = current.products.find((item) => item.id === id), variant = product?.variants.find((item) => item.size === clean(input.size, 20) && item.color === clean(input.color, 80));
+        if (!variant) { outcome = 'missing'; return; } if (quantity < variant.reserved) { outcome = 'reserved'; return; }
+        variant.stockOnHand = quantity; audit(current, auth, 'stock_updated', 'product_variant', `${id}|${variant.size}|${variant.color}`, `Set ${product.name} ${variant.size}/${variant.color} stock to ${quantity}.`); outcome = 'ok';
+      });
+      if (outcome === 'reserved') return json(res, 409, { error: 'Stock cannot be reduced below quantities reserved for checkout.' });
+      return outcome === 'ok' ? json(res, 200, { ok: true, stockOnHand: quantity }) : json(res, 404, { error: 'Product variant not found.' });
+    }
+    if (route === '/enquiries' && method === 'GET') return json(res, 200, { enquiries: store.enquiries.slice().sort(sortCreated) });
+    const enquiryMatch = route.match(/^\/enquiries\/([^/]+)$/);
+    if (enquiryMatch && method === 'PATCH') {
+      const id = decodeURIComponent(enquiryMatch[1]), input = await parseBody(req); if (!validStatus(input.status, ENQUIRY_STATES)) return json(res, 400, { error: 'Choose a valid enquiry status.' });
+      const found = await updateStore((current) => { const item = current.enquiries.find((entry) => entry.id === id); if (!item) return false; item.status = input.status; item.adminNote = clean(input.adminNote, 3000); item.updatedAt = new Date().toISOString(); audit(current, auth, 'enquiry_updated', 'enquiry', id, `Changed enquiry status to ${input.status}.`); return true; });
+      return found ? json(res, 200, { ok: true }) : json(res, 404, { error: 'Enquiry not found.' });
+    }
+    if (route === '/order-requests' && method === 'GET') return json(res, 200, { orderRequests: store.orderRequests.slice().sort(sortCreated) });
+    const requestMatch = route.match(/^\/order-requests\/([^/]+)$/);
+    if (requestMatch && method === 'PATCH') {
+      const id = decodeURIComponent(requestMatch[1]), input = await parseBody(req); if (!validStatus(input.status, REQUEST_STATES)) return json(res, 400, { error: 'Choose a valid order request status.' });
+      const found = await updateStore((current) => { const item = current.orderRequests.find((entry) => entry.id === id); if (!item) return false; item.status = input.status; item.adminNote = clean(input.adminNote, 3000); item.updatedAt = new Date().toISOString(); audit(current, auth, 'request_updated', 'order_request', id, `Changed request status to ${input.status}.`); return true; });
+      return found ? json(res, 200, { ok: true }) : json(res, 404, { error: 'Order request not found.' });
+    }
+    if (route === '/orders' && method === 'GET') return json(res, 200, { orders: store.orders.slice().sort(sortCreated).map((item) => ({ ...item, fulfillmentStatus: item.fulfillmentStatus || 'unfulfilled', adminNote: item.adminNote || '' })) });
+    const orderMatch = route.match(/^\/orders\/([^/]+)$/);
+    if (orderMatch && method === 'PATCH') {
+      const id = decodeURIComponent(orderMatch[1]), input = await parseBody(req); if (!validStatus(input.fulfillmentStatus, FULFILLMENT_STATES)) return json(res, 400, { error: 'Choose a valid fulfilment status.' });
+      let unpaid = false;
+      const found = await updateStore((current) => { const item = current.orders.find((entry) => entry.id === id); if (!item) return false; if (item.status !== 'paid') { unpaid = true; return false; } item.fulfillmentStatus = input.fulfillmentStatus; item.adminNote = clean(input.adminNote, 3000); item.updatedAt = new Date().toISOString(); audit(current, auth, 'fulfillment_updated', 'order', id, `Changed fulfilment to ${input.fulfillmentStatus}.`); return true; });
+      if (unpaid) return json(res, 409, { error: 'Fulfilment can only be updated after Razorpay confirms a captured payment.' });
+      return found ? json(res, 200, { ok: true }) : json(res, 404, { error: 'Order not found.' });
+    }
+    if (route === '/settings' && method === 'GET' && owner) return json(res, 200, store.settings);
+    if (route === '/settings' && method === 'PUT' && owner) {
+      const input = await parseBody(req), fee = Number(input.shippingFeePaise), phone = clean(input.whatsappNumber, 24).replace(/\D/g, '');
+      if (!Number.isSafeInteger(fee) || fee < 0 || fee > 5000000 || (phone && (phone.length < 8 || phone.length > 15))) return json(res, 400, { error: 'Enter a valid delivery fee and international WhatsApp number.' });
+      await updateStore((current) => { current.settings = { shippingFeePaise: fee, whatsappNumber: phone }; audit(current, auth, 'settings_updated', 'settings', 'shop', 'Updated shop contact or delivery settings.'); }); return json(res, 200, { shippingFeePaise: fee, whatsappNumber: phone });
+    }
+    if (route === '/users' && method === 'GET' && owner) return json(res, 200, { users: store.users.map(safeUser) });
+    if (route === '/users' && method === 'POST' && owner) {
+      const input = await parseBody(req), email = emailValue(input.email), name = clean(input.name, 100);
+      if (!name || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(res, 400, { error: 'Enter a name and valid email address.' });
+      if (store.users.some((item) => item.email === email)) return json(res, 409, { error: 'An account already uses this email.' });
+      const temp = token(15), now = new Date().toISOString(), user = { id: randomUUID(), email, name, passwordHash: passwordHash(temp), role: 'staff', mustChangePassword: true, active: true, createdAt: now, updatedAt: now };
+      await updateStore((current) => { current.users.push(user); audit(current, auth, 'staff_created', 'user', user.id, `Created staff access for ${email}.`); }); return json(res, 201, { user: safeUser(user), temporaryPassword: temp });
+    }
+    const userMatch = route.match(/^\/users\/([^/]+)$/);
+    if (userMatch && method === 'PATCH' && owner) {
+      const id = decodeURIComponent(userMatch[1]), input = await parseBody(req), temp = input.action === 'reset-password' ? token(15) : '';
+      const found = await updateStore((current) => {
+        const user = current.users.find((entry) => entry.id === id && entry.role === 'staff'); if (!user) return false;
+        if (input.action === 'deactivate') { user.active = false; current.sessions = current.sessions.filter((entry) => entry.userId !== id); }
+        else if (input.action === 'activate') user.active = true;
+        else if (input.action === 'reset-password') { user.passwordHash = passwordHash(temp); user.mustChangePassword = true; current.sessions = current.sessions.filter((entry) => entry.userId !== id); }
+        else return false;
+        user.updatedAt = new Date().toISOString(); audit(current, auth, `staff_${input.action}`, 'user', id, `Updated staff account ${user.email}.`); return true;
+      });
+      return found ? json(res, 200, { ok: true, ...(temp ? { temporaryPassword: temp } : {}) }) : json(res, 404, { error: 'Staff account not found.' });
+    }
+    if (route === '/audit' && method === 'GET') return json(res, 200, { audit: store.audit.slice(0, 250) });
+    return json(res, 404, { error: 'Admin endpoint not found.' });
+  } catch (error) { return json(res, 400, { error: error.message || 'Unable to complete the admin request.' }); }
+}
 
-[žJHOˆ[žKšYOOHY
-NÈYˆ
-Z][JH™]\›ˆ˜[ÙNÈYˆ
-][KœÝ]\ÈOOH	ÜZY	ÊHÈ[œZYHYNÈ™]\›ˆ˜[ÙNÈH][K™[š[Y[Ý]\ÈH[œ]™[š[Y[Ý]\ÎÈ][K˜YZ[“›ÝHHÛX[Š[œ]˜YZ[“›ÝKÌ
-NÈ][K\]Y]H™]È]J
-KÒTÓÔÝš[™Ê
-NÈ]Y]
-Ý\œ™[]]	Ù[š[Y[Ý\]Y	Ë	ÛÜ™\‰ËYÚ[™ÙY[š[Y[È	Ú[œ]™[š[Y[Ý]\ßK˜
-NÈ™]\›ˆYNÈJNÂˆYˆ
-[œZY
-H™]\›ˆœÛÛŠ™\ËKÈ\œ›ÜŽˆ	Ñ[š[Y[Ø[ˆÛ›H™H\]YY\ˆ˜^›Üœ^HÛÛ™š\›\ÈHØ\\™Y^[Y[‰ÈJNÂˆ™]\›ˆ›Ý[™ÈœÛÛŠ™\ËŒÈÚÎˆYHJHˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÓÜ™\ˆ›Ý›Ý[™‰ÈJNÂˆBˆYˆ
-›Ý]HOOH	ËÜÙ][™ÜÉÈ	‰ˆY]ÙOOH	ÑÑU	È	‰ˆÝÛ™\ŠH™]\›ˆœÛÛŠ™\ËŒÝÜ™KœÙ][™ÜÊNÂˆYˆ
-›Ý]HOOH	ËÜÙ][™ÜÉÈ	‰ˆY]ÙOOH	ÔU	È	‰ˆÝÛ™\ŠHÂˆÛÛœÝ[œ]H]ØZ]\œÙP›ÙJ™\JK™YHH[X™\Š[œ]œÚ\[™Ñ™YTZ\ÙJKÛ™HHÛX[Š[œ]Ú]Ø\[X™\‹
-Kœ™\XÙJ×ÙË	ÉÊNÂˆYˆ
-S[X™\‹š\ÔØY™R[YÙ\Š™YJH™YH™YHˆL
-Û™H	‰ˆ
-Û™K›[™ÝÛ™K›[™ÝˆMJJJH™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	Ñ[\ˆH˜[Y[]™\žH™YH[™[\›˜][Û˜[Ú]Ð\[X™\‹‰ÈJNÂˆ]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÈÝ\œ™[œÙ][™ÜÈHÈÚ\[™Ñ™YTZ\ÙNˆ™YKÚ]Ø\[X™\ŽˆÛ™HNÈ]Y]
-Ý\œ™[]]	ÜÙ][™Ü×Ý\]Y	Ë	ÜÙ][™ÜÉË	ÜÚÜ	Ë	Õ\]YÚÜÛÛXÝÜˆ[]™\žHÙ][™ÜË‰ÊNÈJNÈ™]\›ˆœÛÛŠ™\ËŒÈÚ\[™Ñ™YTZ\ÙNˆ™YKÚ]Ø\[X™\ŽˆÛ™HJNÂˆBˆYˆ
-›Ý]HOOH	ËÝ\Ù\œÉÈ	‰ˆY]ÙOOH	ÑÑU	È	‰ˆÝÛ™\ŠH™]\›ˆœÛÛŠ™\ËŒÈ\Ù\œÎˆÝÜ™K\Ù\œË›X\
-ØY™U\Ù\ŠHJNÂˆYˆ
-›Ý]HOOH	ËÝ\Ù\œÉÈ	‰ˆY]ÙOOH	ÔÔÕ	È	‰ˆÝÛ™\ŠHÂˆÛÛœÝ[œ]H]ØZ]\œÙP›ÙJ™\JK[XZ[H[XZ[˜[YJ[œ]™[XZ[
-K˜[YHHÛX[Š[œ]›˜[YKL
-NÂˆYˆ
-[˜[YHK×–×—ÐJÐ×—ÐJ×–×—ÐJÉË\Ý
-[XZ[
-JH™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	Ñ[\ˆH˜[YH[™˜[Y[XZ[Y™\ÜË‰ÈJNÂˆYˆ
-ÝÜ™K\Ù\œËœÛÛYJ
-][JHOˆ][K™[XZ[OOH[XZ[
-JH™]\›ˆœÛÛŠ™\ËKÈ\œ›ÜŽˆ	Ð[ˆXØÛÝ[[™XYH\Ù\È\È[XZ[‰ÈJNÂˆÛÛœÝ[\HÚÙ[ŠMJK›ÝÈH™]È]J
-KÒTÓÔÝš[™Ê
-K\Ù\ˆHÈYˆ˜[™ÛUURQ
+async function listProducts() { const store = await readStore(); return store.products.filter((item) => item.active).sort((a, b) => a.sortOrder - b.sortOrder).map(productView); }
+async function getOrder(id) { const store = await readStore(); return store.orders.find((item) => item.id === id) || null; }
+async function saveOrder(order) { return updateStore((store) => { const index = store.orders.findIndex((item) => item.id === order.id); if (index < 0) store.orders.push(order); else store.orders[index] = { ...store.orders[index], ...order }; return store.orders.find((item) => item.id === order.id); }); }
+async function reserveStock(order, expiresAt) {
+  return updateStore((store) => {
+    const items = cartVariants(store, order.items, true);
+    for (const item of items) { const variant = store.products.find((product) => product.id === item.id).variants.find((row) => row.size === item.size && row.color === item.color); variant.reserved += item.quantity; }
+    const saved = { ...order, reservationStatus: 'reserved', reservationExpiresAt: expiresAt }; store.orders.push(saved); return saved;
+  });
+}
+async function resolveReservation(order, resultStatus) {
+  return updateStore((store) => {
+    const current = store.orders.find((item) => item.id === order.id); if (!current || current.reservationStatus !== 'reserved') return;
+    for (const item of current.items || []) { const variant = store.products.find((product) => product.id === item.id)?.variants.find((row) => row.size === item.size && row.color === item.color); if (!variant) continue; variant.reserved = Math.max(0, variant.reserved - item.quantity); if (resultStatus === 'committed') variant.stockOnHand = Math.max(0, variant.stockOnHand - item.quantity); }
+    current.reservationStatus = resultStatus; current.updatedAt = new Date().toISOString();
+  });
+}
+async function reconciliationCandidates() { const store = await readStore(); return store.orders.filter((order) => order.reservationStatus === 'reserved' && Date.parse(order.reservationExpiresAt || '') <= Date.now()); }
 
-K[XZ[˜[YK\ÜÝÛÜ™\Úˆ\ÜÝÛÜ™\Ú
-[\
-K›ÛNˆ	ÜÝY™‰Ë]\ÝÚ[™ÙT\ÜÝÛÜ™ˆYKXÝ]™NˆYKÜ™X]Y]ˆ›ÝË\]Y]ˆ›ÝÈNÂˆ]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÈÝ\œ™[\Ù\œËœ\Ú
-\Ù\ŠNÈ]Y]
-Ý\œ™[]]	ÜÝY™—ØÜ™X]Y	Ë	Ý\Ù\‰Ë\Ù\‹šYÜ™X]YÝY™ˆXØÙ\ÜÈ›Üˆ	Ù[XZ[K˜
-NÈJNÈ™]\›ˆœÛÛŠ™\ËŒKÈ\Ù\ŽˆØY™U\Ù\Š\Ù\ŠK[\Ü˜\žT\ÜÝÛÜ™ˆ[\JNÂˆBˆÛÛœÝ\Ù\“X]ÚH›Ý]K›X]Ú
-×—Ý\Ù\œ×Ê×‹×JÊIÊNÂˆYˆ
-\Ù\“X]Ú	‰ˆY]ÙOOH	ÔUÒ	È	‰ˆÝÛ™\ŠHÂˆÛÛœÝYHXÛÙUT’PÛÛ\Û™[
-\Ù\“X]ÚÌWJK[œ]H]ØZ]\œÙP›ÙJ™\JK[\H[œ]˜XÝ[ÛˆOOH	Ü™\Ù]\\ÜÝÛÜ™	ÈÈÚÙ[ŠMJHˆ	ÉÎÂˆÛÛœÝ›Ý[™H]ØZ]\]TÝÜ™J
-Ý\œ™[
-HOˆÂˆÛÛœÝ\Ù\ˆHÝ\œ™[\Ù\œË™š[™
-
-[žJHOˆ[žKšYOOHY	‰ˆ[žKœ›ÛHOOH	ÜÝY™‰ÊNÈYˆ
-]\Ù\ŠH™]\›ˆ˜[ÙNÂˆYˆ
-[œ]˜XÝ[ÛˆOOH	ÙXXÝ]˜]IÊHÈ\Ù\‹˜XÝ]™HH˜[ÙNÈÝ\œ™[œÙ\ÜÚ[ÛœÈHÝ\œ™[œÙ\ÜÚ[ÛœË™š[\Š
-[žJHOˆ[žK\Ù\’YOOHY
-NÈBˆ[ÙHYˆ
-[œ]˜XÝ[ÛˆOOH	ØXÝ]˜]IÊH\Ù\‹˜XÝ]™HHYNÂˆ[ÙHYˆ
-[œ]˜XÝ[ÛˆOOH	Ü™\Ù]\\ÜÝÛÜ™	ÊHÈ\Ù\‹œ\ÜÝÛÜ™\ÚH\ÜÝÛÜ™\Ú
-[\
-NÈ\Ù\‹›]\ÝÚ[™ÙT\ÜÝÛÜ™HYNÈÝ\œ™[œÙ\ÜÚ[ÛœÈHÝ\œ™[œÙ\ÜÚ[ÛœË™š[\Š
-[žJHOˆ[žK\Ù\’YOOHY
-NÈBˆ[ÙH™]\›ˆ˜[ÙNÂˆ\Ù\‹\]Y]H™]È]J
-KÒTÓÔÝš[™Ê
-NÈ]Y]
-Ý\œ™[]]ÝY™—ÉÚ[œ]˜XÝ[ÛŸX	Ý\Ù\‰ËY\]YÝY™ˆXØÛÝ[	Ý\Ù\‹™[XZ[K˜
-NÈ™]\›ˆYNÂˆJNÂˆ™]\›ˆ›Ý[™ÈœÛÛŠ™\ËŒÈÚÎˆYK‹‹Š[\ÈÈ[\Ü˜\žT\ÜÝÛÜ™ˆ[\HˆßJHJHˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÔÝY™ˆXØÛÝ[›Ý›Ý[™‰ÈJNÂˆBˆYˆ
-›Ý]HOOH	ËØ]Y]	È	‰ˆY]ÙOOH	ÑÑU	ÊH™]\›ˆœÛÛŠ™\ËŒÈ]Y]ˆÝÜ™K˜]Y]œÛXÙJL
-HJNÂˆ™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ	ÐYZ[ˆ[™Ú[›Ý›Ý[™‰ÈJNÂˆHØ]Ú
-\œ›ÜŠHÈ™]\›ˆœÛÛŠ™\ËÈ\œ›ÜŽˆ\œ›Ü‹›Y\ÜØYÙH	Õ[˜X›HÈÛÛ\]HHYZ[ˆ™\]Y\Ý‰ÈJNÈBŸB‚˜\Þ[˜È[˜Ý[Ûˆ\Ý›ÙXÝÊ
-HÈÛÛœÝÝÜ™HH]ØZ]™XYÝÜ™J
-NÈ™]\›ˆÝÜ™Kœ›ÙXÝË™š[\Š
-][JHOˆ][K˜XÝ]™JKœÛÜ
-
-KŠHOˆKœÛÜÜ™\ˆH‹œÛÜÜ™\ŠK›X\
-›ÙXÝšY]ÊNÈB˜\Þ[˜È[˜Ý[ÛˆÙ]Ü™\ŠY
-HÈÛÛœÝÝÜ™HH]ØZ]™XYÝÜ™J
-NÈ™]\›ˆÝÜ™K›Ü™\œË™š[™
-
-][JHOˆ][KšYOOHY
-H[ÈB˜\Þ[˜È[˜Ý[ÛˆØ]™SÜ™\ŠÜ™\ŠHÈ™]\›ˆ\]TÝÜ™J
-ÝÜ™JHOˆÈÛÛœÝ[™^HÝÜ™K›Ü™\œË™š[™[™^
-
-][JHOˆ][KšYOOHÜ™\‹šY
-NÈYˆ
-[™^
-HÝÜ™K›Ü™\œËœ\Ú
-Ü™\ŠNÈ[ÙHÝÜ™K›Ü™\œÖÚ[™^HHÈ‹‹œÝÜ™K›Ü™\œÖÚ[™^K‹‹›Ü™\ˆNÈ™]\›ˆÝÜ™K›Ü™\œË™š[™
-
-][JHOˆ][KšYOOHÜ™\‹šY
-NÈJNÈB˜\Þ[˜È[˜Ý[Ûˆ™\Ù\™TÝØÚÊÜ™\‹^\™\Ð]
-HÂˆ™]\›ˆ\]TÝÜ™J
-ÝÜ™JHOˆÂˆÛÛœÝ][\ÈHØ\˜\šX[ÊÝÜ™KÜ™\‹š][\ËYJNÂˆ›Üˆ
-ÛÛœÝ][HÙˆ][\ÊHÈÛÛœÝ˜\šX[HÝÜ™Kœ›ÙXÝË™š[™
-
-›ÙXÝ
-HOˆ›ÙXÝšYOOH][KšY
-K˜\šX[Ë™š[™
-
-›ÝÊHOˆ›ÝËœÚ^™HOOH][KœÚ^™H	‰ˆ›ÝË˜ÛÛÜˆOOH][K˜ÛÛÜŠNÈ˜\šX[œ™\Ù\™Y
-ÏH][Kœ]X[]NÈBˆÛÛœÝØ]™YHÈ‹‹›Ü™\‹™\Ù\˜][Û”Ý]\Îˆ	Ü™\Ù\™Y	Ë™\Ù\˜][Û‘^\™\Ð]ˆ^\™\Ð]NÈÝÜ™K›Ü™\œËœ\Ú
-Ø]™Y
-NÈ™]\›ˆØ]™YÂˆJNÂŸB˜\Þ[˜È[˜Ý[Ûˆ™\ÛÛ™T™\Ù\˜][ÛŠÜ™\‹™\Ý[Ý]\ÊHÂˆ™]\›ˆ\]TÝÜ™J
-ÝÜ™JHOˆÂˆÛÛœÝÝ\œ™[HÝÜ™K›Ü™\œË™š[™
-
-][JHOˆ][KšYOOHÜ™\‹šY
-NÈYˆ
-XÝ\œ™[Ý\œ™[œ™\Ù\˜][Û”Ý]\ÈOOH	Ü™\Ù\™Y	ÊH™]\›ŽÂˆ›Üˆ
-ÛÛœÝ][HÙˆÝ\œ™[š][\È×JHÈÛÛœÝ˜\šX[HÝÜ™Kœ›ÙXÝË™š[™
-
-›ÙXÝ
-HOˆ›ÙXÝšYOOH][KšY
-OË˜\šX[Ë™š[™
-
-›ÝÊHOˆ›ÝËœÚ^™HOOH][KœÚ^™H	‰ˆ›ÝË˜ÛÛÜˆOOH][K˜ÛÛÜŠNÈYˆ
-]˜\šX[
-HÛÛ[YNÈ˜\šX[œ™\Ù\™YHX]›X^
-˜\šX[œ™\Ù\™YH][Kœ]X[]JNÈYˆ
-™\Ý[Ý]\ÈOOH	ØÛÛ[Z]Y	ÊH˜\šX[œÝØÚÓÛ’[™HX]›X^
-˜\šX[œÝØÚÓÛ’[™H][Kœ]X[]JNÈBˆÝ\œ™[œ™\Ù\˜][Û”Ý]\ÈH™\Ý[Ý]\ÎÈÝ\œ™[\]Y]H™]È]J
-KÒTÓÔÝš[™Ê
-NÂˆJNÂŸB˜\Þ[˜È[˜Ý[Ûˆ™XÛÛ˜Ú[X][ÛØ[™Y]\Ê
-HÈÛÛœÝÝÜ™HH]ØZ]™XYÝÜ™J
-NÈ™]\›ˆÝÜ™K›Ü™\œË™š[\Š
-Ü™\ŠHOˆÜ™\‹œ™\Ù\˜][Û”Ý]\ÈOOH	Ü™\Ù\™Y	È	‰ˆ]Kœ\œÙJÜ™\‹œ™\Ù\˜][Û‘^\™\Ð]	ÉÊHH]K››ÝÊ
-JNÈB‚›[Ù[K™^ÜÈHÈ[™PYZ[”™\]Y\Ý\Ý›ÙXÝËÙ]Ü™\‹Ø]™SÜ™\‹™\Ù\™TÝØÚË™\ÛÛ™T™\Ù\˜][Û‹™XÛÛ˜Ú[X][ÛØ[™Y]\ËÚ^™\ÓÙ‹ÛÛÜœÓÙ‹Ø\˜\šX[Ë™XYÝÜ™K\]TÝÜ™K\Ú\ÜÝÛÜ™ˆ\ÜÝÛÜ™\Ú™\šYžT\ÜÝÛÜ™ˆ\ÜÝÛÜ™X]Ú\ÈNÂ
+module.exports = { handleAdminRequest, listProducts, getOrder, saveOrder, reserveStock, resolveReservation, reconciliationCandidates, sizesOf, colorsOf, cartVariants, readStore, updateStore, hashPassword: passwordHash, verifyPassword: passwordMatches };

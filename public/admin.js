@@ -1,159 +1,291 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×]{Ù:-jZ.¶›­–)Þ³V6öç7B7FFRÒ²W6W#¢çVÆÂÂ77&eFö¶Vã¢rrÂf–Ws¢v÷fW'f–WrrÂ&öGV7G3¢µÒÂVçV—&–W3¢µÒÂ&WVW7G3¢µÒÂ÷&FW'3¢µÒÂW6W'3¢µÒÂVF—C¢µÒÂ6WGF–æw3¢çVÆÂÂ6V&6ƒ¢rrÂ&WVW7D¶–æC¢vÆÂrÓ°¦6öç7BBÒ‡6VÆV7F÷"Â&ö÷BÒFö7VÖVçB’Óâ&ö÷BçVW'•6VÆV7F÷"‡6VÆV7F÷"“°¦6öç7BBBÒ‡6VÆV7F÷"Â&ö÷BÒFö7VÖVçB’Óâ²ââç&ö÷BçVW'•6VÆV7F÷$ÆÂ‡6VÆV7F÷"•Ó°¦6öç7BW62Ò‡fÇVR’Óâ7G&–ær‡fÇVRóòrr’ç&WÆ6R‚õ²cÃâ"uÒörÂ†6†&7FW"’Óâ‡²rbs¢rf×²rÂsÂs¢rfÇC²rÂsâs¢rfwC²rÂr"s¢rgV÷C²rÂ"r#¢rb33“²rÕ¶6†&7FW%Ò’“°¦6öç7BÖöæW’Ò‡—6R’Óâ(+’G²„çVÖ&W"‡—6RÇÂ’ò’çFôÆö6ÆU7G&–ær‚vVâÔ”ârÂ²Ö†–×VÔg&7F–öäF–v—G3¢"Ò—Ö°¦6öç7BÆ&VÂÒ‡fÇVR’Óâ7G&–ær‡fÇVRÇÂrr’ç&WÆ6TÆÂ‚uòrÂrr’ç&WÆ6R‚õÆ%ÇrörÂ†6†&7FW"’Óâ6†&7FW"çFõWW$66R‚’“°¦6öç7B7FGW6W2Ò°¢VçV—'“¢²væWrrÂv–å÷&öw&W72rÂwV÷FVBrÂwvöârÂv6Æ÷6VBuÒÀ¢&WVW7C¢²væWrrÂv6öçF7FVBrÂv6öçfW'FVBrÂv6Æ÷6VBuÒÀ¢gVÆf–ÆÆÖVçC¢²wVægVÆf–ÆÆVBrÂw&ö6W76–ærrÂw6†—VBrÂvFVÆ—fW&VBrÂv6æ6VÆÆVBuÐ§Ó°¦gVæ7F–öâ6†÷tÖW76vR†ÖW76vRÂW'&÷"ÒfÇ6R’°¢6öç7BVÆVÖVçBÒB‚r7÷'FÂÖÖW76vRr“²VÆVÖVçBçFW‡D6öçFVçBÒÖW76vS²VÆVÖVçBæ†–FFVâÒÖW76vS²VÆVÖVçBæ6Æ74Æ—7BçFövvÆR‚vW'&÷"rÂW'&÷"“°¢–b†ÖW76vRbbW'&÷"’6WEF–ÖV÷WB‚‚’Óâ²–b†VÆVÖVçBçFW‡D6öçFVçBÓÓÒÖW76vR’VÆVÖVçBæ†–FFVâÒG'VS²ÒÂc“°§Ð¦7–æ2gVæ7F–öâ’‡F‚Â÷F–öç2Ò·Ò’°¢6öç7BÖWF†öBÒ÷F–öç2æÖWF†öBÇÂttUBrÂ†VFW'2Ò²âââ†÷F–öç2æ&öG’ò²t6öçFVçBÕG—Rs¢vÆ–6F–öâö§6öârÒ¢·Ò’Ââââ†÷F–öç2æ†VFW'2ÇÂ·Ò’Ó°¢–b‚²ttUBrÂt„TBuÒæ–æ6ÇVFW2†ÖWF†öB’bb7FFRæ77&eFö¶Vâbb²rö’öFÖ–âöÆöv–ârÂrö’öFÖ–â÷6WGWuÒæ–æ6ÇVFW2‡F‚’’†VFW'5²u‚Ô55$bÕFö¶VâuÒÒ7FFRæ77&eFö¶Vã°¢6öç7B&W7öç6RÒv—BfWF6‚‡F‚Â²ââæ÷F–öç2ÂÖWF†öBÂ†VFW'2Â7&VFVçF–Ç3¢w6ÖRÖ÷&–v–ârÂ&öG“¢÷F–öç2æ&öG’bbG—Vöb÷F–öç2æ&öG’ÓÒw7G&–ærrò¥4ôâç7G&–æv–g’†÷F–öç2æ&öG’’¢÷F–öç2æ&öG’Ò“°¢6öç7B&W7VÇBÒv—B&W7öç6Ræ§6öâ‚’æ6F6‚‚‚’Óâ‡·Ò’“°¢–b‡&W7öç6Rç7FGW2ÓÓÒCbb²rö’öFÖ–âöÆöv–ârÂrö’öFÖ–â÷6WGWuÒæ–æ6ÇVFW2‡F‚’’²7FFRçW6W"ÒçVÆÃ²7FFRæ77&eFö¶VâÒrs²6†÷tWF‚‚“²Ð¢–b‚&W7öç6Ræö²’F‡&÷ræWrW'&÷"‡&W7VÇBæW'&÷"ÇÂt6÷VÆBæ÷B6ö×ÆWFRF†B7F–öââÆV6RG'’v–ââr“°¢&WGW&â&W7VÇC°§Ð¦gVæ7F–öâf÷&ÔFF†f÷&Ò’²&WGW&âö&¦V7Bæg&öÔVçG&–W2†æWrf÷&ÔFF†f÷&Ò’“²Ð¦gVæ7F–öâ7FGW4Ö&·W‡fÇVRÂ¶–æBÒrr’²6öç7B7FGW2Ò7G&–ær‡fÇVRÇÂvæWrr“²6öç7BÆW'BÒ²vf–ÆVBrÂv6Æ÷6VBrÂv6æ6VÆÆVBuÒæ–æ6ÇVFW2‡7FGW2“²6öç7BvööBÒ²w–BrÂvFVÆ—fW&VBrÂv6öçfW'FVBrÂwvöâuÒæ–æ6ÇVFW2‡7FGW2“²&WGW&âÇ7â6Æ73Ò'–ÆÂG¶vööBòw–Br¢ÆW'BòvÆW'Br¢rwÒG¶W62†¶–æB—Ò#âG¶W62†Æ&VÂ‡7FGW2’—ÓÂ÷7ãæ²Ð¦gVæ7F–öâf÷&Õ7FGW2†f÷&ÒÂÖW76vRÂW'&÷"ÒfÇ6R’²6öç7BF&vWBÒB‚ræFÖ–â×7FGW2rÂf÷&Ò“²–b‡F&vWB’²F&vWBçFW‡D6öçFVçBÒÖW76vS²F&vWBæ6Æ74Æ—7BçFövvÆR‚vW'&÷"rÂW'&÷"“²ÒÐ¦gVæ7F–öâ6†÷tWF‚‡6WGW&WV—&VBÒfÇ6RÂ6WGWVæ&ÆVBÒG'VR’°¢7FFRçW6W"ÒçVÆÃ°¢B‚r7÷'FÂr’æ†–FFVâÒG'VS²B‚r777v÷&B×æVÂr’æ†–FFVâÒG'VS²B‚r6WF‚×æVÂr’æ†–FFVâÒfÇ6S²B‚r6FÖ–â×W6W"Ö6†—r’æ†–FFVâÒG'VS²B‚r6FÖ–âÖÆöv÷WBr’æ†–FFVâÒG'VS°¢B‚r6Æöv–âÖf÷&Òr’æ†–FFVâÒ6WGW&WV—&VC²B‚r76WGWÖf÷&Òr’æ†–FFVâÒ6WGW&WV—&VBÇÂ6WGWVæ&ÆVC°¢B‚r6WF‚×F—FÆRr’æ–ææW$…DÔÂÒ6WGW&WV—&VBòu6WBW–÷W#Æ'#ç7GVF–òFW6³Ç7ãâãÂ÷7ãâr¢u–÷W"7GVF–òÃÆ'#æ–âvööB÷&FW#Ç7ãâãÂ÷7ãâs°¢B‚r6WF‚ÖFW67&—F–öâr’çFW‡D6öçFVçBÒ6WGW&WV—&V@¢ò6WGWVæ&ÆVBòt7&VFRF†R÷væW"66÷VçBW6–ærF†RöæR×F–ÖR6WGW6öFRg&öÒ–÷W"6W'fW"Vçf—&öæÖVçBâr¢tFÖ–â6WGW—2æ÷B6öæf–wW&VBâFBDÔ”åõ4UEUõDô´TâæBDÔ”åõ4U54”ôåõ4T5$UBFòæVçbÂF†Vâ&W7F'BF†RÆö6Â6W'fW"âp¢¢u6–vâ–âFò&Wf–Wr7W7FöÖW"&WVW7G2Â÷&FW'2Â7Fö6²ÂæBF†R$”6FÆöwVRâs°¢–b‡6WGW&WV—&VBbb6WGWVæ&ÆVB’B‚r76WGWÖf÷&Òr’æ†–FFVâÒG'VS°¢B‚r6FÖ–âÖæbr’çVW'•6VÆV7F÷$ÆÂ‚u¶FF×f–WuÒr’æf÷$V6‚‚†'WGFöâ’Óâ'WGFöâæ6Æ74Æ—7Bç&VÖ÷fR‚v7F—fRr’“°§Ð¦gVæ7F–öâ6†÷u77v÷&D6†ævR‚’°¢B‚r6WF‚×æVÂr’æ†–FFVâÒG'VS²B‚r7÷'FÂr’æ†–FFVâÒG'VS²B‚r777v÷&B×æVÂr’æ†–FFVâÒfÇ6S²B‚r6FÖ–â×W6W"Ö6†—r’æ†–FFVâÒfÇ6S²B‚r6FÖ–âÖÆöv÷WBr’æ†–FFVâÒfÇ6S°¢B‚r6FÖ–â×W6W"Ö6†—r’çFW‡D6öçFVçBÒG·7FFRçW6W"ææÖWÒ+r6†ævR77v÷&F°§Ð¦7–æ2gVæ7F–öâ÷Vå÷'FÂ‡W6W"Â77&eFö¶Vâ’°¢7FFRçW6W"ÒW6W#²7FFRæ77&eFö¶VâÒ77&eFö¶VâÇÂ7FFRæ77&eFö¶Vã°¢B‚r6WF‚×æVÂr’æ†–FFVâÒG'VS²B‚r777v÷&B×æVÂr’æ†–FFVâÒG'VS²B‚r7÷'FÂr’æ†–FFVâÒfÇ6S²B‚r6FÖ–â×W6W"Ö6†—r’æ†–FFVâÒfÇ6S²B‚r6FÖ–âÖÆöv÷WBr’æ†–FFVâÒfÇ6S°¢B‚r6FÖ–â×W6W"Ö6†—r’çFW‡D6öçFVçBÒG·W6W"ææÖWÒ+rG¶Æ&VÂ‡W6W"ç&öÆR—Ö°¢BB‚u¶FFÖ÷væW"ÖöæÇ•Òr’æf÷$V6‚‚†VÆVÖVçB’Óâ²VÆVÖVçBæ†–FFVâÒW6W"ç&öÆRÓÒv÷væW"s²Ò“°¢–b‡W6W"æ×W7D6†ævU77v÷&B’²6†÷u77v÷&D6†ævR‚“²&WGW&ã²Ð¢v—BÆöEf–Wr‡7FFRçf–Wr“°§Ð¦7–æ2gVæ7F–öâ&ö÷B‚’°¢G'’°¢6öç7B6W76–öâÒv—B’‚rö’öFÖ–â÷6W76–öâr“°¢7FFRæ77&eFö¶VâÒ6W76–öâæ77&eFö¶VâÇÂrs°¢v—B÷Vå÷'FÂ‡6W76–öâÂ6W76–öâæ77&eFö¶Vâ“°¢Ò6F6‚°¢G'’²6öç7B7FGW2Òv—B’‚rö’öFÖ–â÷7FGW2r“²6†÷tWF‚‡7FGW2ç6WGW&WV—&VBÂ7FGW2ç6WGWVæ&ÆVB“²Ð¢6F6‚²6†÷tWF‚†fÇ6RÂfÇ6R“²B‚r6WF‚ÖFW67&—F–öâr’çFW‡D6öçFVçBÒuF†R÷'FÂ6W'f–6R6÷VÆBæ÷B&R&V6†VBâ6†V6²F†B$”—2'Vææ–ærÂF†Vâ&Vg&W6‚F†—2vRâs²Ð¢Ð§Ð¦gVæ7F–öâvT†VF–ær†¶–6¶W"ÂF—FÆRÂFW67&—F–öâÂ7F–öâÒrr’°¢&WGW&âÆ†VFW"6Æ73Ò'vRÖ†VF–ær#ãÆF—cãÆF—b6Æ73Ò&W–V'&÷r#âG¶W62†¶–6¶W"—ÓÂöF—cãÆƒâG¶W62‡F—FÆR—ÓÂöƒãÇâG¶W62†FW67&—F–öâ—ÓÂ÷ãÂöF—câG¶7F–öçÓÂö†VFW#æ°§Ð¦gVæ7F–öâ6WEf–Wr‡f–Wr’°¢–b‡7FFRçW6W#òç&öÆRÓÒv÷væW"rbb²v6FÆörrÂwFVÒrÂw6WGF–æw2uÒæ–æ6ÇVFW2‡f–Wr’’f–WrÒv÷fW'f–Wrs°¢7FFRçf–WrÒf–Ws°¢BB‚r6FÖ–âÖæb¶FF×f–WuÒr’æf÷$V6‚‚†'WGFöâ’Óâ²6öç7B7F—fRÒ'WGFöâæFF6WBçf–WrÓÓÒf–Ws²'WGFöâæ6Æ74Æ—7BçFövvÆR‚v7F—fRrÂ7F—fR“²–b†7F—fR’'WGFöâç6WDGG&–'WFR‚v&–Ö7W'&VçBrÂwvRr“²VÇ6R'WGFöâç&VÖ÷fTGG&–'WFR‚v&–Ö7W'&VçBr“²Ò“°¢BB‚ræFÖ–â×f–Wrr’æf÷$V6‚‚‡æVÂ’Óâ²æVÂæ†–FFVâÒæVÂæFF6WBçæVÂÓÒf–Ws²Ò“°¢ÆöEf–Wr‡f–Wr’æ6F6‚‚†W'&÷"’Óâ6†÷tÖW76vR†W'&÷"æÖW76vRÂG'VR’“°§Ð¦7–æ2gVæ7F–öâÆöEf–Wr‡f–Wr’°¢–b‚7FFRçW6W"ÇÂ7FFRçW6W"æ×W7D6†ævU77v÷&B’&WGW&ã°¢7FFRçf–WrÒf–Ws°¢–b‡f–WrÓÓÒv÷fW'f–Wrr’v—B&VæFW$÷fW'f–Wr‚“°¢VÇ6R–b‡f–WrÓÓÒw&WVW7G2r’v—B&VæFW%&WVW7G2‚“°¢VÇ6R–b‡f–WrÓÓÒv÷&FW'2r’v—B&VæFW$÷&FW'2‚“°¢VÇ6R–b‡f–WrÓÓÒv6FÆörr’v—B&VæFW$6FÆör‚“°¢VÇ6R–b‡f–WrÓÓÒwFVÒr’v—B&VæFW%FVÒ‚“°¢VÇ6R–b‡f–WrÓÓÒw6WGF–æw2r’v—B&VæFW%6WGF–æw2‚“°¢VÇ6R–b‡f–WrÓÓÒv7F—f—G’r’v—B&VæFW$VF—B‚“°§Ð¦7–æ2gVæ7F–öâ&VæFW$÷fW'f–Wr‚’°¢6öç7BFFÒv—B’‚rö’öFÖ–âö÷fW'f–Wrr“°¢6öç7BæVÂÒB‚u¶FF×æVÃÒ&÷fW'f–Wr%Òr“°¢æVÂæ–ææW$…DÔÂÒG·vT†VF–ær‚u5ETD”òDU4²òrÂtvööBFò6VR–÷RÂr²7FFRçW6W"ææÖRç7Æ—B‚rr•³Ò²rârÂt6ÆV"f–WröbF†Rv÷&²v—F–ærf÷"$”FöF’âr—Ð¢ÆF—b6Æ73Ò&ÖWG&–72Öw&–B#ãÆ'F–6ÆR6Æ73Ò&ÖWG&–2#ãÇ7ãäæWrVçV—&–W3Â÷7ããÇ7G&öæsâG´çVÖ&W"†FFææWtVçV—&–W2ÇÂ—ÓÂ÷7G&öæsãÇ6ÖÆÃåv—F–ærf÷"&WÇ“Â÷6ÖÆÃãÂö'F–6ÆSãÆ'F–6ÆR6Æ73Ò&ÖWG&–2#ãÇ7ãä÷&FW"&WVW7G3Â÷7ããÇ7G&öæsâG´çVÖ&W"†FFæ÷Vå&WVW7G2ÇÂ—ÓÂ÷7G&öæsãÇ6ÖÆÃå–ÖVçBæ÷B6öÆÆV7FVCÂ÷6ÖÆÃãÂö'F–6ÆSãÆ'F–6ÆR6Æ73Ò&ÖWG&–2#ãÇ7ãå–B÷&FW'2FògVÆf–ÃÂ÷7ããÇ7G&öæsâG´çVÖ&W"†FFæ÷&FW'5FôgVÆf–ÆÂÇÂ—ÓÂ÷7G&öæsãÇ6ÖÆÃåfW&–f–VB6GW&VB–ÖVçG3Â÷6ÖÆÃãÂö'F–6ÆSãÆ'F–6ÆR6Æ73Ò&ÖWG&–2#ãÇ7ãä6GW&VB6ÆW3Â÷7ããÇ7G&öæsâG¶ÖöæW’†FFç6ÆW5—6R—ÓÂ÷7G&öæsãÇ6ÖÆÃåfW&–f–VB–ÖVçG2öæÇ“Â÷6ÖÆÃãÂö'F–6ÆSãÂöF—cà¢ÆF—b6Æ73Ò&F6†&ö&BÖw&–B#ãÆ'F–6ÆR6Æ73Ò&FÖ–âÖ6&B#ãÆƒ#äæVVG2Æöö³Âöƒ#ãÇ6Æ73Ò&6&B×7V'F—FÆR#ä—FV×2F†BÖ’æVVB7F–öâ&Vf÷&RF†RæW‡B÷&FW"Ö÷fW2ãÂ÷ãÆF—b6Æ73Ò&7F–öâÖÆ—7B#ãÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#å–ÖVçG2Fò&Wf–WsÂö#ãÇ7ãâG´çVÖ&W"†FFçVæF–æu–ÖVçG2ÇÂ—ÓÂ÷7ããÂöF—cãÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#äÆ÷r×7Fö6²f&–çG3Âö#ãÇ7ãâG´çVÖ&W"†FFæÆ÷u7Fö6²ÇÂ—ÓÂ÷7ããÂöF—cãÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#ä÷&FW'2v—F–ærFVÆ—fW'“Âö#ãÇ7ãâG´çVÖ&W"†FFæ÷&FW'5FôgVÆf–ÆÂÇÂ—ÓÂ÷7ããÂöF—cãÂöF—cãÂö'F–6ÆSãÆ'F–6ÆR6Æ73Ò&FÖ–âÖ6&B#ãÆƒ#åV–6²&÷WFSÂöƒ#ãÇ6Æ73Ò&6&B×7V'F—FÆR#ävò7G&–v‡BFòF†R7W7FöÖW"v÷&²VWVRãÂ÷ãÆF—b6Æ73Ò&7F–öâÖÆ—7B#ãÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#ä7W7FöÖW"&WVW7G3Âö#ãÆ'WGFöâG—SÒ&'WGFöâ"6Æ73Ò&FÖ–â×6ÖÆÂÖ'WGFöâ"FFÖvóÒ'&WVW7G2#ä÷Vâ–æ&÷‚(isÂö'WGFöããÂöF—cãÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#å–B÷&FW'3Âö#ãÆ'WGFöâG—SÒ&'WGFöâ"6Æ73Ò&FÖ–â×6ÖÆÂÖ'WGFöâ"FFÖvóÒ&÷&FW'2#åf–Wr÷&FW'2(isÂö'WGFöããÂöF—câG·7FFRçW6W"ç&öÆRÓÓÒv÷væW"ròsÆF—b6Æ73Ò&7F–öâ×&÷r#ãÆ#å7Fö6²b6FÆöwVSÂö#ãÆ'WGFöâG—SÒ&'WGFöâ"6Æ73Ò&FÖ–â×6ÖÆÂÖ'WGFöâ"FFÖvóÒ&6FÆör#äÖævR(isÂö'WGFöããÂöF—câr¢rwÓÂöF—cãÂö'F–6ÆSãÂöF—cæ°¢B‚r6æb×&WVW7BÖ6÷VçBr’çFW‡D6öçFVçBÒçVÖ&W"†FFææWtVçV—&–W2ÇÂ’²çVÖ&W"†FFæ÷Vå&WVW7G2ÇÂ“°§Ð¦gVæ7F–öâ6öçF7DÆ–æ·2†—FVÒ’°¢6öç7BVÖ–ÂÒ—FVÒæVÖ–ÂòÆ‡&VcÒ&Ö–ÇFó¢G¶W62†—FVÒæVÖ–Â—Ò#âG¶W62†—FVÒæVÖ–Â—ÓÂöæ¢rs°¢6öç7B†öæTF–v—G2Ò7G&–ær†—FVÒç†öæRÇÂrr’ç&WÆ6R‚õÄBörÂrr“°¢6öç7B†öæRÒ†öæTF–v—G2òÆ‡&VcÒ'FVÃ¢G¶W62†—FVÒç†öæR—Ò#âG¶W62†—FVÒç†öæR—ÓÂöæ¢rs°¢6öç7Bv†G6Ò†öæTF–v—G2æÆVæwF‚ãÒ‚òÆ‡&VcÒ&‡GG3¢ò÷væÖRòG¶W62‡†öæTF–v—G2—Ò"F&vWCÒ%ö&Ææ²"&VÃÒ&æö÷VæW"#åv†G4(isÂöæ¢rs°¢&WGW&â¾uïkh‘éì¶»§q«^u[™ÜÊ
-HÂˆÝ]KœÙ][™ÜÈH]ØZ]\J	ËØ\KØYZ[‹ÜÙ][™ÜÉÊNÈÛÛœÝ[™[H	
-	ÖÙ]K\[™[HœÙ][™ÜÈ—IÊNÂˆ[™[š[›™\’SH	ÜYÙRXY[™Ê	ÔÒÔÈ‰Ë	ÔÚÜÙ][™ÜÉË	Õ\ÙH˜[Y\È\]HHÝ\ÝÛY\ˆÝÜ™Yœ›Ûˆ^[Y[Ü™Y[X[È™[XZ[ˆ[ˆÙ\™\ˆÙXÜ™]Ë‰Ê_Bˆ›Ü›HYHœÙ][™ÜËY›Ü›HˆÛ\ÜÏHœÙ][™ËXØ\™”X›XÈÛÛXÝ	ˆ[]™\žOÚ•\ÙH[\›˜][Û˜[YÚ]Ë[˜ÛY[™ÈHÛÝ[žHÛÙK›ÜˆÚ]Ð\ˆH[]™\žH[[Ý[\X\œÈ]ÚXÚÛÝ]ÜX™[Û\ÜÏH˜YZ[‹YšY[•Ú]Ð\[X™\[œ]˜[YOHÚ]Ø\[X™\ˆˆ[œ][ÙOH›[Y\šXÈˆXÙZÛ\HŽLNNÍMÌŒLˆ˜[YOH‰Ù\ØÊÝ]KœÙ][™ÜËÚ]Ø\[X™\ˆ	ÉÊ_HˆX^[™ÝHŒMHÛX™[X™[Û\ÜÏH˜YZ[‹YšY[‘›][]™\žHÚ\™ÙH
-8 ®JO[œ]˜[YOHœÚ\[™Ñ™YT\Y\Èˆ\OH›[X™\ˆˆZ[HŒˆX^HLˆÝ\HŒŒHˆ˜[YOH‰Ê[X™\ŠÝ]KœÙ][™ÜËœÚ\[™Ñ™YTZ\ÙH
-HÈL
-KÑš^Y
-Š_Hˆ™\]Z\™YÛX™[]ÛˆÛ\ÜÏH˜YZ[‹\š[X\žHˆ\OHœÝX›Z]”Ø]™HÚÜÙ][™ÜÏØ]ÛÛ\ÜÏH˜YZ[‹\Ý]\Èˆ›ÛOHœÝ]\ÈÜÙ›Ü›O˜ÂŸB˜\Þ[˜È[˜Ý[Ûˆ™[™\]Y]
+const state = { user: null, csrfToken: '', view: 'overview', products: [], enquiries: [], requests: [], orders: [], users: [], audit: [], settings: null, search: '', requestKind: 'all' };
+const $ = (selector, root = document) => root.querySelector(selector);
+const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
+const esc = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]));
+const money = (paise) => `â‚¹${(Number(paise || 0) / 100).toLocaleString('en-IN', { maximumFractionDigits: 2 })}`;
+const label = (value) => String(value || '').replaceAll('_', ' ').replace(/\b\w/g, (character) => character.toUpperCase());
+const statuses = {
+  enquiry: ['new', 'in_progress', 'quoted', 'won', 'closed'],
+  request: ['new', 'contacted', 'converted', 'closed'],
+  fulfillment: ['unfulfilled', 'processing', 'shipped', 'delivered', 'cancelled']
+};
+function showMessage(message, error = false) {
+  const element = $('#portal-message'); element.textContent = message; element.hidden = !message; element.classList.toggle('error', error);
+  if (message && !error) setTimeout(() => { if (element.textContent === message) element.hidden = true; }, 6000);
+}
+async function api(path, options = {}) {
+  const method = options.method || 'GET', headers = { ...(options.body ? { 'Content-Type': 'application/json' } : {}), ...(options.headers || {}) };
+  if (!['GET', 'HEAD'].includes(method) && state.csrfToken && !['/api/admin/login', '/api/admin/setup'].includes(path)) headers['X-CSRF-Token'] = state.csrfToken;
+  const response = await fetch(path, { ...options, method, headers, credentials: 'same-origin', body: options.body && typeof options.body !== 'string' ? JSON.stringify(options.body) : options.body });
+  const result = await response.json().catch(() => ({}));
+  if (response.status === 401 && !['/api/admin/login', '/api/admin/setup'].includes(path)) { state.user = null; state.csrfToken = ''; showAuth(); }
+  if (!response.ok) throw new Error(result.error || 'Could not complete that action. Please try again.');
+  return result;
+}
+function formData(form) { return Object.fromEntries(new FormData(form)); }
+function statusMarkup(value, kind = '') { const status = String(value || 'new'); const alert = ['failed', 'closed', 'cancelled'].includes(status); const good = ['paid', 'delivered', 'converted', 'won'].includes(status); return `<span class="pill ${good ? 'paid' : alert ? 'alert' : ''} ${esc(kind)}">${esc(label(status))}</span>`; }
+function formStatus(form, message, error = false) { const target = $('.admin-status', form); if (target) { target.textContent = message; target.classList.toggle('error', error); } }
+function showAuth(setupRequired = false, setupEnabled = true) {
+  state.user = null;
+  $('#portal').hidden = true; $('#password-panel').hidden = true; $('#auth-panel').hidden = false; $('#admin-user-chip').hidden = true; $('#admin-logout').hidden = true;
+  $('#login-form').hidden = setupRequired; $('#setup-form').hidden = !setupRequired || !setupEnabled;
+  $('#auth-title').innerHTML = setupRequired ? 'Set up your<br>studio desk<span>.</span>' : 'Your studio,<br>in good order<span>.</span>';
+  $('#auth-description').textContent = setupRequired
+    ? setupEnabled ? 'Create the owner account using the one-time setup code from your server environment.' : 'Admin setup is not configured. Add ADMIN_SETUP_TOKEN and ADMIN_SESSION_SECRET to .env, then restart the local server.'
+    : 'Sign in to review customer requests, orders, stock, and the APRIA catalogue.';
+  if (setupRequired && !setupEnabled) $('#setup-form').hidden = true;
+  $('#admin-nav').querySelectorAll('[data-view]').forEach((button) => button.classList.remove('active'));
+}
+function showPasswordChange() {
+  $('#auth-panel').hidden = true; $('#portal').hidden = true; $('#password-panel').hidden = false; $('#admin-user-chip').hidden = false; $('#admin-logout').hidden = false;
+  $('#admin-user-chip').textContent = `${state.user.name} Â· change password`;
+}
+async function openPortal(user, csrfToken) {
+  state.user = user; state.csrfToken = csrfToken || state.csrfToken;
+  $('#auth-panel').hidden = true; $('#password-panel').hidden = true; $('#portal').hidden = false; $('#admin-user-chip').hidden = false; $('#admin-logout').hidden = false;
+  $('#admin-user-chip').textContent = `${user.name} Â· ${label(user.role)}`;
+  $$('[data-owner-only]').forEach((element) => { element.hidden = user.role !== 'owner'; });
+  if (user.mustChangePassword) { showPasswordChange(); return; }
+  await loadView(state.view);
+}
+async function boot() {
+  try {
+    const session = await api('/api/admin/session');
+    state.csrfToken = session.csrfToken || '';
+    await openPortal(session, session.csrfToken);
+  } catch {
+    try { const status = await api('/api/admin/status'); showAuth(status.setupRequired, status.setupEnabled); }
+    catch { showAuth(false, false); $('#auth-description').textContent = 'The portal service could not be reached. Check that APRIA is running, then refresh this page.'; }
+  }
+}
+function pageHeading(kicker, title, description, action = '') {
+  return `<header class="page-heading"><div><div class="eyebrow">${esc(kicker)}</div><h1>${esc(title)}</h1><p>${esc(description)}</p></div>${action}</header>`;
+}
+function setView(view) {
+  if (state.user?.role !== 'owner' && ['catalog', 'team', 'settings'].includes(view)) view = 'overview';
+  state.view = view;
+  $$('#admin-nav [data-view]').forEach((button) => { const active = button.dataset.view === view; button.classList.toggle('active', active); if (active) button.setAttribute('aria-current', 'page'); else button.removeAttribute('aria-current'); });
+  $$('.admin-view').forEach((panel) => { panel.hidden = panel.dataset.panel !== view; });
+  loadView(view).catch((error) => showMessage(error.message, true));
+}
+async function loadView(view) {
+  if (!state.user || state.user.mustChangePassword) return;
+  state.view = view;
+  if (view === 'overview') await renderOverview();
+  else if (view === 'requests') await renderRequests();
+  else if (view === 'orders') await renderOrders();
+  else if (view === 'catalog') await renderCatalog();
+  else if (view === 'team') await renderTeam();
+  else if (view === 'settings') await renderSettings();
+  else if (view === 'activity') await renderAudit();
+}
+async function renderOverview() {
+  const data = await api('/api/admin/overview');
+  const panel = $('[data-panel="overview"]');
+  panel.innerHTML = `${pageHeading('STUDIO DESK / 01', 'Good to see you, ' + state.user.name.split(' ')[0] + '.', 'A clear view of the work waiting for APRIA today.')}
+    <div class="metrics-grid"><article class="metric"><span>New enquiries</span><strong>${Number(data.newEnquiries || 0)}</strong><small>Waiting for a reply</small></article><article class="metric"><span>Order requests</span><strong>${Number(data.openRequests || 0)}</strong><small>Payment not collected</small></article><article class="metric"><span>Paid orders to fulfil</span><strong>${Number(data.ordersToFulfill || 0)}</strong><small>Verified captured payments</small></article><article class="metric"><span>Captured sales</span><strong>${money(data.salesPaise)}</strong><small>Verified payments only</small></article></div>
+    <div class="dashboard-grid"><article class="admin-card"><h2>Needs a look</h2><p class="card-subtitle">Items that may need action before the next order moves.</p><div class="action-list"><div class="action-row"><b>Payments to review</b><span>${Number(data.pendingPayments || 0)}</span></div><div class="action-row"><b>Low-stock variants</b><span>${Number(data.lowStock || 0)}</span></div><div class="action-row"><b>Orders awaiting delivery</b><span>${Number(data.ordersToFulfill || 0)}</span></div></div></article><article class="admin-card"><h2>Quick route</h2><p class="card-subtitle">Go straight to the customer work queue.</p><div class="action-list"><div class="action-row"><b>Customer requests</b><button type="button" class="admin-small-button" data-go="requests">Open inbox â†—</button></div><div class="action-row"><b>Paid orders</b><button type="button" class="admin-small-button" data-go="orders">View orders â†—</button></div>${state.user.role === 'owner' ? '<div class="action-row"><b>Stock & catalogue</b><button type="button" class="admin-small-button" data-go="catalog">Manage â†—</button></div>' : ''}</div></article></div>`;
+  $('#nav-request-count').textContent = Number(data.newEnquiries || 0) + Number(data.openRequests || 0);
+}
+function contactLinks(item) {
+  const email = item.email ? `<a href="mailto:${esc(item.email)}">${esc(item.email)}</a>` : '';
+  const phoneDigits = String(item.phone || '').replace(/\D/g, '');
+  const phone = phoneDigits ? `<a href="tel:${esc(item.phone)}">${esc(item.phone)}</a>` : '';
+  const whatsapp = phoneDigits.length >= 8 ? `<a href="https://wa.me/${esc(phoneDigits)}" target="_blank" rel="noopener">WhatsApp â†—</a>` : '';
+  return [email, phone, whatsapp].filter(Boolean).join(' Â· ');
+}
+function itemLines(items) {
+  if (!Array.isArray(items) || !items.length) return '';
+  return `<ul>${items.map((item) => `<li>${esc(item.name || item.id)} Â· ${esc(item.size)} / ${esc(item.color)} Ã— ${Number(item.quantity || 1)}${item.lineTotalPaise ? ` â€” ${money(item.lineTotalPaise)}` : ''}</li>`).join('')}</ul>`;
+}
+function statusOptions(options, current) { return options.map((option) => `<option value="${option}" ${option === current ? 'selected' : ''}>${esc(label(option))}</option>`).join(''); }
+function enquiryCard(item) {
+  const id = String(item.id || ''), created = item.createdAt || item.created_at || '', type = item.type === 'general' && item.company === 'Retail order request' ? 'Retail order request' : label(item.type || 'enquiry');
+  return `<article class="record-card" data-record-card data-search="${esc([item.name, item.email, item.phone, item.company, item.type, item.message].join(' ').toLowerCase())}"><div class="record-top"><div><h2>${esc(item.name || 'Customer request')}</h2><p>${esc(type)}${item.company && item.company !== 'Retail order request' ? ` Â· ${esc(item.company)}` : ''}</p></div>${statusMarkup(item.status)}</div><div class="record-meta"><time datetime="${esc(created)}">${esc(new Date(created).toLocaleString())}</time><span>${contactLinks(item)}</span></div>${item.message ? `<p>${esc(item.message)}</p>` : ''}${itemLines(item.items)}<div class="record-actions"><label>Status<select data-status>${statusOptions(statuses.enquiry, item.status || 'new')}</select></label><label class="note-field">Private APRIA note<textarea data-note maxlength="3000" placeholder="Only visible to the teamâ€¦">${esc(item.adminNote || item.admin_note || '')}</textarea></label><button class="admin-small-button" type="button" data-save-enquiry="${esc(id)}">Save update</button></div></article>`;
+}
+function requestCard(item) {
+  const id = String(item.id || ''), created = item.createdAt || item.created_at || '', address = item.address || {};
+  return `<article class="record-card" data-record-card data-search="${esc([item.name, item.email, item.phone, item.id].join(' ').toLowerCase())}"><div class="record-top"><div><h2>${esc(item.name || 'Retail order request')}</h2><p>Retail order request Â· ${money(item.amountEstimatePaise || 0)} estimated Â· no payment collected</p></div>${statusMarkup(item.status)}</div><div class="record-meta"><time datetime="${esc(created)}">${esc(new Date(created).toLocaleString())}</time><span>${contactLinks(item)}</span></div><p class="record-address">Ship to: ${esc([address.address1, address.address2, address.city, address.state, address.pincode].filter(Boolean).join(', '))}</p><div class="record-items">${itemLines(item.items)}</div><div class="record-actions"><label>Status<select data-status>${statusOptions(statuses.request, item.status || 'new')}</select></label><label class="note-field">Private APRIA note<textarea data-note maxlength="3000" placeholder="Only visible to the teamâ€¦">${esc(item.adminNote || '')}</textarea></label><button class="admin-small-button" type="button" data-save-request="${esc(id)}">Save update</button></div></article>`;
+}
+async function renderRequests() {
+  const [enquiryData, requestData] = await Promise.all([api('/api/admin/enquiries'), api('/api/admin/order-requests')]);
+  state.enquiries = enquiryData.enquiries || []; state.requests = requestData.orderRequests || [];
+  const panel = $('[data-panel="requests"]'), action = '<div class="toolbar"><input type="search" data-search-input placeholder="Search customer, email, phoneâ€¦" aria-label="Search requests"><select data-request-kind aria-label="Request type"><option value="all">All requests</option><option value="enquiries">Enquiries</option><option value="order-requests">Retail order requests</option></select><select data-request-status aria-label="Filter by status"><option value="all">All statuses</option><option value="new">New</option><option value="in_progress">In progress</option><option value="quoted">Quoted</option><option value="contacted">Contacted</option><option value="converted">Converted</option><option value="won">Won</option><option value="closed">Closed</option></select></div>';
+  panel.innerHTML = `${pageHeading('CUSTOMER DESK / 02', 'Requests', 'Enquiries and unpaid retail order requests arrive here. Email and WhatsApp actions open your own app.', action)}<div class="record-list" id="request-list"></div>`;
+  $('[data-request-kind]', panel).value = state.requestKind;
+  paintRequests();
+}
+function paintRequests() {
+  const host = $('#request-list'); if (!host) return;
+  const records = [];
+  if (state.requestKind !== 'order-requests') records.push(...state.enquiries.map((item) => ({ ...item, requestKind: 'enquiry' })));
+  if (state.requestKind !== 'enquiries') records.push(...state.requests.map((item) => ({ ...item, requestKind: 'order-request' })));
+  const search = state.search.toLowerCase(), status = $('[data-request-status]')?.value || 'all';
+  const filtered = records.filter((item) => (!search || [item.name, item.email, item.phone, item.company, item.type, item.message, item.id].join(' ').toLowerCase().includes(search)) && (status === 'all' || item.status === status));
+  host.innerHTML = filtered.length ? filtered.map((item) => item.requestKind === 'enquiry' ? enquiryCard(item) : requestCard(item)).join('') : '<div class="empty-state">No requests match this view yet.</div>';
+}
+function orderCard(item) {
+  const customer = item.customer || {}, created = item.createdAt || item.created_at || '', paid = item.status === 'paid';
+  const actions = paid
+    ? `<div class="record-actions"><label>Fulfilment<select data-fulfillment>${statusOptions(statuses.fulfillment, item.fulfillmentStatus || 'unfulfilled')}</select></label><label class="note-field">Private APRIA note<textarea data-note maxlength="3000" placeholder="Only visible to the teamâ€¦">${esc(item.adminNote || '')}</textarea></label><button class="admin-small-button" type="button" data-save-order="${esc(item.id)}">Save update</button></div>`
+    : '<p class="record-address">Fulfilment controls unlock after Razorpay confirms a captured payment.</p>';
+  return `<article class="record-card" data-record-card data-search="${esc([item.id, customer.name, customer.email, customer.phone, item.status].join(' ').toLowerCase())}"><div class="record-top"><div><h2>Order ${esc(String(item.id).slice(0, 8).toUpperCase())}</h2><p>${esc(customer.name || '')} Â· ${esc(customer.email || '')}</p></div><div>${statusMarkup(item.status, item.status)} ${statusMarkup(item.fulfillmentStatus || 'unfulfilled')}</div></div><div class="record-meta"><time datetime="${esc(created)}">${esc(new Date(created).toLocaleString())}</time><span>${money(item.amountPaise || 0)} ${esc(item.currency || 'INR')}</span><span>Payment ${esc(item.paymentId || 'pending')}</span></div><p class="record-address">${esc([customer.address1, customer.address2, customer.city, customer.state, customer.pincode].filter(Boolean).join(', '))}</p><div class="record-items">${itemLines(item.items)}</div>${actions}</article>`;
+}
+async function renderOrders() {
+  const data = await api('/api/admin/orders'); state.orders = data.orders || [];
+  const panel = $('[data-panel="orders"]'), action = '<div class="toolbar"><input type="search" data-list-search placeholder="Search order or customerâ€¦" aria-label="Search paid orders"><select data-order-status aria-label="Filter payment status"><option value="all">All payment states</option><option value="paid">Paid</option><option value="authorized">Authorized</option><option value="created">Pending</option><option value="failed">Failed</option></select></div>';
+  panel.innerHTML = `${pageHeading('FULFILMENT / 03', 'Orders & payments', 'Payment state comes from Razorpay. Fulfilment unlocks after capture; refunds remain in Razorpay.', action)}<div class="record-list" id="paid-order-list"></div>`;
+  paintOrders();
+}
+function paintOrders() {
+  const host = $('#paid-order-list'); if (!host) return;
+  const search = state.search.toLowerCase(), status = $('[data-order-status]')?.value || 'all';
+  const filtered = state.orders.filter((item) => (!search || [item.id, item.customer?.name, item.customer?.email].join(' ').toLowerCase().includes(search)) && (status === 'all' || item.status === status));
+  host.innerHTML = filtered.length ? filtered.map(orderCard).join('') : '<div class="empty-state">No paid orders match this view. Unpaid customer requests are in Requests.</div>';
+}
+function field(name, value, labelText, type = 'text', wide = false) {
+  return `<label class="admin-field ${wide ? 'wide' : ''}">${esc(labelText)}<input name="${esc(name)}" type="${type}" value="${esc(value ?? '')}" ${type === 'number' ? 'min="0" step="0.01"' : ''} required></label>`;
+}
+function productForm(product, prefix = 'product') {
+  return `<form class="product-edit-form" data-product-form data-product-id="${esc(product.id)}">
+    ${field('name', product.name, 'Product name')}${field('category', product.category, 'Category')}${field('price', product.price, 'Retail price (â‚¹)', 'number')}
+    ${field('from', product.from, 'Bulk price from (â‚¹)', 'number')}${field('image', product.image, 'Image URL')}${field('tag', product.tag, 'Product tag')}
+    ${field('color', product.color, 'Colours (separate with /)')}${field('sizes', product.sizes, 'Sizes (for example XSâ€“XXL)')}${field('gsm', product.gsm, 'GSM / weight')}
+    ${field('fabric', product.fabric, 'Fabric')}
+    <label class="admin-field wide">Description<textarea name="description" maxlength="1200">${esc(product.description)}</textarea></label>
+    <label class="admin-field">Store visibility<select name="active"><option value="true" ${product.active ? 'selected' : ''}>Active</option><option value="false" ${!product.active ? 'selected' : ''}>Archived</option></select></label>
+    <div class="wide"><button class="admin-primary" type="submit">Save product</button> <span class="admin-status" role="status"></span></div>
+  </form>`;
+}
+function stockRows(product) {
+  return `<div class="variant-stock-grid">${(product.variants || []).map((variant) => `<div class="stock-control"><span>${esc(variant.size)} / ${esc(variant.color)}<small> Â· ${Number(variant.available ?? (Number(variant.stockOnHand) - Number(variant.reserved || 0)))} available</small></span><input type="number" min="${Number(variant.reserved || 0)}" max="1000000" step="1" value="${Number(variant.stockOnHand || 0)}" aria-label="Stock for ${esc(product.name)} ${esc(variant.size)} ${esc(variant.color)}" data-stock-input><button type="button" data-stock-save="${esc(product.id)}" data-size="${esc(variant.size)}" data-color="${esc(variant.color)}">Save</button></div>`).join('')}</div>`;
+}
+function productCard(product) {
+  return `<article class="product-admin-card"><div class="product-admin-head"><img src="${esc(product.image)}" alt=""><div><h2>${esc(product.name)}</h2><p>${esc(product.category)} Â· ${money(Math.round(Number(product.price) * 100))} Â· ${esc(product.gsm || '')}</p></div>${statusMarkup(product.active ? 'active' : 'closed')}</div>${productForm(product)}<div class="inventory-section"><h3>Stock by size and colour</h3>${stockRows(product)}</div></article>`;
+}
+function newProductForm() {
+  return `<form class="product-create-form" id="product-create-form">
+    ${field('name', '', 'Product name')}${field('category', '', 'Category')}${field('price', '0', 'Retail price (â‚¹)', 'number')}
+    ${field('from', '0', 'Bulk price from (â‚¹)', 'number')}${field('image', '', 'Image URL')}${field('tag', '', 'Product tag')}
+    ${field('color', '', 'Colours (separate with /)')}${field('sizes', '', 'Sizes (for example XSâ€“XXL)')}${field('gsm', '', 'GSM / weight')}${field('fabric', '', 'Fabric')}
+    <label class="admin-field wide">Description<textarea name="description" maxlength="1200"></textarea></label>
+    <div class="wide"><button class="admin-primary" type="submit">Create product</button> <span class="admin-status" role="status"></span></div>
+  </form>`;
+}
+async function renderCatalog() {
+  const data = await api('/api/admin/products'); state.products = data.products || data || [];
+  const panel = $('[data-panel="catalog"]'), action = `<button type="button" class="admin-primary" data-toggle-create>Add a product +</button>`;
+  panel.innerHTML = `${pageHeading('COLLECTION / 04', 'Catalogue & stock', 'Update product details and track inventory for each size and colour.', action)}<div class="toolbar"><input type="search" data-list-search placeholder="Find a garmentâ€¦" aria-label="Search catalogue"><select data-product-status aria-label="Filter products"><option value="active">Active products</option><option value="all">All products</option><option value="archived">Archived</option></select></div><div id="product-create-wrap" class="admin-card" hidden><h2 class="section-title">New garment</h2><p class="card-subtitle">New variants start with zero stock. Enter counts below after creating the product.</p>${newProductForm()}</div><div class="product-list" id="admin-product-list"></div>`;
+  paintProducts();
+}
+function paintProducts() {
+  const host = $('#admin-product-list'); if (!host) return;
+  const filter = $('[data-product-status]')?.value || 'active', search = state.search.toLowerCase();
+  const products = state.products.filter((item) => (filter === 'all' || (filter === 'active' ? item.active : !item.active)) && (!search || [item.name, item.category, item.fabric, item.gsm].join(' ').toLowerCase().includes(search)));
+  host.innerHTML = products.length ? products.map(productCard).join('') : '<div class="empty-state">No garments match this view.</div>';
+}
+async function renderTeam() {
+  const data = await api('/api/admin/users'); state.users = data.users || [];
+  const panel = $('[data-panel="team"]');
+  panel.innerHTML = `${pageHeading('PEOPLE / 05', 'Team access', 'Staff can manage customer conversations and fulfilment. Only the owner can edit the shop.')}
+    <article class="admin-card"><h2>Add a staff member</h2><p class="card-subtitle">A temporary password is shown once. Share it privately; the team member must change it at first sign-in.</p><form id="staff-create-form" class="toolbar staff-create-form"><input name="name" placeholder="Full name" aria-label="Staff member name" required maxlength="100"><input name="email" type="email" placeholder="Email address" aria-label="Staff email" required maxlength="200"><button class="admin-primary" type="submit">Create account</button><p class="admin-status" role="status" aria-live="polite"></p></form></article><div class="user-list" id="staff-list"></div>`;
+  $('#staff-list').innerHTML = state.users.map((user) => `<article class="user-card"><div><h3>${esc(user.name)} ${user.role === 'owner' ? '<span class="pill">Owner</span>' : ''}</h3><p>${esc(user.email)} Â· ${user.active ? 'Active' : 'Deactivated'}${user.mustChangePassword ? ' Â· Must change password' : ''}</p></div>${user.role === 'staff' ? `<div class="user-actions"><button class="admin-small-button" type="button" data-user-action="reset-password" data-user-id="${esc(user.id)}">Reset password</button><button class="${user.active ? 'admin-danger' : 'admin-small-button'}" type="button" data-user-action="${user.active ? 'deactivate' : 'activate'}" data-user-id="${esc(user.id)}">${user.active ? 'Deactivate' : 'Reactivate'}</button></div>` : ''}</article>`).join('') || '<div class="empty-state">No accounts found.</div>';
+}
+async function renderSettings() {
+  state.settings = await api('/api/admin/settings'); const panel = $('[data-panel="settings"]');
+  panel.innerHTML = `${pageHeading('SHOP / 06', 'Shop settings', 'These values update the customer storefront. Payment credentials remain in server secrets.')}
+    <form id="settings-form" class="setting-card"><h2>Public contact & delivery</h2><p>Use international digits, including the country code, for WhatsApp. The delivery amount appears at checkout.</p><label class="admin-field">WhatsApp number<input name="whatsappNumber" inputmode="numeric" placeholder="919876543210" value="${esc(state.settings.whatsappNumber || '')}" maxlength="15"></label><label class="admin-field">Flat delivery charge (â‚¹)<input name="shippingFeeRupees" type="number" min="0" max="50000" step="0.01" value="${(Number(state.settings.shippingFeePaise || 0) / 100).toFixed(2)}" required></label><button class="admin-primary" type="submit">Save shop settings</button><p class="admin-status" role="status"></p></form>`;
+}
+async function renderAudit() {
+  const data = await api('/api/admin/audit'); state.audit = data.audit || []; const panel = $('[data-panel="activity"]');
+  panel.innerHTML = `${pageHeading('STUDIO LOG / 07', 'Activity', 'A record of account, catalogue, stock, and fulfilment changes.')}
+    <div class="audit-list">${state.audit.length ? state.audit.map((row) => `<article class="audit-row"><time datetime="${esc(row.createdAt || row.created_at)}">${esc(new Date(row.createdAt || row.created_at).toLocaleString())}</time><span><b>${esc(row.userEmail || row.user_email || '')}</b> Â· ${esc(row.summary || row.action || '')}</span><small>${esc(row.targetType || row.target_type || '')}</small></article>`).join('') : '<div class="empty-state">No admin activity recorded yet.</div>'}</div>`;
+}
+function syncStatusFilter() { if (state.view === 'requests') paintRequests(); else if (state.view === 'orders') paintOrders(); }
+function showTempPassword(password) {
+  $('#temporary-secret').textContent = password; $('#secret-status').textContent = ''; $('#secret-dialog').showModal();
+}
+async function submitForm(event) {
+  const form = event.target;
+  if (!(form instanceof HTMLFormElement)) return;
+  const values = formData(form);
+  try {
+    if (form.id === 'login-form') {
+      const response = await api('/api/admin/login', { method: 'POST', body: values }); state.csrfToken = response.csrfToken || ''; await openPortal(response, response.csrfToken); return;
+    }
+    if (form.id === 'setup-form') {
+      const response = await api('/api/admin/setup', { method: 'POST', body: values }); state.csrfToken = response.csrfToken || ''; await openPortal(response, response.csrfToken); showMessage('Owner account created. Keep your setup code private; it cannot create another owner.'); return;
+    }
+    if (form.id === 'password-form') {
+      await api('/api/admin/password', { method: 'PUT', body: values }); state.user.mustChangePassword = false; $('#password-panel').hidden = true; $('#portal').hidden = false; showMessage('Password updated. You can use the portal now.'); await loadView('overview'); return;
+    }
+    if (form.dataset.productForm !== undefined) {
+      const data = { ...values, price: Number(values.price), from: Number(values.from), active: values.active === 'true' };
+      const response = await api(`/api/admin/products/${encodeURIComponent(form.dataset.productId)}`, { method: 'PUT', body: data });
+      const product = response.product || response; state.products = state.products.map((item) => item.id === product.id ? product : item); showMessage(`${product.name} saved.`); paintProducts(); return;
+    }
+    if (form.id === 'product-create-form') {
+      const response = await api('/api/admin/products', { method: 'POST', body: { ...values, price: Number(values.price), from: Number(values.from), active: true } });
+      const product = response.product || response; state.products.push(product); paintProducts(); $('#product-create-wrap').hidden = true; showMessage(`${product.name} added. Enter stock for its variants before enabling purchases.`); return;
+    }
+    if (form.id === 'staff-create-form') {
+      const response = await api('/api/admin/users', { method: 'POST', body: values }); showTempPassword(response.temporaryPassword); await renderTeam(); return;
+    }
+    if (form.id === 'settings-form') {
+      state.settings = await api('/api/admin/settings', { method: 'PUT', body: { whatsappNumber: values.whatsappNumber, shippingFeePaise: Math.round(Number(values.shippingFeeRupees) * 100) } });
+      showMessage('Shop settings saved and applied to the storefront.'); return;
+    }
+  } catch (error) { formStatus(form, error.message, true); }
+}
+async function saveStock(button) {
+  const control = button.closest('.stock-control'), input = $('[data-stock-input]', control), quantity = Number(input.value);
+  button.disabled = true;
+  try { await api(`/api/admin/products/${encodeURIComponent(button.dataset.stockSave)}/stock`, { method: 'PATCH', body: { size: button.dataset.size, color: button.dataset.color, stockOnHand: quantity } }); showMessage('Variant stock updated.'); await renderCatalog(); }
+  catch (error) { showMessage(error.message, true); button.disabled = false; }
+}
+async function saveRecord(button, kind) {
+  const card = button.closest('[data-record-card]'), id = button.dataset[kind === 'enquiry' ? 'saveEnquiry' : kind === 'request' ? 'saveRequest' : 'saveOrder'];
+  const select = $('[data-status]', card), note = $('[data-note]', card), payload = kind === 'order' ? { fulfillmentStatus: $('[data-fulfillment]', card).value, adminNote: note.value } : { status: select.value, adminNote: note.value };
+  button.disabled = true;
+  try {
+    const endpoint = kind === 'enquiry' ? 'enquiries' : kind === 'request' ? 'order-requests' : 'orders';
+    await api(`/api/admin/${endpoint}/${encodeURIComponent(id)}`, { method: 'PATCH', body: payload }); showMessage('Customer record updated.'); await loadView(state.view);
+  } catch (error) { showMessage(error.message, true); button.disabled = false; }
+}
 
-HÂˆÛÛœÝ]HH]ØZ]\J	ËØ\KØYZ[‹Ø]Y]	ÊNÈÝ]K˜]Y]H]K˜]Y]×NÈÛÛœÝ[™[H	
-	ÖÙ]K\[™[H˜XÝ]š]H—IÊNÂˆ[™[š[›™\’SH	ÜYÙRXY[™Ê	ÔÕQSÈÑÈÈÉË	ÐXÝ]š]IË	ÐH™XÛÜ™ÙˆXØÛÝ[Ø][ÙÝYKÝØÚË[™[š[Y[Ú[™Ù\Ë‰Ê_Bˆ]ˆÛ\ÜÏH˜]Y][\Ý‰ÜÝ]K˜]Y]›[™ÝÈÝ]K˜]Y]›X\
-
-›ÝÊHOˆ\XÛHÛ\ÜÏH˜]Y]\›ÝÈ[YH]][YOH‰Ù\ØÊ›ÝË˜Ü™X]Y]›ÝË˜Ü™X]YØ]
-_H‰Ù\ØÊ™]È]J›ÝË˜Ü™X]Y]›ÝË˜Ü™X]YØ]
-KÓØØ[TÝš[™Ê
-J_OÝ[YOÜ[‰Ù\ØÊ›ÝË\Ù\‘[XZ[›ÝË\Ù\—Ù[XZ[	ÉÊ_OØˆ0­È	Ù\ØÊ›ÝËœÝ[[X\žH›ÝË˜XÝ[Ûˆ	ÉÊ_OÜÜ[ÛX[‰Ù\ØÊ›ÝË\™Ù]\H›ÝË\™Ù]Ý\H	ÉÊ_OÜÛX[Ø\XÛO˜
-Kš›Ú[Š	ÉÊHˆ	Ï]ˆÛ\ÜÏH™[\K\Ý]H“›ÈYZ[ˆXÝ]š]H™XÛÜ™YY]Ù]‰ßOÙ]˜ÂŸB™[˜Ý[ÛˆÞ[˜ÔÝ]\Ñš[\Š
-HÈYˆ
-Ý]KšY]ÈOOH	Ü™\]Y\ÝÉÊHZ[™\]Y\ÝÊ
-NÈ[ÙHYˆ
-Ý]KšY]ÈOOH	ÛÜ™\œÉÊHZ[Ü™\œÊ
-NÈB™[˜Ý[ÛˆÚÝÕ[\\ÜÝÛÜ™
-\ÜÝÛÜ™
-HÂˆ	
-	ÈÝ[\Ü˜\žK\ÙXÜ™]	ÊK^ÛÛ[H\ÜÝÛÜ™È	
-	ÈÜÙXÜ™]\Ý]\ÉÊK^ÛÛ[H	ÉÎÈ	
-	ÈÜÙXÜ™]YX[ÙÉÊKœÚÝÓ[Ù[
-
-NÂŸB˜\Þ[˜È[˜Ý[ÛˆÝX›Z]›Ü›J]™[
-HÂˆÛÛœÝ›Ü›HH]™[\™Ù]ÂˆYˆ
-J›Ü›H[œÝ[˜Ù[ÙˆS›Ü›Q[[Y[
-JH™]\›ŽÂˆÛÛœÝ˜[Y\ÈH›Ü›Q]J›Ü›JNÂˆžHÂˆYˆ
-›Ü›KšYOOH	ÛÙÚ[‹Y›Ü›IÊHÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]\J	ËØ\KØYZ[‹ÛÙÚ[‰ËÈY]Ùˆ	ÔÔÕ	Ë›ÙNˆ˜[Y\ÈJNÈÝ]K˜ÜÜ™•ÚÙ[ˆH™\ÜÛœÙK˜ÜÜ™•ÚÙ[ˆ	ÉÎÈ]ØZ]Ü[”Ü[
-™\ÜÛœÙK™\ÜÛœÙK˜ÜÜ™•ÚÙ[ŠNÈ™]\›ŽÂˆBˆYˆ
-›Ü›KšYOOH	ÜÙ]\Y›Ü›IÊHÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]\J	ËØ\KØYZ[‹ÜÙ]\	ËÈY]Ùˆ	ÔÔÕ	Ë›ÙNˆ˜[Y\ÈJNÈÝ]K˜ÜÜ™•ÚÙ[ˆH™\ÜÛœÙK˜ÜÜ™•ÚÙ[ˆ	ÉÎÈ]ØZ]Ü[”Ü[
-™\ÜÛœÙK™\ÜÛœÙK˜ÜÜ™•ÚÙ[ŠNÈÚÝÓY\ÜØYÙJ	ÓÝÛ™\ˆXØÛÝ[Ü™X]YˆÙY\[Ý\ˆÙ]\ÛÙHš]˜]NÈ]Ø[››ÝÜ™X]H[›Ý\ˆÝÛ™\‹‰ÊNÈ™]\›ŽÂˆBˆYˆ
-›Ü›KšYOOH	Ü\ÜÝÛÜ™Y›Ü›IÊHÂˆ]ØZ]\J	ËØ\KØYZ[‹Ü\ÜÝÛÜ™	ËÈY]Ùˆ	ÔU	Ë›ÙNˆ˜[Y\ÈJNÈÝ]K\Ù\‹›]\ÝÚ[™ÙT\ÜÝÛÜ™H˜[ÙNÈ	
-	ÈÜ\ÜÝÛÜ™\[™[	ÊKšY[ˆHYNÈ	
-	ÈÜÜ[	ÊKšY[ˆH˜[ÙNÈÚÝÓY\ÜØYÙJ	Ô\ÜÝÛÜ™\]Yˆ[ÝHØ[ˆ\ÙHHÜ[›ÝË‰ÊNÈ]ØZ]ØYšY]Ê	ÛÝ™\šY]ÉÊNÈ™]\›ŽÂˆBˆYˆ
-›Ü›K™]\Ù]œ›ÙXÝ›Ü›HOOH[™Yš[™Y
-HÂˆÛÛœÝ]HHÈ‹‹˜[Y\ËšXÙNˆ[X™\Š˜[Y\ËœšXÙJKœ›ÛNˆ[X™\Š˜[Y\Ë™œ›ÛJKXÝ]™Nˆ˜[Y\Ë˜XÝ]™HOOH	ÝYIÈNÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]\JØ\KØYZ[‹Ü›ÙXÝËÉÙ[˜ÛÙUT’PÛÛ\Û™[
-›Ü›K™]\Ù]œ›ÙXÝY
-_XÈY]Ùˆ	ÔU	Ë›ÙNˆ]HJNÂˆÛÛœÝ›ÙXÝH™\ÜÛœÙKœ›ÙXÝ™\ÜÛœÙNÈÝ]Kœ›ÙXÝÈHÝ]Kœ›ÙXÝË›X\
-
-][JHOˆ][KšYOOH›ÙXÝšYÈ›ÙXÝˆ][JNÈÚÝÓY\ÜØYÙJ	Ü›ÙXÝ›˜[Y_HØ]™Y˜
-NÈZ[›ÙXÝÊ
-NÈ™]\›ŽÂˆBˆYˆ
-›Ü›KšYOOH	Ü›ÙXÝXÜ™X]KY›Ü›IÊHÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]\J	ËØ\KØYZ[‹Ü›ÙXÝÉËÈY]Ùˆ	ÔÔÕ	Ë›ÙNˆÈ‹‹˜[Y\ËšXÙNˆ[X™\Š˜[Y\ËœšXÙJKœ›ÛNˆ[X™\Š˜[Y\Ë™œ›ÛJKXÝ]™NˆYHHJNÂˆÛÛœÝ›ÙXÝH™\ÜÛœÙKœ›ÙXÝ™\ÜÛœÙNÈÝ]Kœ›ÙXÝËœ\Ú
-›ÙXÝ
-NÈZ[›ÙXÝÊ
-NÈ	
-	ÈÜ›ÙXÝXÜ™X]K]Ü˜\	ÊKšY[ˆHYNÈÚÝÓY\ÜØYÙJ	Ü›ÙXÝ›˜[Y_HYYˆ[\ˆÝØÚÈ›Üˆ]È˜\šX[È™Y›Ü™H[˜X›[™È\˜Ú\Ù\Ë˜
-NÈ™]\›ŽÂˆBˆYˆ
-›Ü›KšYOOH	ÜÝY™‹XÜ™X]KY›Ü›IÊHÂˆÛÛœÝ™\ÜÛœÙHH]ØZ]\J	ËØ\KØYZ[‹Ý\Ù\œÉËÈY]Ùˆ	ÔÔÕ	Ë›ÙNˆ˜[Y\ÈJNÈÚÝÕ[\\ÜÝÛÜ™
-™\ÜÛœÙK[\Ü˜\žT\ÜÝÛÜ™
-NÈ]ØZ]™[™\•X[J
-NÈ™]\›ŽÂˆBˆYˆ
-›Ü›KšYOOH	ÜÙ][™ÜËY›Ü›IÊHÂˆÝ]KœÙ][™ÜÈH]ØZ]\J	ËØ\KØYZ[‹ÜÙ][™ÜÉËÈY]Ùˆ	ÔU	Ë›ÙNˆÈÚ]Ø\[X™\Žˆ˜[Y\ËÚ]Ø\[X™\‹Ú\[™Ñ™YTZ\ÙNˆX]œ›Ý[™
-[X™\Š˜[Y\ËœÚ\[™Ñ™YT\Y\ÊH
-ˆL
-HHJNÂˆÚÝÓY\ÜØYÙJ	ÔÚÜÙ][™ÜÈØ]™Y[™\YYÈHÝÜ™Yœ›Û‰ÊNÈ™]\›ŽÂˆBˆHØ]Ú
-\œ›ÜŠHÈ›Ü›TÝ]\Ê›Ü›K\œ›Ü‹›Y\ÜØYÙKYJNÈBŸB˜\Þ[˜È[˜Ý[ÛˆØ]™TÝØÚÊ]ÛŠHÂˆÛÛœÝÛÛ›ÛH]Û‹˜ÛÜÙ\Ý
-	ËœÝØÚËXÛÛ›Û	ÊK[œ]H	
-	ÖÙ]K\ÝØÚËZ[œ]IËÛÛ›Û
-K]X[]HH[X™\Š[œ]˜[YJNÂˆ]Û‹™\ØX›YHYNÂˆžHÈ]ØZ]\JØ\KØYZ[‹Ü›ÙXÝËÉÙ[˜ÛÙUT’PÛÛ\Û™[
-]Û‹™]\Ù]œÝØÚÔØ]™J_KÜÝØÚØÈY]Ùˆ	ÔUÒ	Ë›ÙNˆÈÚ^™Nˆ]Û‹™]\Ù]œÚ^™KÛÛÜŽˆ]Û‹™]\Ù]˜ÛÛÜ‹ÝØÚÓÛ’[™ˆ]X[]HHJNÈÚÝÓY\ÜØYÙJ	Õ˜\šX[ÝØÚÈ\]Y‰ÊNÈ]ØZ]™[™\Ø][ÙÊ
-NÈBˆØ]Ú
-\œ›ÜŠHÈÚÝÓY\ÜØYÙJ\œ›Ü‹›Y\ÜØYÙKYJNÈ]Û‹™\ØX›YH˜[ÙNÈBŸB˜\Þ[˜È[˜Ý[ÛˆØ]™T™XÛÜ™
-]Û‹Ú[™
-HÂˆÛÛœÝØ\™H]Û‹˜ÛÜÙ\Ý
-	ÖÙ]K\™XÛÜ™XØ\™IÊKYH]Û‹™]\Ù]ÚÚ[™OOH	Ù[œ]Z\žIÈÈ	ÜØ]™Q[œ]Z\žIÈˆÚ[™OOH	Ü™\]Y\Ý	ÈÈ	ÜØ]™T™\]Y\Ý	Èˆ	ÜØ]™SÜ™\‰×NÂˆÛÛœÝÙ[XÝH	
-	ÖÙ]K\Ý]\×IËØ\™
-K›ÝHH	
-	ÖÙ]K[›ÝWIËØ\™
-K^[ØYHÚ[™OOH	ÛÜ™\‰ÈÈÈ[š[Y[Ý]\Îˆ	
-	ÖÙ]KY[š[Y[IËØ\™
-K˜[YKYZ[“›ÝNˆ›ÝK˜[YHHˆÈÝ]\ÎˆÙ[XÝ˜[YKYZ[“›ÝNˆ›ÝK˜[YHNÂˆ]Û‹™\ØX›YHYNÂˆžHÂˆÛÛœÝ[™Ú[HÚ[™OOH	Ù[œ]Z\žIÈÈ	Ù[œ]Z\šY\ÉÈˆÚ[™OOH	Ü™\]Y\Ý	ÈÈ	ÛÜ™\‹\™\]Y\ÝÉÈˆ	ÛÜ™\œÉÎÂˆ]ØZ]\JØ\KØYZ[‹ÉÙ[™Ú[KÉÙ[˜ÛÙUT’PÛÛ\Û™[
-Y
-_XÈY]Ùˆ	ÔUÒ	Ë›ÙNˆ^[ØYJNÈÚÝÓY\ÜØYÙJ	ÐÝ\ÝÛY\ˆ™XÛÜ™\]Y‰ÊNÈ]ØZ]ØYšY]ÊÝ]KšY]ÊNÂˆHØ]Ú
-\œ›ÜŠHÈÚÝÓY\ÜØYÙJ\œ›Ü‹›Y\ÜØYÙKYJNÈ]Û‹™\ØX›YH˜[ÙNÈBŸB‚™ØÝ[Y[˜Y]™[\Ý[™\Š	ÜÝX›Z]	Ë
-]™[
-HOˆÈ]™[œ™]™[Y˜][
-
-NÈÝX›Z]›Ü›J]™[
-NÈJNÂ™ØÝ[Y[˜Y]™[\Ý[™\Š	Ú[œ]	Ë
-]™[
-HOˆÂˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K\ÙX\˜ÚZ[œ]KÙ]K[\Ý\ÙX\˜ÚIÊJHÈÝ]KœÙX\˜ÚH]™[\™Ù]˜[YNÈÞ[˜ÔÝ]\Ñš[\Š
-NÈYˆ
-Ý]KšY]ÈOOH	ØØ][ÙÉÊHZ[›ÙXÝÊ
-NÈBŸJNÂ™ØÝ[Y[˜Y]™[\Ý[™\Š	ØÚ[™ÙIË
-]™[
-HOˆÂˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K\™\]Y\ÝZÚ[™IÊJHÈÝ]Kœ™\]Y\ÝÚ[™H]™[\™Ù]˜[YNÈZ[™\]Y\ÝÊ
-NÈBˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K\™\]Y\Ý\Ý]\×IÊJHZ[™\]Y\ÝÊ
-NÂˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K[Ü™\‹\Ý]\×IÊJHZ[Ü™\œÊ
-NÂˆYˆ
-]™[\™Ù]›X]Ú\Ê	ÖÙ]K\›ÙXÝ\Ý]\×IÊJHZ[›ÙXÝÊ
-NÂŸJNÂ™ØÝ[Y[˜Y]™[\Ý[™\Š	ØÛXÚÉË\Þ[˜È
-]™[
-HOˆÂˆÛÛœÝ˜]ˆH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K]šY]×IÊNÈYˆ
-˜]ŠHÈÙ]šY]Ê˜]‹™]\Ù]šY]ÊNÈ™]\›ŽÈBˆÛÛœÝÛÈH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KYÛ×IÊNÈYˆ
-ÛÊHÈÙ]šY]ÊÛË™]\Ù]™ÛÊNÈ™]\›ŽÈBˆÛÛœÝÝØÚÈH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\ÝØÚË\Ø]™WIÊNÈYˆ
-ÝØÚÊHÈ]ØZ]Ø]™TÝØÚÊÝØÚÊNÈ™]\›ŽÈBˆÛÛœÝ[œ]Z\žHH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\Ø]™KY[œ]Z\žWIÊNÈYˆ
-[œ]Z\žJHÈ]ØZ]Ø]™T™XÛÜ™
-[œ]Z\žK	Ù[œ]Z\žIÊNÈ™]\›ŽÈBˆÛÛœÝ™\]Y\ÝH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\Ø]™K\™\]Y\ÝIÊNÈYˆ
-™\]Y\Ý
-HÈ]ØZ]Ø]™T™XÛÜ™
-™\]Y\Ý	Ü™\]Y\Ý	ÊNÈ™]\›ŽÈBˆÛÛœÝÜ™\ˆH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K\Ø]™K[Ü™\—IÊNÈYˆ
-Ü™\ŠHÈ]ØZ]Ø]™T™XÛÜ™
-Ü™\‹	ÛÜ™\‰ÊNÈ™]\›ŽÈBˆÛÛœÝÙÙÛHH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K]ÙÙÛKXÜ™X]WIÊNÈYˆ
-ÙÙÛJHÈ	
-	ÈÜ›ÙXÝXÜ™X]K]Ü˜\	ÊKšY[ˆHI
-	ÈÜ›ÙXÝXÜ™X]K]Ü˜\	ÊKšY[ŽÈ	
-	ÈÜ›ÙXÝXÜ™X]KY›Ü›IÊOËœ]Y\žTÙ[XÝÜŠ	Ú[œ]	ÊOË™›ØÝ\Ê
-NÈ™]\›ŽÈBˆÛÛœÝ\Ù\XÝ[ÛˆH]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]K]\Ù\‹XXÝ[Û—IÊNÂˆYˆ
-\Ù\XÝ[ÛŠHÂˆ\Ù\XÝ[Û‹™\ØX›YHYNÂˆžHÈÛÛœÝ™\Ý[H]ØZ]\JØ\KØYZ[‹Ý\Ù\œËÉÙ[˜ÛÙUT’PÛÛ\Û™[
-\Ù\XÝ[Û‹™]\Ù]\Ù\’Y
-_XÈY]Ùˆ	ÔUÒ	Ë›ÙNˆÈXÝ[ÛŽˆ\Ù\XÝ[Û‹™]\Ù]\Ù\XÝ[ÛˆHJNÈYˆ
-™\Ý[[\Ü˜\žT\ÜÝÛÜ™
-HÚÝÕ[\\ÜÝÛÜ™
-™\Ý[[\Ü˜\žT\ÜÝÛÜ™
-NÈÚÝÓY\ÜØYÙJ	ÕX[HXØÛÝ[\]Y‰ÊNÈ]ØZ]™[™\•X[J
-NÈBˆØ]Ú
-\œ›ÜŠHÈÚÝÓY\ÜØYÙJ\œ›Ü‹›Y\ÜØYÙKYJNÈ\Ù\XÝ[Û‹™\ØX›YH˜[ÙNÈH™]\›ŽÂˆBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÈØYZ[‹[ÙÛÝ]	ÊJHÂˆžHÈ]ØZ]\J	ËØ\KØYZ[‹ÛÙÛÝ]	ËÈY]Ùˆ	ÔÔÕ	Ë›ÙNˆßHJNÈHØ]ÚßBˆÝ]K˜ÜÜ™•ÚÙ[ˆH	ÉÎÈÚÝÐ]]
-˜[ÙKYJNÈ	
-	ÈÛÙÚ[‹Y›Ü›IÊKœ™\Ù]
-
-NÈ™]\›ŽÂˆBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXÛÜÙK\ÙXÜ™]IÊJHÈ	
-	ÈÜÙXÜ™]YX[ÙÉÊK˜ÛÜÙJ
-NÈ™]\›ŽÈBˆYˆ
-]™[\™Ù]˜ÛÜÙ\Ý
-	ÖÙ]KXÛÜK\ÙXÜ™]IÊJHÂˆžHÈ]ØZ]˜]šYØ]Ü‹˜Û\›Ø\™Üš]U^
-	
-	ÈÝ[\Ü˜\žK\ÙXÜ™]	ÊK^ÛÛ[
-NÈ	
-	ÈÜÙXÜ™]\Ý]\ÉÊK^ÛÛ[H	ÐÛÜYYˆÚ\™H]š]˜][K‰ÎÈBˆØ]ÚÈ	
-	ÈÜÙXÜ™]\Ý]\ÉÊK^ÛÛ[H	ÐÛÜH\È[˜]˜Z[X›KˆÙ[XÝH\ÜÝÛÜ™[™ÛÜH]X[X[K‰ÎÈBˆBŸJNÂ‰
-	ÈÜÙXÜ™]YX[ÙÉÊK˜Y]™[\Ý[™\Š	ØÛXÚÉË
-]™[
-HOˆÈYˆ
-]™[\™Ù]OOH]™[˜Ý\œ™[\™Ù]
-H]™[˜Ý\œ™[\™Ù]˜ÛÜÙJ
-NÈJNÂ˜›ÛÝ
-
-NÂ
+document.addEventListener('submit', (event) => { event.preventDefault(); submitForm(event); });
+document.addEventListener('input', (event) => {
+  if (event.target.matches('[data-search-input],[data-list-search]')) { state.search = event.target.value; syncStatusFilter(); if (state.view === 'catalog') paintProducts(); }
+});
+document.addEventListener('change', (event) => {
+  if (event.target.matches('[data-request-kind]')) { state.requestKind = event.target.value; paintRequests(); }
+  if (event.target.matches('[data-request-status]')) paintRequests();
+  if (event.target.matches('[data-order-status]')) paintOrders();
+  if (event.target.matches('[data-product-status]')) paintProducts();
+});
+document.addEventListener('click', async (event) => {
+  const nav = event.target.closest('[data-view]'); if (nav) { setView(nav.dataset.view); return; }
+  const go = event.target.closest('[data-go]'); if (go) { setView(go.dataset.go); return; }
+  const stock = event.target.closest('[data-stock-save]'); if (stock) { await saveStock(stock); return; }
+  const enquiry = event.target.closest('[data-save-enquiry]'); if (enquiry) { await saveRecord(enquiry, 'enquiry'); return; }
+  const request = event.target.closest('[data-save-request]'); if (request) { await saveRecord(request, 'request'); return; }
+  const order = event.target.closest('[data-save-order]'); if (order) { await saveRecord(order, 'order'); return; }
+  const toggle = event.target.closest('[data-toggle-create]'); if (toggle) { $('#product-create-wrap').hidden = !$('#product-create-wrap').hidden; $('#product-create-form')?.querySelector('input')?.focus(); return; }
+  const userAction = event.target.closest('[data-user-action]');
+  if (userAction) {
+    userAction.disabled = true;
+    try { const result = await api(`/api/admin/users/${encodeURIComponent(userAction.dataset.userId)}`, { method: 'PATCH', body: { action: userAction.dataset.userAction } }); if (result.temporaryPassword) showTempPassword(result.temporaryPassword); showMessage('Team account updated.'); await renderTeam(); }
+    catch (error) { showMessage(error.message, true); userAction.disabled = false; } return;
+  }
+  if (event.target.closest('#admin-logout')) {
+    try { await api('/api/admin/logout', { method: 'POST', body: {} }); } catch {}
+    state.csrfToken = ''; showAuth(false, true); $('#login-form').reset(); return;
+  }
+  if (event.target.closest('[data-close-secret]')) { $('#secret-dialog').close(); return; }
+  if (event.target.closest('[data-copy-secret]')) {
+    try { await navigator.clipboard.writeText($('#temporary-secret').textContent); $('#secret-status').textContent = 'Copied. Share it privately.'; }
+    catch { $('#secret-status').textContent = 'Copy is unavailable. Select the password and copy it manually.'; }
+  }
+});
+$('#secret-dialog').addEventListener('click', (event) => { if (event.target === event.currentTarget) event.currentTarget.close(); });
+boot();

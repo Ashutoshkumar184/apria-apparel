@@ -1,173 +1,416 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×~õé:-jZ.¶›­–)Ş³V6öç7B4U54”ôåôÕ2Ò‚¢c¢c¢°¦6öç7BEDTÕEõt”äDõuôÕ2ÒR¢c¢°¦6öç7BÔ…ôÄôt”åôd”ÅU$U2Òƒ°¦6öç7BTåT•%•õ5DDU2Ò²væWrrÂv–å÷&öw&W72rÂwV÷FVBrÂwvöârÂv6Æ÷6VBuÓ°¦6öç7B$UTU5Eõ5DDU2Ò²væWrrÂv6öçF7FVBrÂv6öçfW'FVBrÂv6Æ÷6VBuÓ°¦6öç7BeTÄd”ÄÄÔTåEõ5DDU2Ò²wVægVÆf–ÆÆVBrÂw&ö6W76–ærrÂw6†—VBrÂvFVÆ—fW&VBrÂv6æ6VÆÆVBuÓ°¦6öç7BDTdTÅEõt„E4ôåTÔ$U"Òs“sƒƒƒ3#“cbs° ¦gVæ7F–öâ6ÆVâ‡fÇVRÂÖ‚ÒS’²&WGW&âG—VöbfÇVRÓÓÒw7G&–ærròfÇVRçG&–Ò‚’ç6Æ–6RƒÂÖ‚’¢rs²Ğ¦gVæ7F–öâ§6öâ‡7FGW2ÂFFÂ†VFW'2Ò·Ò’²&WGW&â&W7öç6Ræ§6öâ†FFÂ²7FGW2Â†VFW'3¢²t66†RÔ6öçG&öÂs¢væò×7F÷&RrÂu‚Ô6öçFVçBÕG—RÔ÷F–öç2s¢væ÷6æ–fbrÂu&VfW'&W"ÕöÆ–7’s¢w6ÖRÖ÷&–v–ârÂââæ†VFW'2ÒÒ“²Ğ¦gVæ7F–öâ#cGW&Â†'—FW2’²&WGW&â'Fö…7G&–æræg&öÔ6†$6öFR‚ââææWrV–çC„'&’†'—FW2’’’ç&WÆ6R‚õÂ²örÂrÒr’ç&WÆ6R‚õÂòörÂuòr’ç&WÆ6R‚óÒ²BörÂrr“²Ğ¦gVæ7F–öâ&æFöÕFö¶Vâ†ÆVæwF‚Ò3"’²6öç7B'—FW2ÒæWrV–çC„'&’†ÆVæwF‚“²7'—FòævWE&æFöÕfÇVW2†'—FW2“²&WGW&â#cGW&Â†'—FW2“²Ğ¦7–æ2gVæ7F–öâ6†#Sb‡fÇVR’²&WGW&â#cGW&Â†v—B7'—Fòç7V'FÆRæF–vW7B‚u4„Ó#SbrÂæWrFW‡DVæ6öFW"‚’æVæ6öFR‡fÇVR’’“²Ğ¦7–æ2gVæ7F–öâ77v÷&D†6‚‡77v÷&B’°¢6öç7B6ÇBÒ&æFöÕFö¶Vâƒb’Â¶W’Òv—B7'—Fòç7V'FÆRæ–×÷'D¶W’‚w&rrÂæWrFW‡DVæ6öFW"‚’æVæ6öFR‡77v÷&B’Âu$´Dc"rÂfÇ6RÂ²vFW&—fT&—G2uÒ“°¢6öç7B&—G2Òv—B7'—Fòç7V'FÆRæFW&—fT&—G2‡²æÖS¢u$´Dc"rÂ6ÇC¢æWrFW‡DVæ6öFW"‚’æVæ6öFR‡6ÇB’Â—FW&F–öç3¢#Â†6ƒ¢u4„Ó#SbrÒÂ¶W’Â#Sb“°¢&WGW&â&¶Fc"C#BG·6ÇGÒBG¶#cGW&Â†&—G2—Ö°§Ğ¦7–æ2gVæ7F–öâ77v÷&DÖF6†W2‡77v÷&BÂVæ6öFVB’°¢6öç7B¶¶–æBÂ&÷VæG2Â6ÇBÂW‡V7FVEÒÒ7G&–ær†Væ6öFVBÇÂrr’ç7Æ—B‚rBr“°¢–b†¶–æBÓÒw&¶Fc"rÇÂçVÖ&W"‡&÷VæG2’ÓÒ#ÇÂ6ÇBÇÂW‡V7FVB’&WGW&âfÇ6S°¢6öç7B7GVÂÒv—B77v÷&D†6„g&öÕ6ÇB‡77v÷&BÂ6ÇB“°¢&WGW&âF–Ö–æu6fTWVÂ†7GVÂÂW‡V7FVB“°§Ğ¦7–æ2gVæ7F–öâ77v÷&D†6„g&öÕ6ÇB‡77v÷&BÂ6ÇB’°¢6öç7B¶W’Òv—B7'—Fòç7V'FÆRæ–×÷'D¶W’‚w&rrÂæWrFW‡DVæ6öFW"‚’æVæ6öFR‡77v÷&B’Âu$´Dc"rÂfÇ6RÂ²vFW&—fT&—G2uÒ“°¢6öç7B&—G2Òv—B7'—Fòç7V'FÆRæFW&—fT&—G2‡²æÖS¢u$´Dc"rÂ6ÇC¢æWrFW‡DVæ6öFW"‚’æVæ6öFR‡6ÇB’Â—FW&F–öç3¢#Â†6ƒ¢u4„Ó#SbrÒÂ¶W’Â#Sb“°¢&WGW&â#cGW&Â†&—G2“°§Ğ¦gVæ7F–öâF–Ö–æu6fTWVÂ†Â"’°¢–b†æÆVæwF‚ÓÒ"æÆVæwF‚’&WGW&âfÇ6S°¢ÆWBF–ffW&Væ6RÒ°¢f÷"†ÆWB’Ò²’ÂæÆVæwFƒ²’³Ò’F–ffW&Væ6RÃÒæ6†$6öFTB†’’â"æ6†$6öFTB†’“°¢&WGW&âF–ffW&Væ6RÓÓÒ°§Ğ¦gVæ7F–öâVÖ–ÅfÇVR‡fÇVR’²&WGW&â6ÆVâ‡fÇVRÂ#’çFôÆ÷vW$66R‚“²Ğ¦gVæ7F–öâfÆ–E77v÷&B‡fÇVR’²&WGW&âG—VöbfÇVRÓÓÒw7G&–ærrbbfÇVRæÆVæwF‚ãÒ"bbfÇVRæÆVæwF‚ÃÒ#ƒ²Ğ¦gVæ7F–öâ6—¦W4öb‡7V2’°¢6öç7B'G2Ò7G&–ær‡7V2ÇÂrr’ç7Æ—B‚~(	2r’æÖ‚‡'B’Óâ'BçG&–Ò‚’’ÂÇ†Ò²u…2rÂu2rÂtÒrÂtÂrÂu„ÂrÂu…„ÂrÂs5„ÂuÓ°¢–b‡'G2æÆVæwF‚ÓÓÒ"bbÇ†æ–æ6ÇVFW2‡'G5³Ò’bbÇ†æ–æ6ÇVFW2‡'G5³Ò’’&WGW&âÇ†ç6Æ–6R†Ç†æ–æFW„öb‡'G5³Ò’ÂÇ†æ–æFW„öb‡'G5³Ò’²“°¢–b‡'G2æÆVæwF‚ÓÓÒ"bbõåÆB²BòçFW7B‡'G5³Ò’bbõåÆB²BòçFW7B‡'G5³Ò’’°¢6öç7Bf—'7BÒçVÖ&W"‡'G5³Ò’ÂÆ7BÒçVÖ&W"‡'G5³Ò“°¢–b†Æ7BãÒf—'7Bbb†Æ7BÒf—'7B’R"ÓÓÒbb†Æ7BÒf—'7B’ò"Â3’&WGW&â'&’æg&öÒ‡²ÆVæwFƒ¢†Æ7BÒf—'7B’ò"²ÒÂ…òÂ’’Óâ7G&–ær†f—'7B²’¢"’“°¢Ğ¢&WGW&â7G&–ær‡7V2ÇÂrr’ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“°§Ğ¦gVæ7F–öâ6öÆ÷'4öb‡7V2’²&WGW&â7G&–ær‡7V2ÇÂrr’ç7Æ—B‚ròr’æÖ‚‡'B’Óâ'BçG&–Ò‚’’æf–ÇFW"„&ööÆVâ“²Ğ¦gVæ7F–öâ&öGV7E–ÆöB‡&öGV7BÂf&–çG2ÒµÒ’°¢&WGW&â²ââç&öGV7BÂ&–6S¢çVÖ&W"‡&öGV7Bç&–6U÷—6R’òÂg&öÓ¢çVÖ&W"‡&öGV7Bæg&öÕ÷&–6U÷—6RÇÂ’òÂ7F—fS¢&ööÆVâ‡&öGV7Bæ7F—fR’Â6÷'D÷&FW#¢çVÖ&W"‡&öGV7Bç6÷'Eö÷&FW"ÇÂ’Âf&–çG3¢f&–çG2æÖ‚†—FVÒ’Óâ‡²6—¦S¢—FVÒç6—¦RÂ6öÆ÷#¢—FVÒæ6öÆ÷"Â7Fö6´öä†æC¢çVÖ&W"†—FVÒç7Fö6µööåö†æB’Â&W6W'fVC¢çVÖ&W"†—FVÒç&W6W'fVB’Âf–Æ&ÆS¢ÖF‚æÖ‚ƒÂçVÖ&W"†—FVÒç7Fö6µööåö†æB’ÒçVÖ&W"†—FVÒç&W6W'fVB’’Ò’’Ó°§Ğ¦gVæ7F–öâ6—¦W46öÆ÷'2‡&öGV7B’²&WGW&â6—¦W4öb‡&öGV7Bç6—¦W2’æfÆDÖ‚‡6—¦R’Óâ6öÆ÷'4öb‡&öGV7Bæ6öÆ÷"’æÖ‚†6öÆ÷"’Óâ‡²6—¦RÂ6öÆ÷"Ò’’“²Ğ¦7–æ2gVæ7F–öâVç7W&T6FÆör†Vçb’°¢6öç7B6÷VçBÒv—BVçbäD"ç&W&R‚u4TÄT5B4õTåB‚¢’26÷VçBe$ôÒ&öGV7G2r’æf—'7B‚“°¢–b„çVÖ&W"†6÷VçCòæ6÷VçBÇÂ’’&WGW&ã°¢6öç7B&W7öç6RÒv—BVçbä54UE2æfWF6‚†æWr&WVW7B‚v‡GG3¢òö76WG2æÆö6Â÷&öGV7G2æ§6öâr’“°¢–b‚&W7öç6Ræö²’F‡&÷ræWrW'&÷"‚t6FÆöwVR6VVBVæf–Æ&ÆRâr“°¢6öç7B&öGV7G2Òv—B&W7öç6Ræ§6öâ‚’Âæ÷rÒæWrFFR‚’çFô•4õ7G&–ær‚’Â7FFVÖVçG2ÒµÓ°¢f÷"†6öç7B¶–æFW‚Â&öGV7EÒöb&öGV7G2æVçG&–W2‚’’°¢7FFVÖVçG2çW6‚†VçbäD"ç&W&R‚t”å4U%Bõ"”täõ$R”åDò&öGV7G2†–BÂæÖRÂ6FVv÷'’Â&–6U÷—6RÂg&öÕ÷&–6U÷—6RÂ–ÖvRÂ6öÆ÷"Âw6ÒÂf'&–2Â6—¦W2ÂFrÂFW67&—F–öâÂ7F—fRÂ6÷'Eö÷&FW"Â7&VFVEöBÂWFFVEöB’dÅTU2ƒòÂòÂòÂòÂòÂòÂòÂòÂòÂòÂòÂòÂÂòÂòÂò’r¢æ&–æB†6ÆVâ‡&öGV7Bæ–BÂƒ’Â6ÆVâ‡&öGV7BææÖRÂ#’Â6ÆVâ‡&öGV7Bæ6FVv÷'’Âc’ÂÖF‚ç&÷VæB„çVÖ&W"‡&öGV7Bç&–6R’¢’ÂÖF‚ç&÷VæB„çVÖ&W"‡&öGV7Bæg&öÒÇÂ’¢’Â6ÆVâ‡&öGV7Bæ–ÖvRÂS’Â6ÆVâ‡&öGV7Bæ6öÆ÷"Âƒ’Â6ÆVâ‡&öGV7Bæw6ÒÂc’Â6ÆVâ‡&öGV7Bæf'&–2Â’Â6ÆVâ‡&öGV7Bç6—¦W2Â’Â6ÆVâ‡&öGV7BçFrÂc’Â6ÆVâ‡&öGV7BæFW67&—F–öâÂ#’Â–æFW‚Âæ÷rÂæ÷r’“°¢f÷"†6öç7Bf&–çBöb6—¦W46öÆ÷'2‡&öGV7B’’7FFVÖVçG2çW6‚†VçbäD"ç&W&R‚t”å4U%Bõ"”täõ$R”åDò&öGV7E÷f&–çG2‡&öGV7Eö–BÂ6—¦RÂ6öÆ÷"Â7Fö6µööåö†æBÂ&W6W'fVB’dÅTU2ƒòÂòÂòÂÂ’r’æ&–æB‡&öGV7Bæ–BÂf&–çBç6—¦RÂf&–çBæ6öÆ÷"’“°¢Ğ¢–b‡7FFVÖVçG2æÆVæwF‚’v—BVçbäD"æ&F6‚‡7FFVÖVçG2“°§Ğ¦7–æ2gVæ7F–öâvWE&öGV7G2†VçbÂ–æ6ÇVFT–æ7F—fRÒfÇ6R’°¢v—BVç7W&T6FÆör†Vçb“°¢6öç7B&W7VÇG2Òv—BVçbäD"ç&W&R†4TÄT5B¢e$ôÒ&öGV7G2G¶–æ6ÇVFT–æ7F—fRòrr¢ut„U$R7F—fRÒwÒõ$DU"%’6÷'Eö÷&FW"ÂæÖV’æÆÂ‚“°¢6öç7B&öGV7G2ÒµÓ°¢f÷"†6öç7B&öGV7Böb&W7VÇG2ç&W7VÇG2ÇÂµÒ’°¢6öç7B7Fö6²Òv—BVçbäD"ç&W&R‚u4TÄT5B6—¦RÂ6öÆ÷"Â7Fö6µööåö†æBÂ&W6W'fVBe$ôÒ&öGV7E÷f&–çG2t„U$R&öGV7Eö–BÒòõ$DU"%’6—¦RÂ6öÆ÷"r’æ&–æB‡&öGV7Bæ–B’æÆÂ‚“°¢&öGV7G2çW6‚‡&öGV7E–ÆöB‡&öGV7BÂ7Fö6²ç&W7VÇG2ÇÂµÒ’“°¢Ğ¢&WGW&â&öGV7G3°§Ğ¦7–æ2gVæ7F–öâvWE6WGF–æw2†Vçb’°¢6öç7B&÷w2Òv—BVçbäD"ç&W&R‚u4TÄT5B6WGF–æuö¶W’Â6WGF–æu÷fÇVRe$ôÒFÖ–å÷6WGF–æw2r’æÆÂ‚“°¢6öç7BfÇVW2Òö&¦V7Bæg&öÔVçG&–W2‚‡&÷w2ç&W7VÇG2ÇÂµÒ’æÖ‚‡&÷r’Óâ·&÷rç6WGF–æuö¶W’Â&÷rç6WGF–æu÷fÇVUÒ’“°¢6öç7B6†—–ætfVU—6RÒçVÖ&W"‡fÇVW2ç6†—–ætfVU—6RóòVçbå4„•”äuôdTUõ•4Róò“°¢6öç7Bv†G6çVÖ&W"Ò7G&–ær‡fÇVW2çv†G6çVÖ&W"ÇÂVçbåt„E4ôåTÔ$U"ÇÂDTdTÅEõt„E4ôåTÔ$U"’ç&WÆ6R‚õÄBörÂrr“°¢6öç7BWFFVDBÒæWrFFR‚’çFô•4õ7G&–ær‚“°¢–b‡fÇVW2ç6†—–ætfVU—6RÓÓÒVæFVf–æVB’v—BVçbäD"ç&W&R‚t”å4U%Bõ"”täõ$R”åDòFÖ–å÷6WGF–æw2‡6WGF–æuö¶W’Â6WGF–æu÷fÇVRÂWFFVEöB’dÅTU2ƒòÂòÂò’r’æ&–æB‚w6†—–ætfVU—6RrÂ7G&–ær‡6†—–ætfVU—6R’ÂWFFVDB’ç'Vâ‚“°¢–b‡fÇVW2çv†G6çVÖ&W"ÓÓÒVæFVf–æVB’v—BVçbäD"ç&W&R‚t”å4U%Bõ"”täõ$R”åDòFÖ–å÷6WGF–æw2‡6WGF–æuö¶W’Â6WGF–æu÷fÇVRÂWFFVEöB’dÅTU2ƒòÂòÂò’r’æ&–æB‚wv†G6çVÖ&W"rÂv†G6çVÖ&W"ÂWFFVDB’ç'Vâ‚“°¢&WGW&â²6†—–ætfVU—6RÂv†G6çVÖ&W"Ó°§Ğ¦7–æ2gVæ7F–öâVF—B†VçbÂWF‚Â7F–öâÂF&vWEG—RÂF&vWD–BÂ7VÖÖ'’’°¢v—BVçbäD"ç&W&R‚t”å4U%B”åDòFÖ–åöVF—EöÆör†–BÂ7&VFVEöBÂW6W%ö–BÂW6W%öVÖ–ÂÂ7F–öâÂF&vWE÷G—RÂF&vWEö–BÂ7VÖÖ'’’dÅTU2ƒòÂòÂòÂòÂòÂòÂòÂò’r¢æ&–æB†7'—Fòç&æFöÕUT”B‚’ÂæWrFFR‚’çFô•4õ7G&–ær‚’ÂWF‚çW6W"æ–BÂWF‚çW6W"æVÖ–ÂÂ6ÆVâ†7F–öâÂƒ’Â6ÆVâ‡F&vWEG—RÂƒ’Â6ÆVâ‡F&vWD–BÂ’Â6ÆVâ‡7VÖÖ'’Â3’’ç'Vâ‚“°§Ğ¦gVæ7F–öâ6fUW6W"‡W6W"’²&WGW&â²–C¢W6W"æ–BÂVÖ–Ã¢W6W"æVÖ–ÂÂæÖS¢W6W"ææÖRÂ&öÆS¢W6W"ç&öÆRÂ×W7D6†ævU77v÷&C¢&ööÆVâ‡W6W"æ×W7Eö6†ævU÷77v÷&B’Â7F—fS¢&ööÆVâ‡W6W"æ7F—fR’Ó²Ğ¦gVæ7F–öâ6öö¶–UFö¶Vâ‡&WVW7B’°¢6öç7BfÇVRÒ&WVW7Bæ†VFW'2ævWB‚t6öö¶–Rr’ÇÂrs°¢6öç7BVçG'’ÒfÇVRç7Æ—B‚s²r’æÖ‚†—FVÒ’Óâ—FVÒçG&–Ò‚’’æf–æB‚†—FVÒ’Óâ—FVÒç7F'G5v—F‚‚v&–öFÖ–ãÒr’“°¢G'’²&WGW&âVçG'’òFV6öFUU$”6ö×öæVçB†VçG'’ç6Æ–6R‚v&–öFÖ–ãÒræÆVæwF‚’’¢rs²Ò6F6‚²&WGW&ârs²Ğ§Ğ¦gVæ7F–öâ6WD6öö¶–R‡Fö¶VâÂÖ„vR’²&WGW&â&–öFÖ–ãÒG·Fö¶VçÓ²FƒÒó²‡GGöæÇ“²6V7W&S²6ÖU6—FSÕ7G&–7C²Ö‚ÔvSÒG¶Ö„vWÖ²Ğ¦7–æ2gVæ7F–öâ6W76–öäf÷"‡&WVW7BÂVçb’°¢6öç7B&rÒ6öö¶–UFö¶Vâ‡&WVW7B“²–b‚&r’&WGW&âçVÆÃ°¢–b…7G&–ær†VçbäDÔ”åõ4U54”ôåõ4T5$UBÇÂrr’æÆVæwF‚Â3"’&WGW&âçVÆÃ°¢6öç7B6W76–öâÒv—BVçbäD"ç&W&R‚u4TÄT5B¢e$ôÒFÖ–å÷6W76–öç2t„U$RFö¶Våö†6‚ÒòäBW‡—&W5öBâòr’æ&–æB†v—B6†#Sb†G¶VçbäDÔ”åõ4U54”ôåõ4T5$UG×ÂG·&wÖ’ÂæWrFFR‚’çFô•4õ7G&–ær‚’’æf—'7B‚“°¢–b‚6W76–öâ’&WGW&âçVÆÃ°¢6öç7BW6W"Òv—BVçbäD"ç&W&R‚u4TÄT5B¢e$ôÒFÖ–å÷W6W'2t„U$R–BÒòäB7F—fRÒr’æ&–æB‡6W76–öâçW6W%ö–B’æf—'7B‚“°¢&WGW&âW6W"ò²W6W"Â6W76–öâÒ¢çVÆÃ°§Ğ¦gVæ7F–öâ÷&–v–äÖF6†W2‡&WVW7B’°¢6öç7B÷&–v–âÒ&WVW7Bæ†VFW'2ævWB‚t÷&–v–âr“°¢–b‚÷&–v–â’&WGW&âG'VS°¢G'’²&WGW&âæWrU$Â†÷&–v–â’æ†÷7BÓÓÒæWrU$Â‡&WVW7BçW&Â’æ†÷7C²Ò6F6‚²&WGW&âfÇ6S²Ğ§Ğ¦7–æ2gVæ7F–öâ§6öä&öG’‡&WVW7B’°¢6öç7B&rÒv—B&WVW7BçFW‡B‚“²–b‡&ræÆVæwF‚âc’F‡&÷ræWrW'&÷"‚u&WVW7B—2FöòÆ&vRâr“°¢G'’²&WGW&â¥4ôâç'6R‡&û×«h‘éì¶»§q«^t]ØZ][‹‘‹œ™\\™J	ÔÑSPÕ
-ˆ”“ÓH^[Y[ÛÜ™\œÈÔ‘Tˆ–HÜ™X]YØ]TĞÈSRUL	ÊK˜[
+const SESSION_MS = 8 * 60 * 60 * 1000;
+const ATTEMPT_WINDOW_MS = 15 * 60 * 1000;
+const MAX_LOGIN_FAILURES = 8;
+const ENQUIRY_STATES = ['new', 'in_progress', 'quoted', 'won', 'closed'];
+const REQUEST_STATES = ['new', 'contacted', 'converted', 'closed'];
+const FULFILLMENT_STATES = ['unfulfilled', 'processing', 'shipped', 'delivered', 'cancelled'];
+const DEFAULT_WHATSAPP_NUMBER = '917888329606';
 
-NÂˆ™]\›ˆœÛÛŠŒÈÜ™\œÎˆ
-›İÜËœ™\İ[È×JK›X\
+function clean(value, max = 500) { return typeof value === 'string' ? value.trim().slice(0, max) : ''; }
+function json(status, data, headers = {}) { return Response.json(data, { status, headers: { 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', ...headers } }); }
+function b64url(bytes) { return btoa(String.fromCharCode(...new Uint8Array(bytes))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/g, ''); }
+function randomToken(length = 32) { const bytes = new Uint8Array(length); crypto.getRandomValues(bytes); return b64url(bytes); }
+async function sha256(value) { return b64url(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(value))); }
+async function passwordHash(password) {
+  const salt = randomToken(16), key = await crypto.subtle.importKey('raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveBits']);
+  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations: 210000, hash: 'SHA-256' }, key, 256);
+  return `pbkdf2$210000$${salt}$${b64url(bits)}`;
+}
+async function passwordMatches(password, encoded) {
+  const [kind, rounds, salt, expected] = String(encoded || '').split('$');
+  if (kind !== 'pbkdf2' || Number(rounds) !== 210000 || !salt || !expected) return false;
+  const actual = await passwordHashFromSalt(password, salt);
+  return timingSafeEqual(actual, expected);
+}
+async function passwordHashFromSalt(password, salt) {
+  const key = await crypto.subtle.importKey('raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveBits']);
+  const bits = await crypto.subtle.deriveBits({ name: 'PBKDF2', salt: new TextEncoder().encode(salt), iterations: 210000, hash: 'SHA-256' }, key, 256);
+  return b64url(bits);
+}
+function timingSafeEqual(a, b) {
+  if (a.length !== b.length) return false;
+  let difference = 0;
+  for (let i = 0; i < a.length; i += 1) difference |= a.charCodeAt(i) ^ b.charCodeAt(i);
+  return difference === 0;
+}
+function emailValue(value) { return clean(value, 200).toLowerCase(); }
+function validPassword(value) { return typeof value === 'string' && value.length >= 12 && value.length <= 128; }
+function sizesOf(spec) {
+  const parts = String(spec || '').split('â€“').map((part) => part.trim()), alpha = ['XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL'];
+  if (parts.length === 2 && alpha.includes(parts[0]) && alpha.includes(parts[1])) return alpha.slice(alpha.indexOf(parts[0]), alpha.indexOf(parts[1]) + 1);
+  if (parts.length === 2 && /^\d+$/.test(parts[0]) && /^\d+$/.test(parts[1])) {
+    const first = Number(parts[0]), last = Number(parts[1]);
+    if (last >= first && (last - first) % 2 === 0 && (last - first) / 2 < 30) return Array.from({ length: (last - first) / 2 + 1 }, (_, i) => String(first + i * 2));
+  }
+  return String(spec || '').split('/').map((part) => part.trim()).filter(Boolean);
+}
+function colorsOf(spec) { return String(spec || '').split('/').map((part) => part.trim()).filter(Boolean); }
+function productPayload(product, variants = []) {
+  return { ...product, price: Number(product.price_paise) / 100, from: Number(product.from_price_paise || 0) / 100, active: Boolean(product.active), sortOrder: Number(product.sort_order || 0), variants: variants.map((item) => ({ size: item.size, color: item.color, stockOnHand: Number(item.stock_on_hand), reserved: Number(item.reserved), available: Math.max(0, Number(item.stock_on_hand) - Number(item.reserved)) })) };
+}
+function sizesColors(product) { return sizesOf(product.sizes).flatMap((size) => colorsOf(product.color).map((color) => ({ size, color }))); }
+async function ensureCatalog(env) {
+  const count = await env.DB.prepare('SELECT COUNT(*) AS count FROM products').first();
+  if (Number(count?.count || 0)) return;
+  const response = await env.ASSETS.fetch(new Request('https://assets.local/products.json'));
+  if (!response.ok) throw new Error('Catalogue seed unavailable.');
+  const products = await response.json(), now = new Date().toISOString(), statements = [];
+  for (const [index, product] of products.entries()) {
+    statements.push(env.DB.prepare('INSERT OR IGNORE INTO products (id, name, category, price_paise, from_price_paise, image, color, gsm, fabric, sizes, tag, description, active, sort_order, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?)')
+      .bind(clean(product.id, 80), clean(product.name, 120), clean(product.category, 60), Math.round(Number(product.price) * 100), Math.round(Number(product.from || 0) * 100), clean(product.image, 500), clean(product.color, 180), clean(product.gsm, 60), clean(product.fabric, 100), clean(product.sizes, 100), clean(product.tag, 60), clean(product.description, 1200), index, now, now));
+    for (const variant of sizesColors(product)) statements.push(env.DB.prepare('INSERT OR IGNORE INTO product_variants (product_id, size, color, stock_on_hand, reserved) VALUES (?, ?, ?, 0, 0)').bind(product.id, variant.size, variant.color));
+  }
+  if (statements.length) await env.DB.batch(statements);
+}
+async function getProducts(env, includeInactive = false) {
+  await ensureCatalog(env);
+  const results = await env.DB.prepare(`SELECT * FROM products ${includeInactive ? '' : 'WHERE active = 1'} ORDER BY sort_order, name`).all();
+  const products = [];
+  for (const product of results.results || []) {
+    const stock = await env.DB.prepare('SELECT size, color, stock_on_hand, reserved FROM product_variants WHERE product_id = ? ORDER BY size, color').bind(product.id).all();
+    products.push(productPayload(product, stock.results || []));
+  }
+  return products;
+}
+async function getSettings(env) {
+  const rows = await env.DB.prepare('SELECT setting_key, setting_value FROM admin_settings').all();
+  const values = Object.fromEntries((rows.results || []).map((row) => [row.setting_key, row.setting_value]));
+  const shippingFeePaise = Number(values.shippingFeePaise ?? env.SHIPPING_FEE_PAISE ?? 0);
+  const whatsappNumber = String(values.whatsappNumber || env.WHATSAPP_NUMBER || DEFAULT_WHATSAPP_NUMBER).replace(/\D/g, '');
+  const updatedAt = new Date().toISOString();
+  if (values.shippingFeePaise === undefined) await env.DB.prepare('INSERT OR IGNORE INTO admin_settings (setting_key, setting_value, updated_at) VALUES (?, ?, ?)').bind('shippingFeePaise', String(shippingFeePaise), updatedAt).run();
+  if (values.whatsappNumber === undefined) await env.DB.prepare('INSERT OR IGNORE INTO admin_settings (setting_key, setting_value, updated_at) VALUES (?, ?, ?)').bind('whatsappNumber', whatsappNumber, updatedAt).run();
+  return { shippingFeePaise, whatsappNumber };
+}
+async function audit(env, auth, action, targetType, targetId, summary) {
+  await env.DB.prepare('INSERT INTO admin_audit_log (id, created_at, user_id, user_email, action, target_type, target_id, summary) VALUES (?, ?, ?, ?, ?, ?, ?, ?)')
+    .bind(crypto.randomUUID(), new Date().toISOString(), auth.user.id, auth.user.email, clean(action, 80), clean(targetType, 80), clean(targetId, 100), clean(summary, 300)).run();
+}
+function safeUser(user) { return { id: user.id, email: user.email, name: user.name, role: user.role, mustChangePassword: Boolean(user.must_change_password), active: Boolean(user.active) }; }
+function cookieToken(request) {
+  const value = request.headers.get('Cookie') || '';
+  const entry = value.split(';').map((item) => item.trim()).find((item) => item.startsWith('apria_admin='));
+  try { return entry ? decodeURIComponent(entry.slice('apria_admin='.length)) : ''; } catch { return ''; }
+}
+function setCookie(token, maxAge) { return `apria_admin=${token}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${maxAge}`; }
+async function sessionFor(request, env) {
+  const raw = cookieToken(request); if (!raw) return null;
+  if (String(env.ADMIN_SESSION_SECRET || '').length < 32) return null;
+  const session = await env.DB.prepare('SELECT * FROM admin_sessions WHERE token_hash = ? AND expires_at > ?').bind(await sha256(`${env.ADMIN_SESSION_SECRET}|${raw}`), new Date().toISOString()).first();
+  if (!session) return null;
+  const user = await env.DB.prepare('SELECT * FROM admin_users WHERE id = ? AND active = 1').bind(session.user_id).first();
+  return user ? { user, session } : null;
+}
+function originMatches(request) {
+  const origin = request.headers.get('Origin');
+  if (!origin) return true;
+  try { return new URL(origin).host === new URL(request.url).host; } catch { return false; }
+}
+async function jsonBody(request) {
+  const raw = await request.text(); if (raw.length > 60000) throw new Error('Request is too large.');
+  try { return JSON.parse(raw || '{}'); } catch { throw new Error('Please submit valid JSON.'); }
+}
+function decodeId(value) { try { return decodeURIComponent(value); } catch { return ''; } }
+function slug(value) { return clean(value, 80).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 56) || 'garment'; }
+function adminProductInput(input, id, existing = {}) {
+  const name = clean(input.name, 120), category = clean(input.category, 60), color = clean(input.color, 180), sizes = clean(input.sizes, 100);
+  const image = clean(input.image, 500), imagePath = image.startsWith('/') && !image.startsWith('//') && !image.split('/').includes('..') && /^\/[A-Za-z0-9_./-]+$/.test(image), imageOk = /^https:\/\//i.test(image) || imagePath;
+  const price = Number(input.price), from = Number(input.from || 0);
+  if (!name || !category || !color || !sizes || !imageOk || !Number.isFinite(price) || price <= 0 || price > 500000 || !Number.isFinite(from) || from < 0 || from > 500000 || !sizesOf(sizes).length || !colorsOf(color).length) throw new Error('Enter a name, category, valid image URL, sizes, colours and a retail price above â‚¹0.');
+  return { id, name, category, pricePaise: Math.round(price * 100), fromPricePaise: Math.round(from * 100), image, color, sizes, gsm: clean(input.gsm, 60), fabric: clean(input.fabric, 100), tag: clean(input.tag, 60), description: clean(input.description, 1200), active: input.active === false ? 0 : 1, sortOrder: Number.isInteger(Number(input.sortOrder)) ? Number(input.sortOrder) : Number(existing.sort_order || 0) };
+}
+async function auditMaybe(env, auth, action, targetType, targetId, summary) { if (auth) await audit(env, auth, action, targetType, targetId, summary); }
+async function reserveStock(env, orderId, items, expiresAt) {
+  const unique = new Map();
+  for (const item of items) { const key = `${item.id}|${item.size}|${item.color}`; unique.set(key, { ...item, quantity: (unique.get(key)?.quantity || 0) + item.quantity }); }
+  const rows = [...unique.values()];
+  const writes = rows.map((item) => env.DB.prepare('UPDATE product_variants SET reserved = reserved + ? WHERE product_id = ? AND size = ? AND color = ? AND stock_on_hand - reserved >= ?')
+    .bind(item.quantity, item.id, item.size, item.color, item.quantity));
+  const results = await env.DB.batch(writes);
+  const changed = rows.filter((_, index) => Number(results[index]?.meta?.changes || 0) === 1);
+  if (changed.length !== rows.length) {
+    if (changed.length) await env.DB.batch(changed.map((item) => env.DB.prepare('UPDATE product_variants SET reserved = MAX(0, reserved - ?) WHERE product_id = ? AND size = ? AND color = ?').bind(item.quantity, item.id, item.size, item.color)));
+    return false;
+  }
+  const createdAt = new Date().toISOString();
+  try {
+    await env.DB.batch(rows.map((item) => env.DB.prepare('INSERT INTO stock_reservations (id, order_id, product_id, size, color, quantity, expires_at, status, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)')
+      .bind(crypto.randomUUID(), orderId, item.id, item.size, item.color, item.quantity, expiresAt, 'reserved', createdAt)));
+  } catch (error) {
+    await env.DB.batch(rows.map((item) => env.DB.prepare('UPDATE product_variants SET reserved = MAX(0, reserved - ?) WHERE product_id = ? AND size = ? AND color = ?').bind(item.quantity, item.id, item.size, item.color)));
+    throw error;
+  }
+  return true;
+}
+async function resolveReservation(env, orderId, resultStatus) {
+  const rows = await env.DB.prepare("SELECT * FROM stock_reservations WHERE order_id = ? AND status = 'reserved'").bind(orderId).all();
+  if (!rows.results?.length) return;
+  const statements = [];
+  for (const item of rows.results) {
+    statements.push(resultStatus === 'committed'
+      ? env.DB.prepare("UPDATE product_variants SET reserved = MAX(0, reserved - ?), stock_on_hand = MAX(0, stock_on_hand - ?) WHERE product_id = ? AND size = ? AND color = ? AND EXISTS (SELECT 1 FROM stock_reservations WHERE id = ? AND status = 'reserved')").bind(item.quantity, item.quantity, item.product_id, item.size, item.color, item.id)
+      : env.DB.prepare("UPDATE product_variants SET reserved = MAX(0, reserved - ?) WHERE product_id = ? AND size = ? AND color = ? AND EXISTS (SELECT 1 FROM stock_reservations WHERE id = ? AND status = 'reserved')").bind(item.quantity, item.product_id, item.size, item.color, item.id));
+    statements.push(env.DB.prepare('UPDATE stock_reservations SET status = ? WHERE id = ? AND status = ?').bind(resultStatus, item.id, 'reserved'));
+  }
+  await env.DB.batch(statements);
+}
+async function logIn(env, request, email, password) {
+  if (String(env.ADMIN_SESSION_SECRET || '').length < 32) return json(503, { error: 'Set a random ADMIN_SESSION_SECRET of at least 32 characters in Worker secrets.' });
+  const ip = request.headers.get('CF-Connecting-IP') || 'unknown', key = await sha256(`${email}|${ip}`), now = new Date();
+  const row = await env.DB.prepare('SELECT * FROM admin_login_attempts WHERE attempt_key = ?').bind(key).first();
+  const fresh = !row || now.getTime() - Date.parse(row.window_started_at) >= ATTEMPT_WINDOW_MS;
+  if (!fresh && Number(row.failures) >= MAX_LOGIN_FAILURES) return json(429, { error: 'Too many sign-in attempts. Wait 15 minutes and try again.' });
+  const user = await env.DB.prepare('SELECT * FROM admin_users WHERE email = ? COLLATE NOCASE AND active = 1').bind(email).first();
+  if (!user || !(await passwordMatches(String(password || ''), user.password_hash))) {
+    const failures = fresh ? 1 : Number(row.failures) + 1, started = fresh ? now.toISOString() : row.window_started_at;
+    await env.DB.prepare('INSERT INTO admin_login_attempts (attempt_key, failures, window_started_at) VALUES (?, ?, ?) ON CONFLICT(attempt_key) DO UPDATE SET failures = excluded.failures, window_started_at = excluded.window_started_at').bind(key, failures, started).run();
+    return json(401, { error: 'Email or password is incorrect.' });
+  }
+  await env.DB.prepare('DELETE FROM admin_login_attempts WHERE attempt_key = ?').bind(key).run();
+  const raw = randomToken(), csrf = randomToken(24), createdAt = now.toISOString(), expiresAt = new Date(now.getTime() + SESSION_MS).toISOString();
+  await env.DB.prepare('DELETE FROM admin_sessions WHERE expires_at <= ?').bind(createdAt).run();
+  await env.DB.prepare('INSERT INTO admin_sessions (token_hash, user_id, csrf_token, created_at, expires_at) VALUES (?, ?, ?, ?, ?)').bind(await sha256(`${env.ADMIN_SESSION_SECRET}|${raw}`), user.id, csrf, createdAt, expiresAt).run();
+  return json(200, { ...safeUser(user), csrfToken: csrf, expiresAt }, { 'Set-Cookie': setCookie(raw, SESSION_MS / 1000) });
+}
+async function handleOrderRequest(request, env) {
+  const input = await jsonBody(request), products = await getProducts(env), name = clean(input.name, 100), email = emailValue(input.email), phone = clean(input.phone, 40);
+  const address = { address1: clean(input.address?.address1, 200), address2: clean(input.address?.address2, 200), city: clean(input.address?.city, 80), state: clean(input.address?.state, 80), pincode: clean(input.address?.pincode, 6) };
+  if (!name || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || phone.replace(/\D/g, '').length < 10 || !address.address1 || !address.city || !address.state || !/^\d{6}$/.test(address.pincode)) throw new Error('Enter your name, valid email and phone, and a complete Indian delivery address.');
+  if (!Array.isArray(input.items) || !input.items.length || input.items.length > 20) throw new Error('Your order must contain 1 to 20 garment options.');
+  const items = [];
+  for (const row of input.items) {
+    const product = products.find((item) => item.id === clean(row?.id, 80)), size = clean(row?.size, 20), color = clean(row?.color, 80), quantity = Number(row?.quantity);
+    if (!product || !sizesOf(product.sizes).includes(size) || !colorsOf(product.color).includes(color) || !Number.isInteger(quantity) || quantity < 1 || quantity > 100) throw new Error('A garment option is no longer available. Refresh and try again.');
+    items.push({ id: product.id, name: product.name, size, color, quantity, unitPricePaise: Math.round(product.price * 100), lineTotalPaise: Math.round(product.price * 100) * quantity });
+  }
+  const settings = await getSettings(env), amount = items.reduce((sum, item) => sum + item.lineTotalPaise, 0) + settings.shippingFeePaise, id = crypto.randomUUID(), now = new Date().toISOString();
+  await env.DB.prepare('INSERT INTO order_requests (id, created_at, name, email, phone, address_json, items_json, amount_estimate_paise, status, admin_note, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)')
+    .bind(id, now, name, email, phone, JSON.stringify(address), JSON.stringify(items), amount, 'new', '', now).run();
+  return json(201, { ok: true, id });
+}
 
-][JHOˆ
-ÈYˆ][KšY˜^›Üœ^SÜ™\’Yˆ][Kœ˜^›Üœ^WÛÜ™\—ÚY[[İ[Z\ÙNˆ][K˜[[İ[ÜZ\ÙKİ\œ™[˜ŞNˆ][K˜İ\œ™[˜ŞKİ]\Îˆ][Kœİ]\Ë^[Y[Yˆ][Kœ^[Y[ÚYİ\İÛY\ˆ\œÙSØš™Xİ
-][K˜İ\İÛY\—ÚœÛÛŠK][\Îˆ\œÙP\œ˜^J][Kš][\×ÚœÛÛŠKÜ™X]Y]ˆ][K˜Ü™X]YØ]\]Y]ˆ][K\]YØ][š[Y[İ]\Îˆ][K™[š[Y[Üİ]\ËYZ[“›İNˆ][K˜YZ[—Û›İK™\Ù\˜][Û‘^\™\Ğ]ˆ][Kœ™\Ù\˜][Û—Ù^\™\×Ø]JJHJNÂˆBˆÛÛœİÜ™\“X]ÚH›İ]K›X]Ú
-×—ÛÜ™\œ×Ê×‹×JÊIÊNÂˆYˆ
-Ü™\“X]Ú	‰ˆY]ÙOOH	ÔUÒ	ÊHÂˆÛÛœİYHXÛÙRY
-Ü™\“X]ÚÌWJK[œ]H]ØZ]œÛÛ›ÙJ™\]Y\İ
-NÂˆYˆ
-Q•S’SQS•ÔÕUTËš[˜ÛY\Ê[œ]™[š[Y[İ]\ÊJH™]\›ˆœÛÛŠÈ\œ›Üˆ	ĞÚÛÜÙHH˜[Y[š[Y[İ]\Ë‰ÈJNÂˆÛÛœİ™\İ[H]ØZ][‹‘‹œ™\\™J•TUH^[Y[ÛÜ™\œÈÑU[š[Y[Üİ]\ÈHËYZ[—Û›İHHË\]YØ]HÈÒT‘HYHÈS‘İ]\ÈH	ÜZY	ÈŠK˜š[™
-[œ]™[š[Y[İ]\ËÛX[Š[œ]˜YZ[“›İKÌ
-K™]È]J
-KÒTÓÔİš[™Ê
-KY
-Kœ[Š
-NÂˆYˆ
-S[X™\Š™\İ[›Y]OË˜Ú[™Ù\È
-JHÂˆÛÛœİ^\İ[™ÈH]ØZ][‹‘‹œ™\\™J	ÔÑSPÕİ]\È”“ÓH^[Y[ÛÜ™\œÈÒT‘HYHÉÊK˜š[™
-Y
-K™š\œİ
+export async function handleAdminRequest(request, env, url) {
+  if (url.pathname === '/api/order-requests' && request.method === 'POST') {
+    try { return await handleOrderRequest(request, env); } catch (error) { return json(400, { error: error.message || 'Unable to save your order request.' }); }
+  }
+  if (!url.pathname.startsWith('/api/admin/')) return null;
+  try {
+    if (url.pathname === '/api/admin/status' && request.method === 'GET') {
+      const row = await env.DB.prepare('SELECT COUNT(*) AS count FROM admin_users').first();
+      return json(200, { setupRequired: Number(row?.count || 0) === 0, setupEnabled: String(env.ADMIN_SETUP_TOKEN || '').length >= 32 && String(env.ADMIN_SESSION_SECRET || '').length >= 32 });
+    }
+    if (url.pathname === '/api/admin/setup' && request.method === 'POST') {
+      const input = await jsonBody(request);
+      if (String(env.ADMIN_SETUP_TOKEN || '').length < 32 || String(env.ADMIN_SESSION_SECRET || '').length < 32) return json(503, { error: 'Set independent random ADMIN_SETUP_TOKEN and ADMIN_SESSION_SECRET values of at least 32 characters.' });
+      if (!timingSafeEqual(String(input.setupToken || ''), String(env.ADMIN_SETUP_TOKEN))) return json(403, { error: 'Setup code is not valid.' });
+      const email = emailValue(input.email), name = clean(input.name, 100), password = input.password;
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || !name || !validPassword(password)) return json(400, { error: 'Enter your name, a valid email, and a password with at least 12 characters.' });
+      const count = await env.DB.prepare('SELECT COUNT(*) AS count FROM admin_users').first();
+      if (Number(count?.count || 0)) return json(409, { error: 'Owner setup has already been completed.' });
+      const now = new Date().toISOString(), user = { id: crypto.randomUUID(), email, name, password_hash: await passwordHash(password), role: 'owner', must_change_password: 0, active: 1 };
+      const inserted = await env.DB.prepare('INSERT OR IGNORE INTO admin_users (id, email, name, password_hash, role, must_change_password, active, created_at, updated_at) VALUES (?, ?, ?, ?, ?, 0, 1, ?, ?)')
+        .bind(user.id, user.email, user.name, user.password_hash, user.role, now, now).run();
+      if (!Number(inserted.meta?.changes || 0)) return json(409, { error: 'Owner setup has already been completed.' });
+      const auth = { user };
+      await audit(env, auth, 'owner_setup', 'user', user.id, 'Created the initial owner account.');
+      const raw = randomToken(), csrf = randomToken(24), expiresAt = new Date(Date.now() + SESSION_MS).toISOString();
+      await env.DB.prepare('INSERT INTO admin_sessions (token_hash, user_id, csrf_token, created_at, expires_at) VALUES (?, ?, ?, ?, ?)').bind(await sha256(`${env.ADMIN_SESSION_SECRET}|${raw}`), user.id, csrf, now, expiresAt).run();
+      return json(201, { ...safeUser(user), csrfToken: csrf, expiresAt }, { 'Set-Cookie': setCookie(raw, SESSION_MS / 1000) });
+    }
+    if (url.pathname === '/api/admin/login' && request.method === 'POST') {
+      const input = await jsonBody(request); return logIn(env, request, emailValue(input.email), input.password);
+    }
+    const auth = await sessionFor(request, env);
+    if (url.pathname === '/api/admin/session' && request.method === 'GET') return auth ? json(200, { ...safeUser(auth.user), csrfToken: auth.session.csrf_token, expiresAt: auth.session.expires_at }) : json(401, { error: 'Sign in to continue.' });
+    if (url.pathname === '/api/admin/logout' && request.method === 'POST') {
+      if (!auth) return json(200, { ok: true }, { 'Set-Cookie': setCookie('', 0) });
+      if (!originMatches(request) || request.headers.get('X-CSRF-Token') !== auth.session.csrf_token) return json(403, { error: 'Security check failed. Refresh and try again.' });
+      await env.DB.prepare('DELETE FROM admin_sessions WHERE token_hash = ?').bind(auth.session.token_hash).run();
+      return json(200, { ok: true }, { 'Set-Cookie': setCookie('', 0) });
+    }
+    if (!auth) return json(401, { error: 'Sign in to continue.' });
+    const route = url.pathname.slice('/api/admin'.length).replace(/\/$/, '') || '/', method = request.method, owner = auth.user.role === 'owner';
+    if (auth.user.must_change_password && route !== '/password') return json(403, { error: 'Change your temporary password before continuing.' });
+    if (!['GET', 'HEAD'].includes(method) && (!originMatches(request) || request.headers.get('X-CSRF-Token') !== auth.session.csrf_token)) return json(403, { error: 'Security check failed. Refresh and try again.' });
+    const staffAllowed = route === '/overview' || route === '/enquiries' || route.startsWith('/enquiries/') || route === '/order-requests' || route.startsWith('/order-requests/') || route === '/orders' || route.startsWith('/orders/') || route === '/audit' || route === '/password';
+    if (!owner && !staffAllowed) return json(403, { error: 'This action is available to the owner only.' });
+    if (route === '/password' && method === 'PUT') {
+      const input = await jsonBody(request);
+      if (!validPassword(input.newPassword)) return json(400, { error: 'Choose a password with at least 12 characters.' });
+      const user = await env.DB.prepare('SELECT * FROM admin_users WHERE id = ?').bind(auth.user.id).first();
+      if (!user || !(await passwordMatches(String(input.currentPassword || ''), user.password_hash))) return json(401, { error: 'Current password is incorrect.' });
+      await env.DB.prepare('UPDATE admin_users SET password_hash = ?, must_change_password = 0, updated_at = ? WHERE id = ?').bind(await passwordHash(input.newPassword), new Date().toISOString(), user.id).run();
+      await env.DB.prepare('DELETE FROM admin_sessions WHERE user_id = ? AND token_hash != ?').bind(user.id, auth.session.token_hash).run();
+      await audit(env, auth, 'password_changed', 'user', user.id, 'Changed account password.');
+      return json(200, { ok: true });
+    }
+    if (route === '/overview' && method === 'GET') {
+      const [enquiries, requests, orders, pending, sales, variants] = await Promise.all([
+        env.DB.prepare("SELECT COUNT(*) AS count FROM enquiries WHERE status = 'new'").first(),
+        env.DB.prepare("SELECT COUNT(*) AS count FROM order_requests WHERE status NOT IN ('converted', 'closed')").first(),
+        env.DB.prepare("SELECT COUNT(*) AS count FROM payment_orders WHERE status = 'paid' AND fulfillment_status != 'delivered'").first(),
+        env.DB.prepare("SELECT COUNT(*) AS count FROM payment_orders WHERE status IN ('created', 'authorized')").first(),
+        env.DB.prepare("SELECT COALESCE(SUM(amount_paise), 0) AS total FROM payment_orders WHERE status = 'paid'").first(),
+        env.DB.prepare('SELECT COUNT(*) AS count FROM product_variants v JOIN products p ON p.id = v.product_id WHERE p.active = 1 AND v.stock_on_hand - v.reserved <= 3').first()
+      ]);
+      return json(200, { newEnquiries: enquiries.count, openRequests: requests.count, ordersToFulfill: orders.count, pendingPayments: pending.count, salesPaise: sales.total, lowStock: variants.count });
+    }
+    if (route === '/products' && method === 'GET') return json(200, { products: await getProducts(env, owner) });
+    const productMatch = route.match(/^\/products\/([^/]+)(?:\/(stock))?$/);
+    if (route === '/products' && method === 'POST' && owner) {
+      const input = await jsonBody(request), products = await getProducts(env, true), id = `${slug(input.name)}-${randomToken(4).slice(0, 6)}`;
+      const item = adminProductInput(input, id, { sort_order: products.length }), now = new Date().toISOString();
+      await env.DB.prepare('INSERT INTO products (id, name, category, price_paise, from_price_paise, image, color, gsm, fabric, sizes, tag, description, active, sort_order, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)')
+        .bind(item.id, item.name, item.category, item.pricePaise, item.fromPricePaise, item.image, item.color, item.gsm, item.fabric, item.sizes, item.tag, item.description, item.active, item.sortOrder, now, now).run();
+      const variants = sizesColors(item);
+      if (variants.length) await env.DB.batch(variants.map((variant) => env.DB.prepare('INSERT INTO product_variants (product_id, size, color, stock_on_hand, reserved) VALUES (?, ?, ?, 0, 0)').bind(id, variant.size, variant.color)));
+      await audit(env, auth, 'product_created', 'product', id, `Created ${item.name}.`);
+      return json(201, { product: (await getProducts(env, true)).find((entry) => entry.id === id) });
+    }
+    if (productMatch && method === 'PUT' && !productMatch[2] && owner) {
+      const id = decodeId(productMatch[1]), input = await jsonBody(request), existing = await env.DB.prepare('SELECT * FROM products WHERE id = ?').bind(id).first();
+      if (!existing) return json(404, { error: 'Product not found.' });
+      const item = adminProductInput(input, id, existing), now = new Date().toISOString();
+      await env.DB.prepare('UPDATE products SET name = ?, category = ?, price_paise = ?, from_price_paise = ?, image = ?, color = ?, gsm = ?, fabric = ?, sizes = ?, tag = ?, description = ?, active = ?, sort_order = ?, updated_at = ? WHERE id = ?')
+        .bind(item.name, item.category, item.pricePaise, item.fromPricePaise, item.image, item.color, item.gsm, item.fabric, item.sizes, item.tag, item.description, item.active, item.sortOrder, now, id).run();
+      const variants = sizesColors(item), current = await env.DB.prepare('SELECT * FROM product_variants WHERE product_id = ?').bind(id).all(), currentMap = new Map((current.results || []).map((row) => [`${row.size}|${row.color}`, row]));
+      const statements = variants.map((variant) => {
+        const old = currentMap.get(`${variant.size}|${variant.color}`);
+        return old ? env.DB.prepare('UPDATE product_variants SET stock_on_hand = ? WHERE product_id = ? AND size = ? AND color = ? AND stock_on_hand >= reserved').bind(old.stock_on_hand, id, variant.size, variant.color)
+          : env.DB.prepare('INSERT OR IGNORE INTO product_variants (product_id, size, color, stock_on_hand, reserved) VALUES (?, ?, ?, 0, 0)').bind(id, variant.size, variant.color);
+      });
+      if (statements.length) await env.DB.batch(statements);
+      const kept = new Set(variants.map((item) => `${item.size}|${item.color}`));
+      for (const old of current.results || []) if (!kept.has(`${old.size}|${old.color}`) && Number(old.reserved) === 0) await env.DB.prepare('DELETE FROM product_variants WHERE product_id = ? AND size = ? AND color = ?').bind(id, old.size, old.color).run();
+      await audit(env, auth, 'product_updated', 'product', id, `Updated ${item.name}.`);
+      return json(200, { product: (await getProducts(env, true)).find((entry) => entry.id === id) });
+    }
+    if (productMatch && method === 'PATCH' && productMatch[2] && owner) {
+      const id = decodeId(productMatch[1]), input = await jsonBody(request), quantity = Number(input.stockOnHand);
+      if (!Number.isInteger(quantity) || quantity < 0 || quantity > 1000000) return json(400, { error: 'Stock must be a whole number from 0 to 1,000,000.' });
+      const result = await env.DB.prepare('UPDATE product_variants SET stock_on_hand = ? WHERE product_id = ? AND size = ? AND color = ? AND ? >= reserved').bind(quantity, id, clean(input.size, 20), clean(input.color, 80), quantity).run();
+      if (!Number(result.meta?.changes || 0)) return json(409, { error: 'Variant not found, or stock cannot be reduced below quantities reserved for checkout.' });
+      await audit(env, auth, 'stock_updated', 'product_variant', `${id}|${input.size}|${input.color}`, `Set variant stock to ${quantity}.`);
+      return json(200, { ok: true, stockOnHand: quantity });
+    }
+    if (route === '/enquiries' && method === 'GET') {
+      const rows = await env.DB.prepare('SELECT * FROM enquiries ORDER BY created_at DESC LIMIT 500').all();
+      return json(200, { enquiries: (rows.results || []).map((item) => ({ ...item, items: parseArray(item.items_json), createdAt: item.created_at, updatedAt: item.updated_at, adminNote: item.admin_note, status: item.status })) });
+    }
+    const enquiryMatch = route.match(/^\/enquiries\/([^/]+)$/);
+    if (enquiryMatch && method === 'PATCH') {
+      const id = decodeId(enquiryMatch[1]), input = await jsonBody(request);
+      if (!ENQUIRY_STATES.includes(input.status)) return json(400, { error: 'Choose a valid enquiry status.' });
+      const result = await env.DB.prepare('UPDATE enquiries SET status = ?, admin_note = ?, updated_at = ? WHERE id = ?').bind(input.status, clean(input.adminNote, 3000), new Date().toISOString(), id).run();
+      if (!Number(result.meta?.changes || 0)) return json(404, { error: 'Enquiry not found.' });
+      await audit(env, auth, 'enquiry_updated', 'enquiry', id, `Changed enquiry status to ${input.status}.`);
+      return json(200, { ok: true });
+    }
+    if (route === '/order-requests' && method === 'GET') {
+      const rows = await env.DB.prepare('SELECT * FROM order_requests ORDER BY created_at DESC LIMIT 500').all();
+      return json(200, { orderRequests: (rows.results || []).map((item) => ({ id: item.id, createdAt: item.created_at, updatedAt: item.updated_at, name: item.name, email: item.email, phone: item.phone, address: parseObject(item.address_json), items: parseArray(item.items_json), amountEstimatePaise: item.amount_estimate_paise, status: item.status, adminNote: item.admin_note })) });
+    }
+    const requestMatch = route.match(/^\/order-requests\/([^/]+)$/);
+    if (requestMatch && method === 'PATCH') {
+      const id = decodeId(requestMatch[1]), input = await jsonBody(request);
+      if (!REQUEST_STATES.includes(input.status)) return json(400, { error: 'Choose a valid order request status.' });
+      const result = await env.DB.prepare('UPDATE order_requests SET status = ?, admin_note = ?, updated_at = ? WHERE id = ?').bind(input.status, clean(input.adminNote, 3000), new Date().toISOString(), id).run();
+      if (!Number(result.meta?.changes || 0)) return json(404, { error: 'Order request not found.' });
+      await audit(env, auth, 'request_updated', 'order_request', id, `Changed request status to ${input.status}.`);
+      return json(200, { ok: true });
+    }
+    if (route === '/orders' && method === 'GET') {
+      const rows = await env.DB.prepare('SELECT * FROM payment_orders ORDER BY created_at DESC LIMIT 500').all();
+      return json(200, { orders: (rows.results || []).map((item) => ({ id: item.id, razorpayOrderId: item.razorpay_order_id, amountPaise: item.amount_paise, currency: item.currency, status: item.status, paymentId: item.payment_id, customer: parseObject(item.customer_json), items: parseArray(item.items_json), createdAt: item.created_at, updatedAt: item.updated_at, fulfillmentStatus: item.fulfillment_status, adminNote: item.admin_note, reservationExpiresAt: item.reservation_expires_at })) });
+    }
+    const orderMatch = route.match(/^\/orders\/([^/]+)$/);
+    if (orderMatch && method === 'PATCH') {
+      const id = decodeId(orderMatch[1]), input = await jsonBody(request);
+      if (!FULFILLMENT_STATES.includes(input.fulfillmentStatus)) return json(400, { error: 'Choose a valid fulfilment status.' });
+      const result = await env.DB.prepare("UPDATE payment_orders SET fulfillment_status = ?, admin_note = ?, updated_at = ? WHERE id = ? AND status = 'paid'").bind(input.fulfillmentStatus, clean(input.adminNote, 3000), new Date().toISOString(), id).run();
+      if (!Number(result.meta?.changes || 0)) {
+        const existing = await env.DB.prepare('SELECT status FROM payment_orders WHERE id = ?').bind(id).first();
+        return existing ? json(409, { error: 'Fulfilment can only be updated after Razorpay confirms a captured payment.' }) : json(404, { error: 'Order not found.' });
+      }
+      await audit(env, auth, 'fulfillment_updated', 'order', id, `Changed fulfilment to ${input.fulfillmentStatus}.`);
+      return json(200, { ok: true });
+    }
+    if (route === '/settings' && method === 'GET' && owner) return json(200, await getSettings(env));
+    if (route === '/settings' && method === 'PUT' && owner) {
+      const input = await jsonBody(request), fee = Number(input.shippingFeePaise), phone = clean(input.whatsappNumber, 24).replace(/\D/g, '');
+      if (!Number.isSafeInteger(fee) || fee < 0 || fee > 5000000 || (phone && (phone.length < 8 || phone.length > 15))) return json(400, { error: 'Enter a valid delivery fee and international WhatsApp number.' });
+      const now = new Date().toISOString();
+      await env.DB.batch([
+        env.DB.prepare('INSERT INTO admin_settings (setting_key, setting_value, updated_at) VALUES (?, ?, ?) ON CONFLICT(setting_key) DO UPDATE SET setting_value = excluded.setting_value, updated_at = excluded.updated_at').bind('shippingFeePaise', String(fee), now),
+        env.DB.prepare('INSERT INTO admin_settings (setting_key, setting_value, updated_at) VALUES (?, ?, ?) ON CONFLICT(setting_key) DO UPDATE SET setting_value = excluded.setting_value, updated_at = excluded.updated_at').bind('whatsappNumber', phone, now)
+      ]);
+      await audit(env, auth, 'settings_updated', 'settings', 'shop', 'Updated shop contact or delivery settings.');
+      return json(200, { shippingFeePaise: fee, whatsappNumber: phone });
+    }
+    if (route === '/users' && method === 'GET' && owner) {
+      const rows = await env.DB.prepare('SELECT * FROM admin_users ORDER BY created_at').all(); return json(200, { users: (rows.results || []).map(safeUser) });
+    }
+    if (route === '/users' && method === 'POST' && owner) {
+      const input = await jsonBody(request), email = emailValue(input.email), name = clean(input.name, 100);
+      if (!name || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(400, { error: 'Enter a name and valid email address.' });
+      const temp = randomToken(15), now = new Date().toISOString(), id = crypto.randomUUID();
+      try { await env.DB.prepare('INSERT INTO admin_users (id, email, name, password_hash, role, must_change_password, active, created_at, updated_at) VALUES (?, ?, ?, ?, ?, 1, 1, ?, ?)').bind(id, email, name, await passwordHash(temp), 'staff', now, now).run(); }
+      catch { return json(409, { error: 'An account already uses this email.' }); }
+      await audit(env, auth, 'staff_created', 'user', id, `Created staff access for ${email}.`);
+      return json(201, { user: { id, email, name, role: 'staff', mustChangePassword: true, active: true }, temporaryPassword: temp });
+    }
+    const userMatch = route.match(/^\/users\/([^/]+)$/);
+    if (userMatch && method === 'PATCH' && owner) {
+      const id = decodeId(userMatch[1]), input = await jsonBody(request), temp = input.action === 'reset-password' ? randomToken(15) : '';
+      const user = await env.DB.prepare("SELECT * FROM admin_users WHERE id = ? AND role = 'staff'").bind(id).first();
+      if (!user) return json(404, { error: 'Staff account not found.' });
+      if (!['activate', 'deactivate', 'reset-password'].includes(input.action)) return json(400, { error: 'Unknown staff account action.' });
+      const now = new Date().toISOString();
+      if (input.action === 'reset-password') {
+        await env.DB.prepare('UPDATE admin_users SET password_hash = ?, must_change_password = 1, updated_at = ? WHERE id = ?').bind(await passwordHash(temp), now, id).run();
+        await env.DB.prepare('DELETE FROM admin_sessions WHERE user_id = ?').bind(id).run();
+      } else {
+        await env.DB.prepare('UPDATE admin_users SET active = ?, updated_at = ? WHERE id = ?').bind(input.action === 'activate' ? 1 : 0, now, id).run();
+        if (input.action === 'deactivate') await env.DB.prepare('DELETE FROM admin_sessions WHERE user_id = ?').bind(id).run();
+      }
+      await audit(env, auth, `staff_${input.action}`, 'user', id, `Updated staff account ${user.email}.`);
+      return json(200, { ok: true, ...(temp ? { temporaryPassword: temp } : {}) });
+    }
+    if (route === '/audit' && method === 'GET') {
+      const rows = await env.DB.prepare('SELECT * FROM admin_audit_log ORDER BY created_at DESC LIMIT 250').all(); return json(200, { audit: rows.results || [] });
+    }
+    return json(404, { error: 'Admin endpoint not found.' });
+  } catch (error) { return json(400, { error: error.message || 'Unable to complete the admin request.' }); }
+}
 
-NÂˆ™]\›ˆ^\İ[™ÈÈœÛÛŠKÈ\œ›Üˆ	Ñ[š[Y[Ø[ˆÛ›H™H\]YY\ˆ˜^›Üœ^HÛÛ™š\›\ÈHØ\\™Y^[Y[‰ÈJHˆœÛÛŠÈ\œ›Üˆ	ÓÜ™\ˆ›İ›İ[™‰ÈJNÂˆBˆ]ØZ]]Y]
-[‹]]	Ù[š[Y[İ\]Y	Ë	ÛÜ™\‰ËYÚ[™ÙY[š[Y[È	Ú[œ]™[š[Y[İ]\ßK˜
-NÂˆ™]\›ˆœÛÛŠŒÈÚÎˆYHJNÂˆBˆYˆ
-›İ]HOOH	ËÜÙ][™ÜÉÈ	‰ˆY]ÙOOH	ÑÑU	È	‰ˆİÛ™\ŠH™]\›ˆœÛÛŠŒ]ØZ]Ù]Ù][™ÜÊ[ŠJNÂˆYˆ
-›İ]HOOH	ËÜÙ][™ÜÉÈ	‰ˆY]ÙOOH	ÔU	È	‰ˆİÛ™\ŠHÂˆÛÛœİ[œ]H]ØZ]œÛÛ›ÙJ™\]Y\İ
-K™YHH[X™\Š[œ]œÚ\[™Ñ™YTZ\ÙJKÛ™HHÛX[Š[œ]Ú]Ø\[X™\‹
-Kœ™\XÙJ×ÙË	ÉÊNÂˆYˆ
-S[X™\‹š\ÔØY™R[YÙ\Š™YJH™YH™YHˆL
-Û™H	‰ˆ
-Û™K›[™İÛ™K›[™İˆMJJJH™]\›ˆœÛÛŠÈ\œ›Üˆ	Ñ[\ˆH˜[Y[]™\H™YH[™[\›˜][Û˜[Ú]Ğ\[X™\‹‰ÈJNÂˆÛÛœİ›İÈH™]È]J
-KÒTÓÔİš[™Ê
-NÂˆ]ØZ][‹‘‹˜˜]Ú
-Âˆ[‹‘‹œ™\\™J	ÒS”ÑT•S•ÈYZ[—ÜÙ][™ÜÈ
-Ù][™×ÚÙ^KÙ][™×İ˜[YK\]YØ]
-HSQTÈ
-ËËÊHÓˆÓÓ‘“PÕ
-Ù][™×ÚÙ^JHÈTUHÑUÙ][™×İ˜[YHH^ÛYYœÙ][™×İ˜[YK\]YØ]H^ÛYY\]YØ]	ÊK˜š[™
-	ÜÚ\[™Ñ™YTZ\ÙIËİš[™Ê™YJK›İÊKˆ[‹‘‹œ™\\™J	ÒS”ÑT•S•ÈYZ[—ÜÙ][™ÜÈ
-Ù][™×ÚÙ^KÙ][™×İ˜[YK\]YØ]
-HSQTÈ
-ËËÊHÓˆÓÓ‘“PÕ
-Ù][™×ÚÙ^JHÈTUHÑUÙ][™×İ˜[YHH^ÛYYœÙ][™×İ˜[YK\]YØ]H^ÛYY\]YØ]	ÊK˜š[™
-	İÚ]Ø\[X™\‰ËÛ™K›İÊBˆJNÂˆ]ØZ]]Y]
-[‹]]	ÜÙ][™Ü×İ\]Y	Ë	ÜÙ][™ÜÉË	ÜÚÜ	Ë	Õ\]YÚÜÛÛXİÜˆ[]™\HÙ][™ÜË‰ÊNÂˆ™]\›ˆœÛÛŠŒÈÚ\[™Ñ™YTZ\ÙNˆ™YKÚ]Ø\[X™\ˆÛ™HJNÂˆBˆYˆ
-›İ]HOOH	Ëİ\Ù\œÉÈ	‰ˆY]ÙOOH	ÑÑU	È	‰ˆİÛ™\ŠHÂˆÛÛœİ›İÜÈH]ØZ][‹‘‹œ™\\™J	ÔÑSPÕ
-ˆ”“ÓHYZ[—İ\Ù\œÈÔ‘Tˆ–HÜ™X]YØ]	ÊK˜[
+function parseArray(value) { try { const parsed = JSON.parse(value || '[]'); return Array.isArray(parsed) ? parsed : []; } catch { return []; } }
+function parseObject(value) { try { const parsed = JSON.parse(value || '{}'); return parsed && typeof parsed === 'object' ? parsed : {}; } catch { return {}; } }
 
-NÈ™]\›ˆœÛÛŠŒÈ\Ù\œÎˆ
-›İÜËœ™\İ[È×JK›X\
-ØY™U\Ù\ŠHJNÂˆBˆYˆ
-›İ]HOOH	Ëİ\Ù\œÉÈ	‰ˆY]ÙOOH	ÔÔÕ	È	‰ˆİÛ™\ŠHÂˆÛÛœİ[œ]H]ØZ]œÛÛ›ÙJ™\]Y\İ
-K[XZ[H[XZ[˜[YJ[œ]™[XZ[
-K˜[YHHÛX[Š[œ]›˜[YKL
-NÂˆYˆ
-[˜[YHK×–×—ĞJĞ×—ĞJ×–×—ĞJÉË\İ
-[XZ[
-JH™]\›ˆœÛÛŠÈ\œ›Üˆ	Ñ[\ˆH˜[YH[™˜[Y[XZ[Y™\ÜË‰ÈJNÂˆÛÛœİ[\H˜[™ÛUÚÙ[ŠMJK›İÈH™]È]J
-KÒTÓÔİš[™Ê
-KYHÜ\Ëœ˜[™ÛUURQ
-
-NÂˆHÈ]ØZ][‹‘‹œ™\\™J	ÒS”ÑT•S•ÈYZ[—İ\Ù\œÈ
-Y[XZ[˜[YK\ÜİÛÜ™Ú\Ú›ÛK]\İØÚ[™ÙWÜ\ÜİÛÜ™Xİ]™KÜ™X]YØ]\]YØ]
-HSQTÈ
-ËËËËËKKËÊIÊK˜š[™
-Y[XZ[˜[YK]ØZ]\ÜİÛÜ™\Ú
-[\
-K	ÜİY™‰Ë›İË›İÊKœ[Š
-NÈBˆØ]ÚÈ™]\›ˆœÛÛŠKÈ\œ›Üˆ	Ğ[ˆXØÛİ[[™XYH\Ù\È\È[XZ[‰ÈJNÈBˆ]ØZ]]Y]
-[‹]]	ÜİY™—ØÜ™X]Y	Ë	İ\Ù\‰ËYÜ™X]YİY™ˆXØÙ\ÜÈ›Üˆ	Ù[XZ[K˜
-NÂˆ™]\›ˆœÛÛŠŒKÈ\Ù\ˆÈY[XZ[˜[YK›ÛNˆ	ÜİY™‰Ë]\İÚ[™ÙT\ÜİÛÜ™ˆYKXİ]™NˆYHK[\Ü˜\T\ÜİÛÜ™ˆ[\JNÂˆBˆÛÛœİ\Ù\“X]ÚH›İ]K›X]Ú
-×—İ\Ù\œ×Ê×‹×JÊIÊNÂˆYˆ
-\Ù\“X]Ú	‰ˆY]ÙOOH	ÔUÒ	È	‰ˆİÛ™\ŠHÂˆÛÛœİYHXÛÙRY
-\Ù\“X]ÚÌWJK[œ]H]ØZ]œÛÛ›ÙJ™\]Y\İ
-K[\H[œ]˜Xİ[ÛˆOOH	Ü™\Ù]\\ÜİÛÜ™	ÈÈ˜[™ÛUÚÙ[ŠMJHˆ	ÉÎÂˆÛÛœİ\Ù\ˆH]ØZ][‹‘‹œ™\\™J”ÑSPÕ
-ˆ”“ÓHYZ[—İ\Ù\œÈÒT‘HYHÈS‘›ÛHH	ÜİY™‰ÈŠK˜š[™
-Y
-K™š\œİ
-
-NÂˆYˆ
-]\Ù\ŠH™]\›ˆœÛÛŠÈ\œ›Üˆ	ÔİY™ˆXØÛİ[›İ›İ[™‰ÈJNÂˆYˆ
-VÉØXİ]˜]IË	ÙXXİ]˜]IË	Ü™\Ù]\\ÜİÛÜ™	×Kš[˜ÛY\Ê[œ]˜Xİ[ÛŠJH™]\›ˆœÛÛŠÈ\œ›Üˆ	Õ[šÛ›İÛˆİY™ˆXØÛİ[Xİ[Û‹‰ÈJNÂˆÛÛœİ›İÈH™]È]J
-KÒTÓÔİš[™Ê
-NÂˆYˆ
-[œ]˜Xİ[ÛˆOOH	Ü™\Ù]\\ÜİÛÜ™	ÊHÂˆ]ØZ][‹‘‹œ™\\™J	ÕTUHYZ[—İ\Ù\œÈÑU\ÜİÛÜ™Ú\ÚHË]\İØÚ[™ÙWÜ\ÜİÛÜ™HK\]YØ]HÈÒT‘HYHÉÊK˜š[™
-]ØZ]\ÜİÛÜ™\Ú
-[\
-K›İËY
-Kœ[Š
-NÂˆ]ØZ][‹‘‹œ™\\™J	ÑSUH”“ÓHYZ[—ÜÙ\ÜÚ[ÛœÈÒT‘H\Ù\—ÚYHÉÊK˜š[™
-Y
-Kœ[Š
-NÂˆH[ÙHÂˆ]ØZ][‹‘‹œ™\\™J	ÕTUHYZ[—İ\Ù\œÈÑUXİ]™HHË\]YØ]HÈÒT‘HYHÉÊK˜š[™
-[œ]˜Xİ[ÛˆOOH	ØXİ]˜]IÈÈHˆ›İËY
-Kœ[Š
-NÂˆYˆ
-[œ]˜Xİ[ÛˆOOH	ÙXXİ]˜]IÊH]ØZ][‹‘‹œ™\\™J	ÑSUH”“ÓHYZ[—ÜÙ\ÜÚ[ÛœÈÒT‘H\Ù\—ÚYHÉÊK˜š[™
-Y
-Kœ[Š
-NÂˆBˆ]ØZ]]Y]
-[‹]]İY™—ÉÚ[œ]˜Xİ[ÛŸX	İ\Ù\‰ËY\]YİY™ˆXØÛİ[	İ\Ù\‹™[XZ[K˜
-NÂˆ™]\›ˆœÛÛŠŒÈÚÎˆYK‹‹Š[\ÈÈ[\Ü˜\T\ÜİÛÜ™ˆ[\HˆßJHJNÂˆBˆYˆ
-›İ]HOOH	ËØ]Y]	È	‰ˆY]ÙOOH	ÑÑU	ÊHÂˆÛÛœİ›İÜÈH]ØZ][‹‘‹œ™\\™J	ÔÑSPÕ
-ˆ”“ÓHYZ[—Ø]Y]ÛÙÈÔ‘Tˆ–HÜ™X]YØ]TĞÈSRUL	ÊK˜[
-
-NÈ™]\›ˆœÛÛŠŒÈ]Y]ˆ›İÜËœ™\İ[È×HJNÂˆBˆ™]\›ˆœÛÛŠÈ\œ›Üˆ	ĞYZ[ˆ[™Ú[›İ›İ[™‰ÈJNÂˆHØ]Ú
-\œ›ÜŠHÈ™]\›ˆœÛÛŠÈ\œ›Üˆ\œ›Ü‹›Y\ÜØYÙH	Õ[˜X›HÈÛÛ\]HHYZ[ˆ™\]Y\İ‰ÈJNÈBŸB‚™[˜İ[Ûˆ\œÙP\œ˜^J˜[YJHÈHÈÛÛœİ\œÙYH”ÓÓ‹œ\œÙJ˜[YH	Ö×IÊNÈ™]\›ˆ\œ˜^Kš\Ğ\œ˜^J\œÙY
-HÈ\œÙYˆ×NÈHØ]ÚÈ™]\›ˆ×NÈHB™[˜İ[Ûˆ\œÙSØš™Xİ
-˜[YJHÈHÈÛÛœİ\œÙYH”ÓÓ‹œ\œÙJ˜[YH	ŞßIÊNÈ™]\›ˆ\œÙY	‰ˆ\[Ùˆ\œÙYOOH	ÛØš™Xİ	ÈÈ\œÙYˆßNÈHØ]ÚÈ™]\›ˆßNÈHB‚™^Ü\Ş[˜È[˜İ[ÛˆX›XÔ›ÙXİÊ[ŠHÈ™]\›ˆÙ]›ÙXİÊ[‹˜[ÙJNÈB™^Ü\Ş[˜È[˜İ[ÛˆX›XÔÙ][™ÜÊ[ŠHÈ™]\›ˆÙ]Ù][™ÜÊ[ŠNÈB™^Ü\Ş[˜È[˜İ[ÛˆÜ™X]TİØÚÔ™\Ù\˜][ÛŠ[‹Ü™\’Y][\Ë^\™\Ğ]
-HÈ™]\›ˆ™\Ù\™TİØÚÊ[‹Ü™\’Y][\Ë^\™\Ğ]
-NÈB™^Ü\Ş[˜È[˜İ[Ûˆ™\ÛÛ™TİØÚÔ™\Ù\˜][ÛŠ[‹Ü™\’Y™\İ[İ]\ÊHÈ™]\›ˆ™\ÛÛ™T™\Ù\˜][ÛŠ[‹Ü™\’Y™\İ[İ]\ÊNÈB™^Ü\Ş[˜È[˜İ[Ûˆ™XÛÛ˜Ú[Q^\™Y™\Ù\˜][ÛœÊ[ŠHÂˆYˆ
-Y[‹”V“Ô”VWÒÑVWÒQY[‹”V“Ô”VWÒÑVWÔÑPÔ‘U
-H™]\›ÂˆÛÛœİ^\™YH]ØZ][‹‘‹œ™\\™J”ÑSPÕTÕSÕŠˆ”“ÓH^[Y[ÛÜ™\œÈ“ÒSˆİØÚ×Ü™\Ù\˜][ÛœÈˆÓˆ‹›Ü™\—ÚYHšYÒT‘H‹œİ]\ÈH	Ü™\Ù\™Y	ÈS‘‹™^\™\×Ø]HÈS‘œİ]\ÈSˆ
-	ØÜ™X]Y	Ë	Ø]]Üš^™Y	ÊHSRUHŠK˜š[™
-™]È]J
-KÒTÓÔİš[™Ê
-JK˜[
-
-NÂˆ›Üˆ
-ÛÛœİÜ™\ˆÙˆ^\™Yœ™\İ[È×JHÂˆHÂˆÛÛœİ]]HØJ	Ù[‹”V“Ô”VWÒÑVWÒQN‰Ù[‹”V“Ô”VWÒÑVWÔÑPÔ‘UX
-NÂˆÛÛœİ™\İ[H]ØZ]™]Ú
-Î‹ËØ\Kœ˜^›Üœ^K˜ÛÛKİŒKÛÜ™\œËÉÙ[˜ÛÙUT’PÛÛ\Û™[
-Ü™\‹œ˜^›Üœ^WÛÜ™\—ÚY
-_KÜ^[Y[ØÈXY\œÎˆÈ]]Üš^˜][Ûˆ˜\ÚXÈ	Ø]]XHJNÂˆYˆ
-\™\İ[›ÚÊHÛÛ[YNÂˆÛÛœİ^[Y[ÈH]ØZ]™\İ[šœÛÛŠ
-K›İÜÈH^[Y[Ëš][\È×NÂˆÛÛœİØ\\™YH›İÜË™š[™
-
-^[Y[
-HOˆ^[Y[œİ]\ÈOOH	ØØ\\™Y	È	‰ˆ^[Y[˜Ø\\™YOOHYH	‰ˆ^[Y[›Ü™\—ÚYOOHÜ™\‹œ˜^›Üœ^WÛÜ™\—ÚY
-NÂˆÛÛœİ]]Üš^™YH›İÜË™š[™
-
-^[Y[
-HOˆ^[Y[œİ]\ÈOOH	Ø]]Üš^™Y	È	‰ˆ^[Y[›Ü™\—ÚYOOHÜ™\‹œ˜^›Üœ^WÛÜ™\—ÚY
-NÂˆYˆ
-Ø\\™Y
-HÂˆÛÛœİİ]\ÈH]ØZ][‹‘‹œ™\\™J•TUH^[Y[ÛÜ™\œÈÑUİ]\ÈH	ÜZY	Ë^[Y[ÚYHË\]YØ]HÈÒT‘HYHÈS‘İ]\ÈOH	ÜZY	ÈŠK˜š[™
-Ø\\™YšY™]È]J
-KÒTÓÔİš[™Ê
-KÜ™\‹šY
-Kœ[Š
-NÂˆYˆ
-[X™\Šİ]\Ë›Y]OË˜Ú[™Ù\È
-JH]ØZ]™\ÛÛ™T™\Ù\˜][ÛŠ[‹Ü™\‹šY	ØÛÛ[Z]Y	ÊNÂˆH[ÙHYˆ
-]]Üš^™Y
-HÂˆ]ØZ][‹‘‹œ™\\™J•TUH^[Y[ÛÜ™\œÈÑUİ]\ÈH	Ø]]Üš^™Y	Ë^[Y[ÚYHË™\Ù\˜][Û—Ù^\™\×Ø]HÈÒT‘HYHÈŠK˜š[™
-]]Üš^™YšY™]È]J]K››İÊ
-H
-ÈMH
-ˆŒ
-ˆL
-KÒTÓÔİš[™Ê
-KÜ™\‹šY
-Kœ[Š
-NÂˆ]ØZ][‹‘‹œ™\\™J•TUHİØÚ×Ü™\Ù\˜][ÛœÈÑU^\™\×Ø]HÈÒT‘HÜ™\—ÚYHÈS‘İ]\ÈH	Ü™\Ù\™Y	ÈŠK˜š[™
-™]È]J]K››İÊ
-H
-ÈMH
-ˆŒ
-ˆL
-KÒTÓÔİš[™Ê
-KÜ™\‹šY
-Kœ[Š
-NÂˆH[ÙHÂˆ]ØZ][‹‘‹œ™\\™J•TUH^[Y[ÛÜ™\œÈÑUİ]\ÈH	Ù˜Z[Y	Ë\]YØ]HÈÒT‘HYHÈS‘İ]\ÈOH	ÜZY	ÈŠK˜š[™
-™]È]J
-KÒTÓÔİš[™Ê
-KÜ™\‹šY
-Kœ[Š
-NÂˆ]ØZ]™\ÛÛ™T™\Ù\˜][ÛŠ[‹Ü™\‹šY	Ü™[X\ÙY	ÊNÂˆBˆHØ]ÚÈÊˆ™]H[œ™\ÛÛ™Y™\Ù\˜][ÛœÈÛˆH™^ØÚY[Y™XÛÛ˜Ú[X][Û‹ˆ
-‹ÈBˆBŸB
+export async function publicProducts(env) { return getProducts(env, false); }
+export async function publicSettings(env) { return getSettings(env); }
+export async function createStockReservation(env, orderId, items, expiresAt) { return reserveStock(env, orderId, items, expiresAt); }
+export async function resolveStockReservation(env, orderId, resultStatus) { return resolveReservation(env, orderId, resultStatus); }
+export async function reconcileExpiredReservations(env) {
+  if (!env.RAZORPAY_KEY_ID || !env.RAZORPAY_KEY_SECRET) return;
+  const expired = await env.DB.prepare("SELECT DISTINCT p.* FROM payment_orders p JOIN stock_reservations r ON r.order_id = p.id WHERE r.status = 'reserved' AND r.expires_at <= ? AND p.status IN ('created', 'authorized') LIMIT 25").bind(new Date().toISOString()).all();
+  for (const order of expired.results || []) {
+    try {
+      const auth = btoa(`${env.RAZORPAY_KEY_ID}:${env.RAZORPAY_KEY_SECRET}`);
+      const result = await fetch(`https://api.razorpay.com/v1/orders/${encodeURIComponent(order.razorpay_order_id)}/payments`, { headers: { Authorization: `Basic ${auth}` } });
+      if (!result.ok) continue;
+      const payments = await result.json(), rows = payments.items || [];
+      const captured = rows.find((payment) => payment.status === 'captured' && payment.captured === true && payment.order_id === order.razorpay_order_id);
+      const authorized = rows.find((payment) => payment.status === 'authorized' && payment.order_id === order.razorpay_order_id);
+      if (captured) {
+        const status = await env.DB.prepare("UPDATE payment_orders SET status = 'paid', payment_id = ?, updated_at = ? WHERE id = ? AND status != 'paid'").bind(captured.id, new Date().toISOString(), order.id).run();
+        if (Number(status.meta?.changes || 0)) await resolveReservation(env, order.id, 'committed');
+      } else if (authorized) {
+        await env.DB.prepare("UPDATE payment_orders SET status = 'authorized', payment_id = ?, reservation_expires_at = ? WHERE id = ?").bind(authorized.id, new Date(Date.now() + 15 * 60 * 1000).toISOString(), order.id).run();
+        await env.DB.prepare("UPDATE stock_reservations SET expires_at = ? WHERE order_id = ? AND status = 'reserved'").bind(new Date(Date.now() + 15 * 60 * 1000).toISOString(), order.id).run();
+      } else {
+        await env.DB.prepare("UPDATE payment_orders SET status = 'failed', updated_at = ? WHERE id = ? AND status != 'paid'").bind(new Date().toISOString(), order.id).run();
+        await resolveReservation(env, order.id, 'released');
+      }
+    } catch { /* Retry unresolved reservations on the next scheduled reconciliation. */ }
+  }
+}
