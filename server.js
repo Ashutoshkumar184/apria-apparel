@@ -19,7 +19,7 @@ const adminLocal = require('./admin-local.cjs');
 const PORT = Number(process.env.PORT || 3000);
 const HOST = process.env.HOST || '0.0.0.0';
 
-const mime = { '.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml' };
+const mime = { '.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.mp4':'video/mp4' };
 function send(res, status, data, type='application/json; charset=utf-8') { res.writeHead(status, { 'Content-Type':type, 'X-Content-Type-Options':'nosniff', 'Referrer-Policy':'strict-origin-when-cross-origin', 'Cache-Control':'no-store' }); res.end(typeof data === 'string' ? data : JSON.stringify(data)); }
 function readBody(req) { return new Promise((resolve, reject) => { let body=''; req.on('data', c => { body += c; if (body.length > 20_000) { reject(new Error('Request too large')); req.destroy(); } }); req.on('end', () => { try { resolve(JSON.parse(body || '{}')); } catch { reject(new Error('Invalid JSON')); } }); req.on('error', reject); }); }
 function clean(value, max=500) { return typeof value === 'string' ? value.trim().slice(0,max) : ''; }
@@ -191,10 +191,31 @@ const server = http.createServer(async (req, res) => {
   let file;
   try { file = path.resolve(ROOT, '.'+requested); } catch { return send(res,404,'Not found','text/plain; charset=utf-8'); }
   if (!file.startsWith(ROOT + path.sep) || file === __filename) return send(res,404,'Not found','text/plain; charset=utf-8');
-  fs.readFile(file,(err,contents)=>{
-    if (err) return send(res,404,'Not found','text/plain; charset=utf-8');
-    res.writeHead(200,{ 'Content-Type':mime[path.extname(file)]||'application/octet-stream','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Cache-Control':'no-cache' });
-    res.end(req.method==='HEAD'?undefined:contents);
+  fs.stat(file,(err,stats)=>{
+    if (err || !stats.isFile()) return send(res,404,'Not found','text/plain; charset=utf-8');
+    const type = mime[path.extname(file)]||'application/octet-stream';
+    const headers = { 'Content-Type':type,'X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Cache-Control':'no-cache' };
+    const range = path.extname(file) === '.mp4' ? req.headers.range : null;
+    if (range) {
+      const match = /^bytes=(\d*)-(\d*)$/.exec(range);
+      if (!match || (!match[1] && !match[2])) {
+        res.writeHead(416,{ ...headers,'Accept-Ranges':'bytes','Content-Range':`bytes */${stats.size}` });
+        return res.end();
+      }
+      const suffix = !match[1];
+      const start = suffix ? Math.max(0,stats.size-Number(match[2])) : Number(match[1]);
+      const end = suffix ? stats.size-1 : Math.min(stats.size-1,match[2] ? Number(match[2]) : stats.size-1);
+      if (!Number.isSafeInteger(start) || !Number.isSafeInteger(end) || start > end || start >= stats.size) {
+        res.writeHead(416,{ ...headers,'Accept-Ranges':'bytes','Content-Range':`bytes */${stats.size}` });
+        return res.end();
+      }
+      res.writeHead(206,{ ...headers,'Accept-Ranges':'bytes','Content-Range':`bytes ${start}-${end}/${stats.size}`,'Content-Length':end-start+1 });
+      if (req.method === 'HEAD') return res.end();
+      return fs.createReadStream(file,{ start,end }).pipe(res);
+    }
+    res.writeHead(200,{ ...headers,'Content-Length':stats.size,...(path.extname(file) === '.mp4' ? { 'Accept-Ranges':'bytes' } : {}) });
+    if (req.method === 'HEAD') return res.end();
+    fs.createReadStream(file).pipe(res);
   });
 });
 

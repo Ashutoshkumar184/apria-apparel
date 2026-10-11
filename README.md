@@ -18,6 +18,8 @@ npm start
 
 Open `http://localhost:3000`. The site binds to `0.0.0.0` and uses `PORT` when supplied. Enquiries are saved in `data/enquiries.jsonl`.
 
+The opening garment film lives in `public/media/`. It plays muted once in the hero, includes a poster fallback, and has controls for pausing, replaying and enabling sound. It stays paused automatically when reduced motion is enabled.
+
 ### Admin portal
 
 The local portal is at `http://localhost:3000/admin`. Before the first owner setup, copy `.env.example` to `.env` and set two independent random values for `ADMIN_SETUP_TOKEN` and `ADMIN_SESSION_SECRET` (each at least 32 characters). Keep `.env` private and restart the server. Open `/admin/setup` once to create the owner account; setup then closes. Sign in at `/admin`.

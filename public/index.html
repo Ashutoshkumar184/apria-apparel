@@ -34,7 +34,10 @@
         <div class="hero-actions"><a class="button button-light" href="#shop">Explore the collection <span aria-hidden="true">↘</span></a><a class="text-link light-link" href="#custom">Making for your team or label? <span aria-hidden="true">↗</span></a></div>
         <div class="hero-note"><span>READY TO WEAR</span><span class="note-line"></span><span>MADE WITH YOU</span></div>
       </div>
-      <div class="instrument-wrap" aria-label="An abstract orbital weaving instrument, APRIA’s garment signal">
+      <div class="instrument-wrap" role="group" aria-label="APRIA garment film framed by the orbital weave signal">
+        <video class="instrument-film" id="hero-intro-video" muted playsinline preload="none" poster="/media/apria-intro-poster.jpg" aria-hidden="true">
+          <source src="/media/apria-intro.mp4" type="video/mp4">
+        </video>
         <div class="instrument-halo"></div>
         <svg class="weave-instrument" viewBox="0 0 680 680" role="img" aria-labelledby="instrument-title instrument-desc">
           <title id="instrument-title">The APRIA weave signal</title>
@@ -67,6 +70,10 @@
         <span class="instrument-caption caption-top">LOOM / 01<br><b>FORM STUDY</b></span>
         <span class="instrument-caption caption-side">180—380 GSM<br><b>WEIGHT BY INTENTION</b></span>
         <span class="instrument-coordinate">12° 04′ / COTTON FIELD</span>
+        <div class="intro-film-controls" role="group" aria-label="Intro film controls">
+          <button class="intro-film-control" id="intro-film-toggle" type="button" aria-label="Play intro film" aria-pressed="false"><span aria-hidden="true" data-film-icon>▶</span><span data-film-label>Play film</span></button>
+          <button class="intro-film-control" id="intro-sound-toggle" type="button" aria-label="Turn intro sound on" aria-pressed="false"><span aria-hidden="true">◖</span><span data-sound-label>Sound off</span></button>
+        </div>
       </div>
       <div class="hero-foot"><span>FIELD OBJECT 01 — APRIA / EVERYDAY SYSTEMS</span><a href="#proof" aria-label="Scroll to collection notes">SCROLL TO RECEIVE <span aria-hidden="true">↓</span></a></div>
     </section>

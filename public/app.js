@@ -396,6 +396,46 @@ document.querySelectorAll('.inquiry-form:not(#checkout-form)').forEach((form) =>
 const menu = $('.menu-toggle');
 menu.addEventListener('click', () => { const open = $('#main-nav').classList.toggle('open'); menu.setAttribute('aria-expanded', String(open)); menu.setAttribute('aria-label', open ? 'Close menu' : 'Open menu'); });
 document.querySelectorAll('.main-nav a').forEach((link) => link.addEventListener('click', () => { $('#main-nav').classList.remove('open'); menu.setAttribute('aria-expanded', 'false'); }));
+const introVideo = $('#hero-intro-video');
+const introPlay = $('#intro-film-toggle');
+const introSound = $('#intro-sound-toggle');
+if (introVideo && introPlay && introSound) {
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const syncPlayControl = () => {
+    const playing = !introVideo.paused && !introVideo.ended;
+    const label = playing ? 'Pause film' : introVideo.ended ? 'Replay film' : 'Play film';
+    introPlay.setAttribute('aria-pressed', String(playing));
+    introPlay.setAttribute('aria-label', `${playing ? 'Pause' : introVideo.ended ? 'Replay' : 'Play'} APRIA intro film`);
+    introPlay.querySelector('[data-film-icon]').textContent = playing ? 'Ⅱ' : '▶';
+    introPlay.querySelector('[data-film-label]').textContent = label;
+  };
+  const requestIntroPlay = () => {
+    if (introVideo.ended) introVideo.currentTime = 0;
+    const playback = introVideo.play();
+    if (playback && typeof playback.catch === 'function') playback.catch(syncPlayControl);
+  };
+  introPlay.addEventListener('click', () => {
+    if (introVideo.paused || introVideo.ended) requestIntroPlay();
+    else introVideo.pause();
+  });
+  introVideo.addEventListener('play', syncPlayControl);
+  introVideo.addEventListener('pause', syncPlayControl);
+  introVideo.addEventListener('ended', syncPlayControl);
+  introSound.addEventListener('click', () => {
+    introVideo.muted = !introVideo.muted;
+    const soundOn = !introVideo.muted;
+    introSound.setAttribute('aria-pressed', String(soundOn));
+    introSound.setAttribute('aria-label', soundOn ? 'Turn intro sound off' : 'Turn intro sound on');
+    introSound.querySelector('[data-sound-label]').textContent = soundOn ? 'Sound on' : 'Sound off';
+  });
+  if (!reducedMotion.matches) requestIntroPlay();
+  if (typeof reducedMotion.addEventListener === 'function') {
+    reducedMotion.addEventListener('change', (event) => {
+      if (event.matches) { introVideo.pause(); introVideo.currentTime = 0; }
+    });
+  }
+  document.addEventListener('visibilitychange', () => { if (document.hidden) introVideo.pause(); });
+}
 $('#year').textContent = new Date().getFullYear(); saveQuote();
 renderCart();
 fetch('/api/products').then((response) => { if (!response.ok) throw new Error(); return response.json(); })
