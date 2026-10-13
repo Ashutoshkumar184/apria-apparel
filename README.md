@@ -2,6 +2,8 @@
 
 Responsive APRIA storefront with searchable and sortable products, category filters, browser-saved favourites, size/colour variants, an editable quote list, bulk/private-label enquiry forms, and buyer FAQs. The Node.js backend stores enquiries as JSON lines when self-hosted, or durably in Cloudflare D1 when deployed there.
 
+Customers can create an APRIA account or sign in at `/account`. Customer passwords are PBKDF2 hashes, sessions expire after 30 days and can be revoked by signing out, and repeated failed attempts are rate limited. Signing in prefills the name and email fields at checkout; delivery details are still collected with each order. The customer account page is not an order-history or password-reset portal.
+
 The catalogue also includes a browser-saved shopping bag and INR checkout. Checkout amounts are recalculated on the server from the catalogue, orders are created through Razorpay, and payment signatures, UPI method, and captured status are verified before an order is marked paid. Checkout is configured for UPI only and stays disabled until Razorpay credentials are configured.
 
 ## Live free deployment
@@ -17,6 +19,7 @@ npm start
 ```
 
 Open `http://localhost:3000`. The site binds to `0.0.0.0` and uses `PORT` when supplied. Enquiries are saved in `data/enquiries.jsonl`.
+Customer account data is stored separately in the ignored `data/customer-accounts.json` file. Keep the whole `data/` directory private and back it up securely.
 
 The opening garment film lives in `public/media/`. It plays muted once in the hero, includes a poster fallback, and has controls for pausing, replaying and enabling sound. It stays paused automatically when reduced motion is enabled.
 
@@ -46,7 +49,7 @@ The Cloudflare setup serves the site on Workers and stores enquiries in a D1 dat
 
    Copy the returned database ID into `wrangler.jsonc`. Do not create a second database for an existing deployment.
 
-3. Apply every migration, including `0003_admin_portal.sql`, and deploy:
+3. Apply every migration, including `0003_admin_portal.sql` and `0004_customer_accounts.sql`, and deploy:
 
    ```sh
    npx wrangler d1 migrations apply apria --remote
@@ -57,7 +60,7 @@ The Cloudflare setup serves the site on Workers and stores enquiries in a D1 dat
 
 4. Configure two independent random Worker secrets, `ADMIN_SETUP_TOKEN` and `ADMIN_SESSION_SECRET`, each at least 32 characters. Use Cloudflare **Settings → Variables and Secrets**; do not put them in `wrangler.jsonc`. Visit `https://<your-worker>/admin/setup` once to create the owner. Production portal data is stored in the bound D1 database and is separate from the local `data/` directory. Existing D1 enquiries and payment orders are retained when the portal migration runs. The managed catalogue is seeded from `public/products.json` on first access; set actual stock in the portal before accepting orders.
 
-The Wrangler project is defined in `wrangler.jsonc`; the Worker API is in `worker.js`; `admin-worker.mjs` provides the D1-backed portal; and D1 migrations create enquiry, payment-order, catalogue, stock and portal tables. `public/` contains the public website assets. To create a dashboard-editor bundle, run `node scripts/build-dashboard-worker.js`; the generated source is written under the ignored `work/` folder.
+The Wrangler project is defined in `wrangler.jsonc`; the Worker API is in `worker.js`; `admin-worker.mjs` provides the D1-backed portal and `customer-worker.mjs` handles customer accounts. D1 migrations create enquiry, payment-order, catalogue, stock, portal and customer-account tables. `public/` contains the public website assets. To create a dashboard-editor bundle, run `node scripts/build-dashboard-worker.js`; the generated source is written under the ignored `work/` folder.
 
 ### Enable Razorpay checkout
 
@@ -88,6 +91,10 @@ Attach persistent storage at `/app/data`; hosted container filesystems can be te
 - `POST /api/checkout/orders` — validates an Indian delivery address and catalogue variants, calculates the amount server-side, creates and stores a Razorpay order.
 - `POST /api/checkout/verify` — verifies the Razorpay signature and checks the provider's payment amount, order and capture status.
 - `POST /api/order-requests` — saves a structured unpaid retail order request when online payments are disabled.
+- `GET /api/customer/session` — checks the current customer's sign-in session.
+- `POST /api/customer/register` — creates a customer account and starts a session.
+- `POST /api/customer/login` — signs in a customer.
+- `POST /api/customer/logout` — revokes the current customer session.
 - `/api/admin/*` — authenticated owner/staff portal API for the dashboard, enquiries, order requests, payment orders, catalogue, stock, users, settings and activity log.
 
 ## Before launch

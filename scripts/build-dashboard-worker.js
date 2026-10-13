@@ -7,6 +7,7 @@ const publicDir = path.join(root, 'public');
 const outputDir = path.join(root, 'work');
 const workerPath = path.join(root, 'worker.js');
 const adminModulePath = path.join(root, 'admin-worker.mjs');
+const customerModulePath = path.join(root, 'customer-worker.mjs');
 const outputPath = path.join(outputDir, 'apria-cloudflare-worker.js');
 const mimeTypes = {
   '.css': 'text/css; charset=utf-8',
@@ -33,7 +34,11 @@ let source = fs.readFileSync(workerPath, 'utf8');
 const adminImport = "import { handleAdminRequest, publicProducts, publicSettings, createStockReservation, resolveStockReservation, reconcileExpiredReservations } from './admin-worker.mjs';";
 if (!source.includes(adminImport)) throw new Error(`Could not find the admin module import in ${workerPath}`);
 const adminModule = fs.readFileSync(adminModulePath, 'utf8').replace(/^export /gm, '');
-source = source.replace(adminImport, '').replace('const MAX_BODY = 20_000;', () => `${adminModule}\n\nconst MAX_BODY = 20_000;`);
+source = source.replace(adminImport, '').replace('const MAX_BODY = 20_000;', () => `const { handleAdminRequest, publicProducts, publicSettings, createStockReservation, resolveStockReservation, reconcileExpiredReservations } = (() => {\n${adminModule}\nreturn { handleAdminRequest, publicProducts, publicSettings, createStockReservation, resolveStockReservation, reconcileExpiredReservations };\n})();\n\nconst MAX_BODY = 20_000;`);
+const customerImport = "import { handleCustomerRequest } from './customer-worker.mjs';";
+if (!source.includes(customerImport)) throw new Error(`Could not find the customer module import in ${workerPath}`);
+const customerModule = fs.readFileSync(customerModulePath, 'utf8').replace(/^export /gm, '');
+source = source.replace(customerImport, '').replace('const MAX_BODY = 20_000;', () => `const { handleCustomerRequest } = (() => {\n${customerModule}\nreturn { handleCustomerRequest };\n})();\n\nconst MAX_BODY = 20_000;`);
 const placeholder = 'const EMBEDDED_ASSETS = {};';
 if (!source.includes(placeholder)) {
   throw new Error(`Could not find asset placeholder in ${workerPath}`);

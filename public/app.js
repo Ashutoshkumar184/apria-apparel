@@ -9,7 +9,8 @@ const state = {
   favorites: new Set(readList('apria-favorites')),
   quote: readList('apria-quote').map((item) => ({ ...item, key: item.key || variantKey(item) })),
   cart: readList('apria-cart').filter((item) => item && typeof item === 'object').map((item) => ({ ...item, key: item.key || variantKey(item) })),
-  payment: { enabled: false, keyId: '', currency: 'INR', deliveryPaise: 0 }, checkoutBusy: false
+  whatsappNumber: DEFAULT_WHATSAPP_NUMBER,
+  payment: { enabled: false, configured: false, loadFailed: false, keyId: '', currency: 'INR', deliveryPaise: 0 }, checkoutBusy: false
 };
 const $ = (selector) => document.querySelector(selector);
 const esc = (value) => String(value).replace(/[&<>"']/g, (char) => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[char]));
@@ -63,13 +64,23 @@ function renderCart() {
   }).join('') : '<div class="cart-empty"><b>Your bag is empty for now.</b><span>Take a look around and add something when you find the right fit.</span><button type="button" data-cart-close>Explore the collection ↗</button></div>';
   const button = $('#checkout-form [type="submit"]');
   if (button) {
-    button.disabled = !state.cart.length || state.checkoutBusy;
-    button.innerHTML = state.payment.enabled ? 'Continue to UPI payment <span aria-hidden="true">↗</span>' : 'Send order request <span aria-hidden="true">↗</span>';
+    button.disabled = !state.cart.length || state.checkoutBusy || !state.payment.configured;
+    button.innerHTML = !state.payment.configured
+      ? 'Checkout unavailable'
+      : state.payment.enabled
+        ? 'Continue to secure UPI payment <span aria-hidden="true">↗</span>'
+        : 'Send unpaid order request <span aria-hidden="true">↗</span>';
   }
+  const stepLabel = $('#checkout-step-label');
+  if (stepLabel) stepLabel.textContent = !state.payment.configured ? 'Checkout status' : state.payment.enabled ? 'Delivery & payment' : 'Delivery & order request';
   const paymentNote = $('#checkout-payment-note');
-  if (paymentNote) paymentNote.textContent = state.payment.enabled
-    ? 'UPI payments are processed securely by Razorpay. APRIA never sees your UPI PIN.'
-    : 'Online UPI is not enabled yet. Send an order request and APRIA can confirm availability and arrange payment. No payment is taken now.';
+  if (paymentNote) paymentNote.textContent = !state.payment.configured
+    ? state.payment.loadFailed
+      ? 'Checkout status could not be confirmed. Refresh before continuing; no payment or order request will be sent.'
+      : 'Checking payment options… No order or payment will be sent until checkout is ready.'
+    : state.payment.enabled
+      ? 'UPI is processed securely by Razorpay. The total above includes the configured delivery fee; APRIA never sees your UPI PIN.'
+      : 'Online payment is unavailable right now. This button sends an unpaid order request only. APRIA confirms stock, final total and delivery estimate before arranging payment. No payment is taken here.';
   const next = $('#checkout-next'); if (next) next.disabled = !state.cart.length;
 }
 function setCheckoutStep(step) {
@@ -192,6 +203,7 @@ function renderQuote() {
 function openProduct(id) {
   const product = state.products.find((item) => item.id === id); if (!product) return;
   const sizes = getSizes(product.sizes), colors = getColors(product.color);
+  const sizeHelpUrl = `https://wa.me/${state.whatsappNumber}?text=${encodeURIComponent(`Hi APRIA, could you help me with sizing for ${product.name}?`)}`;
   $('#product-detail').innerHTML = `<div class="product-detail">
     <img src="${esc(product.image)}" alt="${esc(product.name)}">
     <div class="product-detail-copy"><div class="eyebrow">${esc(product.tag)} / ${esc(product.category.toUpperCase())}</div>
@@ -199,6 +211,7 @@ function openProduct(id) {
       <p>${esc(product.description)}</p><div class="detail-specs"><div><span>Fabric</span><b>${esc(product.fabric)}</b></div><div><span>Weight</span><b>${esc(product.gsm)}</b></div></div>
       <div class="variant-fields"><label>Colour<select id="detail-color">${colors.map((color) => `<option value="${esc(color)}">${esc(color)}</option>`).join('')}</select></label><label>Size<select id="detail-size" required><option value="" disabled selected>Select size</option></select></label><label>Quantity<input id="detail-quantity" type="number" min="1" max="100" value="1"></label></div>
       <p class="variant-availability" id="detail-availability" aria-live="polite">Choose a colour and size to check availability.</p>
+      <details class="product-help"><summary>Need help with sizing?</summary><p>Available sizes and live stock are listed above. Exact garment measurements are not published online yet. Message APRIA with this style and the fit you prefer before ordering.</p><a href="${esc(sizeHelpUrl)}" target="_blank" rel="noopener">Ask APRIA about fit ↗</a></details>
       <button class="button button-dark" data-cart-add="${esc(product.id)}" disabled>Add to shopping bag <span>＋</span></button><button class="detail-quote-button" data-add="${esc(product.id)}">Add to quote list ↗</button>
     </div></div>`;
   const colorInput = $('#detail-color'), sizeInput = $('#detail-size');
@@ -246,6 +259,7 @@ async function verifyPayment(order, payment) {
 }
 async function submitCheckout(form) {
   if (!state.cart.length || state.checkoutBusy) return;
+  if (!state.payment.configured) { checkoutStatus('Checkout status could not be confirmed. Refresh this page before sending an order or payment.', true); return; }
   if (!form.reportValidity()) return;
   const fields = Object.fromEntries(new FormData(form));
   const payload = {
@@ -263,7 +277,9 @@ async function submitCheckout(form) {
       const response = await fetch('/api/order-requests', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(orderRequest) });
       const result = await response.json().catch(() => ({}));
       if (!response.ok) throw new Error(result.error || 'Unable to save your order request. Please try again.');
-      checkoutStatus('Order request saved. No payment was taken. APRIA must confirm availability and arrange payment with you.');
+      const reference = result.id ? ` · reference ${String(result.id).slice(0, 8).toUpperCase()}` : '';
+      state.cart = []; saveCart(); form.reset();
+      checkoutStatus(`Order request saved${reference}. No payment was taken. APRIA will confirm stock, the final total and delivery estimate before arranging payment.`);
     } catch (error) {
       checkoutStatus(error.message.includes('Failed to fetch') ? 'Could not reach APRIA. Your bag is still saved; please contact us to arrange your order.' : error.message, true);
     } finally {
@@ -438,33 +454,51 @@ if (introVideo && introPlay && introSound) {
 }
 $('#year').textContent = new Date().getFullYear(); saveQuote();
 renderCart();
+fetch('/api/customer/session', { credentials: 'same-origin' }).then((response) => response.ok ? response.json() : null).then((account) => {
+  if (!account?.authenticated) return;
+  const name = $('#checkout-form [name="name"]'), email = $('#checkout-form [name="email"]');
+  if (name && !name.value) name.value = account.user.name;
+  if (email && !email.value) email.value = account.user.email;
+}).catch(() => {});
 fetch('/api/products').then((response) => { if (!response.ok) throw new Error(); return response.json(); })
   .then((data) => { state.products = Array.isArray(data) ? data : data.products; renderProducts(); renderWeightProducts(); saveQuote(); saveCart(); })
   .catch(() => { $('#product-grid').innerHTML = '<div class="loading">The collection is taking a moment. Refresh the page to try again.</div>'; });
 fetch('/api/config').then((response) => response.json()).then(({ whatsappNumber }) => {
   const number = /^\d{8,15}$/.test(whatsappNumber || '') ? whatsappNumber : DEFAULT_WHATSAPP_NUMBER;
+  state.whatsappNumber = number;
   const formatted = `+${number.slice(0, 2)} ${number.slice(2, 7)} ${number.slice(7)}`;
   const message = (text) => `https://wa.me/${number}?text=${encodeURIComponent(text)}`;
   $('#whatsapp-link').href = message("Hi APRIA, I'd like to discuss an apparel enquiry.");
   $('#whatsapp-link small').textContent = `Message APRIA about your idea · ${formatted}`;
+  const policyLink = $('#faq-policy-link');
+  if (policyLink) { policyLink.href = message('Hi APRIA, please confirm delivery and return or exchange terms for a garment.'); policyLink.target = '_blank'; policyLink.rel = 'noopener'; }
   const checkoutHelp = $('#checkout-help-link');
   checkoutHelp.href = message('Hi APRIA, I need help with my order or payment.');
   checkoutHelp.target = '_blank';
   checkoutHelp.rel = 'noopener';
 }).catch(() => {
   const number = DEFAULT_WHATSAPP_NUMBER;
-  $('#whatsapp-link').href = `https://wa.me/${number}?text=${encodeURIComponent("Hi APRIA, I'd like to discuss an apparel enquiry.")}`;
+  const message = (text) => `https://wa.me/${number}?text=${encodeURIComponent(text)}`;
+  $('#whatsapp-link').href = message("Hi APRIA, I'd like to discuss an apparel enquiry.");
   $('#whatsapp-link small').textContent = 'Message APRIA about your idea · +91 78883 29606';
+  const policyLink = $('#faq-policy-link');
+  if (policyLink) { policyLink.href = message('Hi APRIA, please confirm delivery and return or exchange terms for a garment.'); policyLink.target = '_blank'; policyLink.rel = 'noopener'; }
   const checkoutHelp = $('#checkout-help-link');
-  checkoutHelp.href = `https://wa.me/${number}?text=${encodeURIComponent('Hi APRIA, I need help with my order or payment.')}`;
+  checkoutHelp.href = message('Hi APRIA, I need help with my order or payment.');
   checkoutHelp.target = '_blank';
   checkoutHelp.rel = 'noopener';
 });
-fetch('/api/payment/config').then((response) => response.json()).then((config) => {
-  state.payment = { ...state.payment, ...config };
-  checkoutStatus(config.enabled ? 'Secure UPI checkout is ready. Delivery is calculated at checkout.' : 'Online UPI is not enabled. You can still send an order request; APRIA will confirm payment options.');
+fetch('/api/payment/config').then((response) => {
+  if (!response.ok) throw new Error('Payment configuration unavailable');
+  return response.json();
+}).then((config) => {
+  if (typeof config.enabled !== 'boolean') throw new Error('Payment configuration invalid');
+  state.payment = { ...state.payment, ...config, enabled: config.enabled, configured: true, loadFailed: false };
+  checkoutStatus('');
   renderCart();
 }).catch(() => {
-  checkoutStatus('Payment setup could not be reached. You can still send an order request; no payment will be taken.', true);
+  state.payment.configured = false;
+  state.payment.loadFailed = true;
+  checkoutStatus('');
   renderCart();
 });

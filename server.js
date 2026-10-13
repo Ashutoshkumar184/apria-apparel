@@ -16,10 +16,11 @@ try {
   }
 } catch {}
 const adminLocal = require('./admin-local.cjs');
+const customerAuth = require('./customer-local.cjs');
 const PORT = Number(process.env.PORT || 3000);
 const HOST = process.env.HOST || '0.0.0.0';
 
-const mime = { '.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.mp4':'video/mp4' };
+const mime = { '.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.txt':'text/plain; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.mp4':'video/mp4' };
 function send(res, status, data, type='application/json; charset=utf-8') { res.writeHead(status, { 'Content-Type':type, 'X-Content-Type-Options':'nosniff', 'Referrer-Policy':'strict-origin-when-cross-origin', 'Cache-Control':'no-store' }); res.end(typeof data === 'string' ? data : JSON.stringify(data)); }
 function readBody(req) { return new Promise((resolve, reject) => { let body=''; req.on('data', c => { body += c; if (body.length > 20_000) { reject(new Error('Request too large')); req.destroy(); } }); req.on('end', () => { try { resolve(JSON.parse(body || '{}')); } catch { reject(new Error('Invalid JSON')); } }); req.on('error', reject); }); }
 function clean(value, max=500) { return typeof value === 'string' ? value.trim().slice(0,max) : ''; }
@@ -98,6 +99,10 @@ function verifyRazorpaySignature(orderId, paymentId, signature, secret) {
 const server = http.createServer(async (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   if (url.pathname === '/admin' || url.pathname === '/admin/' || url.pathname === '/admin/setup') url.pathname = '/admin.html';
+  if (url.pathname === '/account' || url.pathname === '/account/') url.pathname = '/account.html';
+  if (url.pathname.startsWith('/api/customer/')) {
+    if (await customerAuth.handleCustomerRequest(req, res, url)) return;
+  }
   if (url.pathname.startsWith('/api/admin/') || (url.pathname === '/api/order-requests' && req.method === 'POST')) {
     await adminLocal.handleAdminRequest(req, res, url);
     return;

@@ -1,5 +1,6 @@
 const MAX_BODY = 20_000;
 import { handleAdminRequest, publicProducts, publicSettings, createStockReservation, resolveStockReservation, reconcileExpiredReservations } from './admin-worker.mjs';
+import { handleCustomerRequest } from './customer-worker.mjs';
 // build-dashboard-worker.js replaces this empty object with the public files
 // for a dashboard-only deploy. Wrangler deployments instead use env.ASSETS.
 const EMBEDDED_ASSETS = {};
@@ -105,9 +106,12 @@ async function serveAsset(request, env, pathname) {
 }
 async function route(request, env) {
   const url = new URL(request.url);
+  if (url.pathname === '/account' || url.pathname === '/account/') return serveAsset(request, env, '/account.html');
   if (url.pathname === '/admin' || url.pathname === '/admin/' || url.pathname === '/admin/setup') return serveAsset(request, env, '/admin.html');
   const adminResponse = await handleAdminRequest(request, env, url);
   if (adminResponse) return adminResponse;
+  const customerResponse = await handleCustomerRequest(request, env, url);
+  if (customerResponse) return customerResponse;
   if (url.pathname === '/api/health' && request.method === 'GET') {
     return Response.json({ ok: true, service: 'APRIA', time: new Date().toISOString() }, { headers: corsHeaders });
   }

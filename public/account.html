@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#edf1ec">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="Sign in or create your APRIA customer account.">
+  <title>Your APRIA account — APRIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/glass.css">
+  <link rel="stylesheet" href="/account.css">
+  <script src="/account.js" defer></script>
+</head>
+<body class="account-page">
+  <a class="skip-link" href="#main">Skip to account form</a>
+  <header class="account-header">
+    <a class="wordmark account-wordmark" href="/" aria-label="APRIA home">APRIA<span>®</span><small>GARMENT STUDIO / 001</small></a>
+    <a class="account-return" href="/#shop">Back to the collection <span aria-hidden="true">↗</span></a>
+  </header>
+  <main class="account-main" id="main">
+    <aside class="account-aside" aria-label="APRIA account introduction">
+      <div class="account-orbit" aria-hidden="true"><span>AP</span><i></i><b></b></div>
+      <p class="eyebrow">APRIA / YOUR GARMENT DESK</p>
+      <h1>A little closer<br>to <em>what fits.</em></h1>
+      <p class="account-intro">Keep your name and email ready for checkout. Your delivery address is entered when you place an order.</p>
+      <div class="account-aside-note"><span class="signal-dot" aria-hidden="true"></span><span>One account. A smoother next visit.</span></div>
+    </aside>
+    <section class="account-card" aria-labelledby="account-title">
+      <div class="account-card-top"><span class="eyebrow" id="account-kicker">YOUR APRIA ACCOUNT</span><span class="account-card-index">AP / 07</span></div>
+      <div id="auth-panel">
+        <h2 id="account-title">Welcome back.</h2>
+        <p class="account-card-copy" id="account-copy">Sign in or create an account to make checkout a little easier.</p>
+        <div class="account-tabs" role="tablist" aria-label="Account access">
+          <button class="account-tab active" type="button" role="tab" id="tab-login" aria-selected="true" aria-controls="login-panel">Sign in</button>
+          <button class="account-tab" type="button" role="tab" id="tab-register" aria-selected="false" aria-controls="register-panel">Create account</button>
+        </div>
+        <form class="account-form" id="login-panel" role="tabpanel" aria-labelledby="tab-login" novalidate>
+          <label>Email address<input name="email" type="email" autocomplete="email" inputmode="email" maxlength="200" required placeholder="you@example.com"></label>
+          <label>Password<input name="password" type="password" autocomplete="current-password" minlength="12" maxlength="128" required placeholder="At least 12 characters"></label>
+          <button class="button button-dark account-submit" type="submit">Sign in <span aria-hidden="true">↗</span></button>
+        </form>
+        <form class="account-form" id="register-panel" role="tabpanel" aria-labelledby="tab-register" hidden novalidate>
+          <label>Your name<input name="name" autocomplete="name" maxlength="120" required placeholder="Name you go by"></label>
+          <label>Email address<input name="email" type="email" autocomplete="email" inputmode="email" maxlength="200" required placeholder="you@example.com"></label>
+          <label>Create a password<input name="password" type="password" autocomplete="new-password" minlength="12" maxlength="128" required placeholder="Use 12 characters or more"><small>Choose a password between 12 and 128 characters.</small></label>
+          <button class="button button-dark account-submit" type="submit">Create my account <span aria-hidden="true">↗</span></button>
+        </form>
+        <p class="account-status" id="account-status" role="status" aria-live="polite"></p>
+        <p class="account-privacy">Your password is stored as a secure hash. APRIA will never ask for it over WhatsApp.</p>
+      </div>
+      <section class="account-signed-in" id="signed-in-panel" aria-labelledby="signed-in-title" hidden>
+        <div class="signed-in-mark" aria-hidden="true">✓</div>
+        <h2 id="signed-in-title">You’re signed in.</h2>
+        <p class="account-card-copy">Your account is ready for your next APRIA checkout.</p>
+        <dl class="account-details"><div><dt>Name</dt><dd id="customer-name"></dd></div><div><dt>Email</dt><dd id="customer-email"></dd></div></dl>
+        <a class="button button-dark account-submit" href="/#shop">Explore the collection <span aria-hidden="true">↗</span></a>
+        <button class="account-signout" id="sign-out" type="button">Sign out</button>
+        <p class="account-status" id="signed-in-status" role="status" aria-live="polite"></p>
+      </section>
+      <div class="account-card-foot"><span>APRIA / 001</span><span>MADE FOR THE DAYS AHEAD</span></div>
+    </section>
+  </main>
+  <footer class="account-footer"><a href="/">APRIA home</a><span>GARMENTS FOR THE DAYS AHEAD</span><a href="/#custom">Talk to the studio</a></footer>
+</body>
+</html>

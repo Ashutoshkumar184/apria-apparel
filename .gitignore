@@ -11,3 +11,6 @@ work/
 .wrangler-profile/
 outputs/
 *.log
+
+.apria-tooling/
+.apria-npm-cache/
