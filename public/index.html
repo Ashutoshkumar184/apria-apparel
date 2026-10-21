@@ -26,6 +26,9 @@
 
   <main id="main">
     <section class="hero" id="home" aria-labelledby="hero-title">
+      <video class="hero-background-film" id="hero-intro-video" muted loop playsinline preload="none" poster="/media/apria-intro-poster.jpg" aria-hidden="true">
+        <source src="/media/apria-intro.mp4" type="video/mp4">
+      </video>
       <div class="hero-grid" aria-hidden="true"></div>
       <div class="hero-copy">
         <p class="eyebrow light"><span class="eyebrow-mark">✳</span> APRIA / GARMENT SIGNAL 001</p>
@@ -34,17 +37,11 @@
         <div class="hero-actions"><a class="button button-light" href="#shop">Explore the collection <span aria-hidden="true">↘</span></a><a class="text-link light-link" href="#custom">Making for your team or label? <span aria-hidden="true">↗</span></a></div>
         <div class="hero-note"><span>READY TO WEAR</span><span class="note-line"></span><span>MADE WITH YOU</span></div>
       </div>
-      <div class="instrument-wrap" role="group" aria-label="APRIA garment film framed by the orbital weave signal">
-        <video class="instrument-film" id="hero-intro-video" muted loop playsinline preload="none" poster="/media/apria-intro-poster.jpg" aria-hidden="true">
-          <source src="/media/apria-intro.mp4" type="video/mp4">
-        </video>
+      <div class="instrument-wrap" role="group" aria-label="APRIA orbital weave signal over the intro film">
         <div class="instrument-halo"></div>
         <svg class="weave-instrument" viewBox="0 0 680 680" role="img" aria-labelledby="instrument-title instrument-desc">
           <title id="instrument-title">The APRIA weave signal</title>
-          <desc id="instrument-desc">A hand-drawn garment form sits inside concentric orbital threads, representing the relationship between fabric, fit, and the person wearing it.</desc>
-          <defs>
-            <clipPath id="garment-clip"><path d="M275 242 313 222 340 250 367 222 405 242 440 286 407 305 393 284 394 424 286 424 287 284 273 305 240 286Z"/></clipPath>
-          </defs>
+          <desc id="instrument-desc">Concentric orbital threads, crossing stitch paths, and small signal points form a technical field over the APRIA intro film.</desc>
           <circle class="instrument-ring ring-one" cx="340" cy="340" r="250"/>
           <circle class="instrument-ring ring-two" cx="340" cy="340" r="218"/>
           <circle class="instrument-ring ring-three" cx="340" cy="340" r="177"/>
@@ -53,13 +50,6 @@
           <ellipse class="instrument-orbit orbit-three" cx="340" cy="340" rx="245" ry="157" transform="rotate(-43 340 340)"/>
           <path class="thread-path thread-a" d="M119 286c72-86 143-118 221-94s150 105 222 196M111 366c81 61 154 89 229 70s154-86 229-197M174 152c37 89 73 157 132 203s124 83 198 173"/>
           <path class="thread-path thread-b" d="M145 454c82-54 151-132 189-225s46-142 70-194M229 539c39-92 97-174 183-239s123-77 163-119M90 334c105-37 183-55 252-44s139 51 238 103"/>
-          <path class="garment-shadow" d="M275 242 313 222 340 250 367 222 405 242 440 286 407 305 393 284 394 424 286 424 287 284 273 305 240 286Z"/>
-          <path class="garment-form" d="M275 242 313 222 340 250 367 222 405 242 440 286 407 305 393 284 394 424 286 424 287 284 273 305 240 286Z"/>
-          <g clip-path="url(#garment-clip)" class="garment-weave">
-            <path d="M245 277c61 35 128 39 205 5M234 302c68 35 136 41 217 8M227 328c73 37 148 42 227 9M228 355c73 37 148 41 230 8M231 382c74 36 149 38 231 5M239 408c72 32 144 32 219-3"/>
-            <path d="M276 208c7 73 8 145 4 220M299 212c7 73 9 145 7 218M323 216c6 73 8 145 7 215M347 216c5 73 7 145 7 215M371 213c4 73 6 145 7 217M393 220c4 73 6 145 9 218"/>
-          </g>
-          <path class="garment-seam" d="m313 222 27 28 27-28M287 284l-1 140m108-140 1 140M340 250v41"/>
           <circle class="signal-point point-a" cx="340" cy="90" r="5"/>
           <circle class="signal-point point-b" cx="590" cy="340" r="4"/>
           <circle class="signal-point point-c" cx="162" cy="520" r="4"/>
