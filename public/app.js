@@ -417,6 +417,8 @@ const introPlay = $('#intro-film-toggle');
 const introSound = $('#intro-sound-toggle');
 if (introVideo && introPlay && introSound) {
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  let introInView = false;
+  let pausedByVisitor = false;
   const syncPlayControl = () => {
     const playing = !introVideo.paused && !introVideo.ended;
     const label = playing ? 'Pause film' : introVideo.ended ? 'Replay film' : 'Play film';
@@ -430,9 +432,18 @@ if (introVideo && introPlay && introSound) {
     const playback = introVideo.play();
     if (playback && typeof playback.catch === 'function') playback.catch(syncPlayControl);
   };
+  const playWhenVisible = () => {
+    if (!introInView || document.hidden || reducedMotion.matches || pausedByVisitor) return;
+    requestIntroPlay();
+  };
   introPlay.addEventListener('click', () => {
-    if (introVideo.paused || introVideo.ended) requestIntroPlay();
-    else introVideo.pause();
+    if (introVideo.paused || introVideo.ended) {
+      pausedByVisitor = false;
+      requestIntroPlay();
+    } else {
+      pausedByVisitor = true;
+      introVideo.pause();
+    }
   });
   introVideo.addEventListener('play', syncPlayControl);
   introVideo.addEventListener('pause', syncPlayControl);
@@ -444,13 +455,28 @@ if (introVideo && introPlay && introSound) {
     introSound.setAttribute('aria-label', soundOn ? 'Turn intro sound off' : 'Turn intro sound on');
     introSound.querySelector('[data-sound-label]').textContent = soundOn ? 'Sound on' : 'Sound off';
   });
-  if (!reducedMotion.matches) requestIntroPlay();
+  if ('IntersectionObserver' in window) {
+    const introObserver = new IntersectionObserver((entries) => {
+      const entry = entries[0];
+      introInView = Boolean(entry?.isIntersecting && entry.intersectionRatio >= 0.2);
+      if (introInView) playWhenVisible();
+      else introVideo.pause();
+    }, { threshold: [0, 0.2, 0.5] });
+    introObserver.observe(introVideo);
+  } else {
+    introInView = true;
+    playWhenVisible();
+  }
   if (typeof reducedMotion.addEventListener === 'function') {
     reducedMotion.addEventListener('change', (event) => {
       if (event.matches) { introVideo.pause(); introVideo.currentTime = 0; }
+      else playWhenVisible();
     });
   }
-  document.addEventListener('visibilitychange', () => { if (document.hidden) introVideo.pause(); });
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) introVideo.pause();
+    else playWhenVisible();
+  });
 }
 $('#year').textContent = new Date().getFullYear(); saveQuote();
 renderCart();
@@ -502,3 +528,4 @@ fetch('/api/payment/config').then((response) => {
   checkoutStatus('');
   renderCart();
 });
+
